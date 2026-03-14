@@ -1,0 +1,1281 @@
+pathway,reactome_id,regime,n_genes,cluster_id,cluster_size,is_cluster_representative
+Complex I biogenesis,R-HSA-6799198,Buffered,68,Buffered_1,1,TRUE
+DNA strand elongation,R-HSA-69190,Buffered,32,Buffered_2,6,FALSE
+Digestion and absorption,R-HSA-8963743,Buffered,28,Buffered_3,1,TRUE
+Lagging Strand Synthesis,R-HSA-69186,Buffered,20,Buffered_2,6,FALSE
+Metabolism of porphyrins,R-HSA-189445,Buffered,28,Buffered_4,1,TRUE
+Mitochondrial ribosome-associated quality control,R-HSA-9937383,Buffered,114,Buffered_5,5,FALSE
+Mitochondrial tRNA aminoacylation,R-HSA-379726,Buffered,21,Buffered_6,2,FALSE
+Mitochondrial translation,R-HSA-5368287,Buffered,137,Buffered_5,5,TRUE
+Mitochondrial translation elongation,R-HSA-5389840,Buffered,104,Buffered_5,5,FALSE
+Mitochondrial translation initiation,R-HSA-5368286,Buffered,104,Buffered_5,5,FALSE
+Mitochondrial translation termination,R-HSA-5419276,Buffered,105,Buffered_5,5,FALSE
+Polymerase switching on the C-strand of the telomere,R-HSA-174411,Buffered,26,Buffered_2,6,FALSE
+Processive synthesis on the C-strand of the telomere,R-HSA-174414,Buffered,19,Buffered_2,6,FALSE
+Removal of the Flap Intermediate from the C-strand,R-HSA-174437,Buffered,17,Buffered_2,6,FALSE
+Telomere C-strand (Lagging Strand) Synthesis,R-HSA-174417,Buffered,34,Buffered_2,6,TRUE
+Translesion synthesis by REV1,R-HSA-110312,Buffered,16,Buffered_7,1,TRUE
+tRNA Aminoacylation,R-HSA-379724,Buffered,42,Buffered_6,2,TRUE
+ABC transporter disorders,R-HSA-5619084,Equilibrium,65,Equilibrium_1,87,FALSE
+ABC-family proteins mediated transport,R-HSA-382556,Equilibrium,90,Equilibrium_1,87,FALSE
+ADORA2B mediated anti-inflammatory cytokines production,R-HSA-9660821,Equilibrium,43,Equilibrium_2,43,FALSE
+ADP signalling through P2Y purinoceptor 1,R-HSA-418592,Equilibrium,25,Equilibrium_2,43,FALSE
+ADP signalling through P2Y purinoceptor 12,R-HSA-392170,Equilibrium,22,Equilibrium_2,43,FALSE
+AMPK-induced ERAD and lysosome mediated degradation of PD-L1(CD274),R-HSA-9931269,Equilibrium,55,Equilibrium_1,87,FALSE
+APC-Cdc20 mediated degradation of Nek2A,R-HSA-179409,Equilibrium,26,Equilibrium_3,9,FALSE
+APC/C-mediated degradation of cell cycle proteins,R-HSA-174143,Equilibrium,75,Equilibrium_1,87,FALSE
+APC/C:Cdc20 mediated degradation of Cyclin B,R-HSA-174048,Equilibrium,24,Equilibrium_3,9,FALSE
+APC/C:Cdc20 mediated degradation of Securin,R-HSA-174154,Equilibrium,55,Equilibrium_1,87,FALSE
+APC/C:Cdc20 mediated degradation of mitotic proteins,R-HSA-176409,Equilibrium,63,Equilibrium_1,87,FALSE
+APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1,R-HSA-174178,Equilibrium,61,Equilibrium_1,87,FALSE
+APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint,R-HSA-179419,Equilibrium,61,Equilibrium_1,87,FALSE
+ATF4 activates genes in response to endoplasmic reticulum  stress,R-HSA-380994,Equilibrium,27,Equilibrium_4,2,FALSE
+AUF1 (hnRNP D0) binds and destabilizes mRNA,R-HSA-450408,Equilibrium,42,Equilibrium_1,87,FALSE
+AURKA Activation by TPX2,R-HSA-8854518,Equilibrium,72,Equilibrium_5,8,FALSE
+Aberrant regulation of mitotic cell cycle due to RB1 defects,R-HSA-9687139,Equilibrium,36,Equilibrium_3,9,FALSE
+Aberrant regulation of mitotic exit in cancer due to RB1 defects,R-HSA-9687136,Equilibrium,20,Equilibrium_3,9,FALSE
+Abortive elongation of HIV-1 transcript in the absence of Tat,R-HSA-167242,Equilibrium,23,Equilibrium_6,70,FALSE
+Activated NOTCH1 Transmits Signal to the Nucleus,R-HSA-2122948,Equilibrium,31,Equilibrium_7,5,FALSE
+Activation of AMPK downstream of NMDARs,R-HSA-9619483,Equilibrium,29,Equilibrium_8,12,FALSE
+Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins,R-HSA-176814,Equilibrium,64,Equilibrium_1,87,FALSE
+Activation of ATR in response to replication stress,R-HSA-176187,Equilibrium,37,Equilibrium_9,1,TRUE
+Activation of BAD and translocation to mitochondria,R-HSA-111447,Equilibrium,15,Equilibrium_10,3,FALSE
+Activation of BH3-only proteins,R-HSA-114452,Equilibrium,30,Equilibrium_10,3,FALSE
+Activation of G protein gated Potassium channels,R-HSA-1296041,Equilibrium,29,Equilibrium_2,43,FALSE
+Activation of GABAB receptors,R-HSA-991365,Equilibrium,43,Equilibrium_2,43,FALSE
+Activation of HOX genes during differentiation,R-HSA-5619507,Equilibrium,91,Equilibrium_11,2,TRUE
+"Activation of IRF3, IRF7 mediated by TBK1, IKKε (IKBKE)",R-HSA-936964,Equilibrium,18,Equilibrium_12,1,TRUE
+Activation of Matrix Metalloproteinases,R-HSA-1592389,Equilibrium,33,Equilibrium_13,1,TRUE
+Activation of NF-kappaB in B cells,R-HSA-1169091,Equilibrium,54,Equilibrium_1,87,FALSE
+Activation of NMDA receptors and postsynaptic events,R-HSA-442755,Equilibrium,94,Equilibrium_14,2,TRUE
+Activation of SMO,R-HSA-5635838,Equilibrium,18,Equilibrium_15,1,TRUE
+Activation of anterior HOX genes in hindbrain development during early embryogenesis,R-HSA-5617472,Equilibrium,91,Equilibrium_11,2,FALSE
+Activation of gene expression by SREBF (SREBP),R-HSA-2426168,Equilibrium,42,Equilibrium_16,2,FALSE
+Activation of kainate receptors upon glutamate binding,R-HSA-451326,Equilibrium,30,Equilibrium_2,43,FALSE
+Activation of the pre-replicative complex,R-HSA-68962,Equilibrium,33,Equilibrium_17,1,TRUE
+Acyl chain remodelling of PC,R-HSA-1482788,Equilibrium,27,Equilibrium_18,3,FALSE
+Acyl chain remodelling of PE,R-HSA-1482839,Equilibrium,29,Equilibrium_18,3,TRUE
+Acyl chain remodelling of PS,R-HSA-1482801,Equilibrium,22,Equilibrium_18,3,FALSE
+Adherens junctions interactions,R-HSA-418990,Equilibrium,217,Equilibrium_19,6,FALSE
+Adipogenesis,R-HSA-9843745,Equilibrium,110,Equilibrium_20,2,TRUE
+"Adrenaline,noradrenaline inhibits insulin secretion",R-HSA-400042,Equilibrium,28,Equilibrium_2,43,FALSE
+Aerobic respiration and respiratory electron transport,R-HSA-1428517,Equilibrium,261,Equilibrium_21,2,TRUE
+Aggrephagy,R-HSA-9646399,Equilibrium,44,Equilibrium_22,1,TRUE
+Amine ligand-binding receptors,R-HSA-375280,Equilibrium,43,Equilibrium_23,1,TRUE
+Amino acid transport across the plasma membrane,R-HSA-352230,Equilibrium,32,Equilibrium_24,2,FALSE
+Amino acids regulate mTORC1,R-HSA-9639288,Equilibrium,55,Equilibrium_25,1,TRUE
+Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal,R-HSA-141444,Equilibrium,94,Equilibrium_26,10,FALSE
+Amplification of signal from the kinetochores,R-HSA-141424,Equilibrium,94,Equilibrium_26,10,FALSE
+Amyloid fiber formation,R-HSA-977225,Equilibrium,80,Equilibrium_27,1,TRUE
+Anchoring of the basal body to the plasma membrane,R-HSA-5620912,Equilibrium,97,Equilibrium_5,8,TRUE
+Anti-inflammatory response favouring Leishmania parasite infection,R-HSA-9662851,Equilibrium,159,Equilibrium_28,20,FALSE
+"Antigen Presentation: Folding, assembly and peptide loading of class I MHC",R-HSA-983170,Equilibrium,31,Equilibrium_29,1,TRUE
+Antigen activates B Cell Receptor (BCR) leading to generation of second messengers,R-HSA-983695,Equilibrium,95,Equilibrium_28,20,FALSE
+Antigen processing-Cross presentation,R-HSA-1236975,Equilibrium,101,Equilibrium_30,2,TRUE
+"Antigen processing: Ub, ATP-independent proteasomal degradation",R-HSA-9912633,Equilibrium,19,Equilibrium_31,1,TRUE
+Antigen processing: Ubiquitination & Proteasome degradation,R-HSA-983168,Equilibrium,296,Equilibrium_32,1,TRUE
+Antimicrobial mechanism of IFN-stimulated genes,R-HSA-1169410,Equilibrium,173,Equilibrium_33,2,FALSE
+Antimicrobial peptides,R-HSA-6803157,Equilibrium,95,Equilibrium_34,3,TRUE
+Apoptosis,R-HSA-109581,Equilibrium,168,Equilibrium_35,2,FALSE
+Apoptotic cleavage of cellular proteins,R-HSA-111465,Equilibrium,38,Equilibrium_36,2,FALSE
+Apoptotic execution phase,R-HSA-75153,Equilibrium,52,Equilibrium_36,2,TRUE
+Apoptotic factor-mediated response,R-HSA-111471,Equilibrium,20,Equilibrium_37,1,TRUE
+Aquaporin-mediated transport,R-HSA-445717,Equilibrium,52,Equilibrium_2,43,FALSE
+Arachidonate metabolism,R-HSA-2142753,Equilibrium,59,Equilibrium_38,1,TRUE
+Aspirin ADME,R-HSA-9749641,Equilibrium,44,Equilibrium_39,1,TRUE
+Assembly Of The HIV Virion,R-HSA-175474,Equilibrium,24,Equilibrium_40,3,FALSE
+Assembly and cell surface presentation of NMDA receptors,R-HSA-9609736,Equilibrium,44,Equilibrium_41,1,TRUE
+Assembly of active LPL and LIPC lipase complexes,R-HSA-8963889,Equilibrium,19,Equilibrium_42,2,FALSE
+Assembly of collagen fibrils and other multimeric structures,R-HSA-2022090,Equilibrium,61,Equilibrium_43,5,FALSE
+Assembly of the pre-replicative complex,R-HSA-68867,Equilibrium,101,Equilibrium_1,87,FALSE
+Association of TriC/CCT with target proteins during biosynthesis,R-HSA-390471,Equilibrium,39,Equilibrium_44,1,TRUE
+Asymmetric localization of PCP proteins,R-HSA-4608870,Equilibrium,51,Equilibrium_1,87,FALSE
+Attachment and Entry_9694614,R-HSA-9694614,Equilibrium,26,Equilibrium_45,2,FALSE
+Attachment of bacteria to epithelial cells,R-HSA-9638630,Equilibrium,29,Equilibrium_46,2,FALSE
+Attenuation phase,R-HSA-3371568,Equilibrium,29,Equilibrium_47,3,FALSE
+Autodegradation of Cdh1 by Cdh1:APC/C,R-HSA-174084,Equilibrium,54,Equilibrium_1,87,FALSE
+Autophagy,R-HSA-9612973,Equilibrium,160,Equilibrium_48,3,TRUE
+Azathioprine ADME,R-HSA-9748787,Equilibrium,23,Equilibrium_49,1,TRUE
+B-WICH complex positively regulates rRNA expression,R-HSA-5250924,Equilibrium,59,Equilibrium_50,13,FALSE
+BBSome-mediated cargo-targeting to cilium,R-HSA-5620922,Equilibrium,23,Equilibrium_51,1,TRUE
+Bacterial Infection Pathways,R-HSA-9824439,Equilibrium,292,Equilibrium_52,2,TRUE
+Base Excision Repair,R-HSA-73884,Equilibrium,71,Equilibrium_53,20,FALSE
+Basigin interactions,R-HSA-210991,Equilibrium,25,Equilibrium_54,1,TRUE
+Beta defensins,R-HSA-1461957,Equilibrium,39,Equilibrium_34,3,FALSE
+Beta-catenin independent WNT signaling,R-HSA-3858494,Equilibrium,134,Equilibrium_1,87,FALSE
+Beta-catenin phosphorylation cascade,R-HSA-196299,Equilibrium,17,Equilibrium_55,8,FALSE
+Bile acid and bile salt metabolism,R-HSA-194068,Equilibrium,44,Equilibrium_56,3,TRUE
+Binding and Uptake of Ligands by Scavenger Receptors,R-HSA-2173782,Equilibrium,126,Equilibrium_28,20,FALSE
+Biofilm formation,R-HSA-9931953,Equilibrium,36,Equilibrium_46,2,TRUE
+Biological oxidations,R-HSA-211859,Equilibrium,217,Equilibrium_57,1,TRUE
+Biosynthesis of DHA-derived SPMs,R-HSA-9018677,Equilibrium,17,Equilibrium_58,2,FALSE
+Biosynthesis of specialized proresolving mediators (SPMs),R-HSA-9018678,Equilibrium,19,Equilibrium_58,2,TRUE
+"Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein",R-HSA-446193,Equilibrium,80,Equilibrium_59,3,TRUE
+Branched-chain amino acid catabolism,R-HSA-70895,Equilibrium,21,Equilibrium_60,1,TRUE
+Budding and maturation of HIV virion,R-HSA-162588,Equilibrium,36,Equilibrium_40,3,TRUE
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,R-HSA-450385,Equilibrium,17,Equilibrium_61,3,TRUE
+C-type lectin receptors (CLRs),R-HSA-5621481,Equilibrium,131,Equilibrium_1,87,FALSE
+CD209 (DC-SIGN) signaling,R-HSA-5621575,Equilibrium,21,Equilibrium_62,1,TRUE
+CD28 dependent PI3K/Akt signaling,R-HSA-389357,Equilibrium,29,Equilibrium_63,2,FALSE
+CDC42 GTPase cycle,R-HSA-9013148,Equilibrium,155,Equilibrium_64,2,FALSE
+CDK-mediated phosphorylation and removal of Cdc6,R-HSA-69017,Equilibrium,60,Equilibrium_1,87,FALSE
+CLEC7A (Dectin-1) signaling,R-HSA-5607764,Equilibrium,87,Equilibrium_1,87,FALSE
+COPI-dependent Golgi-to-ER retrograde traffic,R-HSA-6811434,Equilibrium,102,Equilibrium_65,4,FALSE
+COPI-independent Golgi-to-ER retrograde traffic,R-HSA-6811436,Equilibrium,53,Equilibrium_66,2,FALSE
+COPI-mediated anterograde transport,R-HSA-6807878,Equilibrium,102,Equilibrium_67,3,FALSE
+COPII-mediated vesicle transport,R-HSA-204005,Equilibrium,69,Equilibrium_68,1,TRUE
+CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling,R-HSA-442742,Equilibrium,28,Equilibrium_69,5,TRUE
+CRMPs in Sema3A signaling,R-HSA-399956,Equilibrium,16,Equilibrium_70,1,TRUE
+CS-GAG biosynthesis,R-HSA-2022870,Equilibrium,21,Equilibrium_71,3,FALSE
+CS/DS degradation,R-HSA-2024101,Equilibrium,20,Equilibrium_71,3,FALSE
+CTNNB1 S33 mutants aren't phosphorylated,R-HSA-5358747,Equilibrium,15,Equilibrium_55,8,FALSE
+CTNNB1 S37 mutants aren't phosphorylated,R-HSA-5358749,Equilibrium,15,Equilibrium_55,8,FALSE
+CTNNB1 S45 mutants aren't phosphorylated,R-HSA-5358751,Equilibrium,15,Equilibrium_55,8,FALSE
+CTNNB1 T41 mutants aren't phosphorylated,R-HSA-5358752,Equilibrium,15,Equilibrium_55,8,FALSE
+Ca-dependent events,R-HSA-111996,Equilibrium,37,Equilibrium_2,43,FALSE
+Ca2+ pathway,R-HSA-4086398,Equilibrium,63,Equilibrium_72,1,TRUE
+CaM pathway,R-HSA-111997,Equilibrium,35,Equilibrium_2,43,FALSE
+Calmodulin induced events,R-HSA-111933,Equilibrium,35,Equilibrium_2,43,FALSE
+Calnexin/calreticulin cycle,R-HSA-901042,Equilibrium,26,Equilibrium_73,3,FALSE
+Carboxyterminal post-translational modifications of tubulin,R-HSA-8955332,Equilibrium,46,Equilibrium_74,1,TRUE
+Cardiac conduction,R-HSA-5576891,Equilibrium,130,Equilibrium_75,2,FALSE
+Cardiogenesis,R-HSA-9733709,Equilibrium,27,Equilibrium_76,1,TRUE
+Cargo concentration in the ER,R-HSA-5694530,Equilibrium,33,Equilibrium_77,1,TRUE
+Cargo recognition for clathrin-mediated endocytosis,R-HSA-8856825,Equilibrium,105,Equilibrium_78,2,FALSE
+Cargo trafficking to the periciliary membrane,R-HSA-5620920,Equilibrium,71,Equilibrium_79,1,TRUE
+Caspase activation via Death Receptors in the presence of ligand,R-HSA-140534,Equilibrium,18,Equilibrium_80,2,FALSE
+Caspase activation via extrinsic apoptotic signalling pathway,R-HSA-5357769,Equilibrium,28,Equilibrium_80,2,TRUE
+Cdc20:Phospho-APC/C mediated degradation of Cyclin A,R-HSA-174184,Equilibrium,60,Equilibrium_1,87,FALSE
+Cell Cycle Checkpoints,R-HSA-69620,Equilibrium,273,Equilibrium_81,23,TRUE
+"Cell death signalling via NRAGE, NRIF and NADE",R-HSA-204998,Equilibrium,76,Equilibrium_82,5,FALSE
+Cell junction organization,R-HSA-446728,Equilibrium,277,Equilibrium_19,6,TRUE
+Cell recruitment (pro-inflammatory response),R-HSA-9664424,Equilibrium,27,Equilibrium_83,4,TRUE
+Cell surface interactions at the vascular wall,R-HSA-202733,Equilibrium,233,Equilibrium_84,1,TRUE
+Cell-cell junction organization,R-HSA-421270,Equilibrium,250,Equilibrium_19,6,FALSE
+Cell-extracellular matrix interactions,R-HSA-446353,Equilibrium,18,Equilibrium_85,1,TRUE
+Cellular Senescence,R-HSA-2559583,Equilibrium,166,Equilibrium_86,2,TRUE
+Cellular hexose transport,R-HSA-189200,Equilibrium,22,Equilibrium_87,1,TRUE
+Cellular response to chemical stress,R-HSA-9711123,Equilibrium,204,Equilibrium_88,3,TRUE
+Cellular response to heat stress,R-HSA-3371556,Equilibrium,103,Equilibrium_89,2,TRUE
+Cellular response to hypoxia,R-HSA-1234174,Equilibrium,62,Equilibrium_1,87,FALSE
+Cellular response to starvation,R-HSA-9711097,Equilibrium,161,Equilibrium_90,20,FALSE
+Cellular responses to mechanical stimuli,R-HSA-9855142,Equilibrium,103,Equilibrium_91,3,TRUE
+Centrosome maturation,R-HSA-380287,Equilibrium,81,Equilibrium_5,8,FALSE
+Chaperone Mediated Autophagy,R-HSA-9613829,Equilibrium,22,Equilibrium_92,1,TRUE
+Chaperonin-mediated protein folding,R-HSA-390466,Equilibrium,92,Equilibrium_93,2,FALSE
+Chemokine receptors bind chemokines,R-HSA-380108,Equilibrium,57,Equilibrium_94,1,TRUE
+Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex,R-HSA-75035,Equilibrium,15,Equilibrium_95,1,TRUE
+Cholesterol biosynthesis,R-HSA-191273,Equilibrium,27,Equilibrium_96,1,TRUE
+Chondroitin sulfate/dermatan sulfate metabolism,R-HSA-1793185,Equilibrium,37,Equilibrium_71,3,TRUE
+Chromatin modifying enzymes,R-HSA-3247509,Equilibrium,238,Equilibrium_97,2,FALSE
+Chromatin organization,R-HSA-4839726,Equilibrium,253,Equilibrium_97,2,TRUE
+Chromosome Maintenance,R-HSA-73886,Equilibrium,119,Equilibrium_98,5,TRUE
+Cilium Assembly,R-HSA-5617833,Equilibrium,201,Equilibrium_99,2,FALSE
+Circadian clock,R-HSA-9909396,Equilibrium,112,Equilibrium_100,1,TRUE
+Citric acid cycle (TCA cycle),R-HSA-71403,Equilibrium,34,Equilibrium_101,2,TRUE
+Class B/2 (Secretin family receptors),R-HSA-373080,Equilibrium,94,Equilibrium_102,1,TRUE
+Class C/3 (Metabotropic glutamate/pheromone receptors),R-HSA-420499,Equilibrium,40,Equilibrium_103,1,TRUE
+Class I peroxisomal membrane protein import,R-HSA-9603798,Equilibrium,20,Equilibrium_104,1,TRUE
+Clathrin-mediated endocytosis,R-HSA-8856828,Equilibrium,145,Equilibrium_78,2,TRUE
+Co-inhibition by CTLA4,R-HSA-389513,Equilibrium,21,Equilibrium_105,1,TRUE
+Co-inhibition by PD-1,R-HSA-389948,Equilibrium,205,Equilibrium_106,3,FALSE
+Co-stimulation by CD28,R-HSA-389356,Equilibrium,50,Equilibrium_63,2,TRUE
+"Cobalamin (Cbl, vitamin B12) transport and metabolism",R-HSA-196741,Equilibrium,22,Equilibrium_107,1,TRUE
+Collagen biosynthesis and modifying enzymes,R-HSA-1650814,Equilibrium,67,Equilibrium_43,5,FALSE
+Collagen chain trimerization,R-HSA-8948216,Equilibrium,44,Equilibrium_43,5,FALSE
+Collagen degradation,R-HSA-1442490,Equilibrium,64,Equilibrium_43,5,FALSE
+Collagen formation,R-HSA-1474290,Equilibrium,90,Equilibrium_43,5,TRUE
+Common Pathway of Fibrin Clot Formation,R-HSA-140875,Equilibrium,22,Equilibrium_108,3,FALSE
+Complement cascade,R-HSA-166658,Equilibrium,146,Equilibrium_28,20,FALSE
+Complex III assembly,R-HSA-9865881,Equilibrium,26,Equilibrium_109,1,TRUE
+Complex IV assembly,R-HSA-9864848,Equilibrium,48,Equilibrium_110,1,TRUE
+Constitutive Signaling by Aberrant PI3K in Cancer,R-HSA-2219530,Equilibrium,86,Equilibrium_111,4,FALSE
+Constitutive Signaling by EGFRvIII,R-HSA-5637810,Equilibrium,15,Equilibrium_112,15,FALSE
+Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants,R-HSA-1236382,Equilibrium,19,Equilibrium_112,15,FALSE
+Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants,R-HSA-2894862,Equilibrium,58,Equilibrium_113,7,FALSE
+Constitutive Signaling by NOTCH1 PEST Domain Mutants,R-HSA-2644606,Equilibrium,58,Equilibrium_113,7,FALSE
+Conversion from APC/C:Cdc20 to APC/C:Cdh1 in late anaphase,R-HSA-176407,Equilibrium,20,Equilibrium_3,9,FALSE
+Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding,R-HSA-6814122,Equilibrium,38,Equilibrium_2,43,FALSE
+Cooperation of Prefoldin and TriC/CCT  in actin and tubulin folding,R-HSA-389958,Equilibrium,33,Equilibrium_8,12,FALSE
+Cross-presentation of soluble exogenous antigens (endosomes),R-HSA-1236978,Equilibrium,42,Equilibrium_1,87,FALSE
+Crosslinking of collagen fibrils,R-HSA-2243919,Equilibrium,18,Equilibrium_114,1,TRUE
+Cyclin A/B1/B2 associated events during G2/M transition,R-HSA-69273,Equilibrium,32,Equilibrium_115,1,TRUE
+Cyclin A:Cdk2-associated events at S phase entry,R-HSA-69656,Equilibrium,75,Equilibrium_1,87,FALSE
+Cyclin D associated events in G1,R-HSA-69231,Equilibrium,47,Equilibrium_116,2,TRUE
+Cyclin E associated events during G1/S transition,R-HSA-69202,Equilibrium,73,Equilibrium_1,87,FALSE
+Cytochrome P450 - arranged by substrate type,R-HSA-211897,Equilibrium,65,Equilibrium_117,2,FALSE
+Cytoprotection by HMOX1,R-HSA-9707564,Equilibrium,59,Equilibrium_118,1,TRUE
+Cytosolic sensors of pathogen-associated DNA,R-HSA-1834949,Equilibrium,64,Equilibrium_119,1,TRUE
+DAG and IP3 signaling,R-HSA-1489509,Equilibrium,41,Equilibrium_2,43,FALSE
+DAP12 interactions,R-HSA-2172127,Equilibrium,45,Equilibrium_120,2,TRUE
+DAP12 signaling,R-HSA-2424491,Equilibrium,29,Equilibrium_120,2,FALSE
+DARPP-32 events,R-HSA-180024,Equilibrium,24,Equilibrium_121,1,TRUE
+DDX58/IFIH1-mediated induction of interferon-alpha/beta,R-HSA-168928,Equilibrium,86,Equilibrium_122,1,TRUE
+DNA Damage Bypass,R-HSA-73893,Equilibrium,48,Equilibrium_53,20,FALSE
+DNA Damage Recognition in GG-NER,R-HSA-5696394,Equilibrium,38,Equilibrium_123,1,TRUE
+DNA Damage/Telomere Stress Induced Senescence,R-HSA-2559586,Equilibrium,60,Equilibrium_124,1,TRUE
+DNA Double Strand Break Response,R-HSA-5693606,Equilibrium,61,Equilibrium_125,3,TRUE
+DNA Double-Strand Break Repair,R-HSA-5693532,Equilibrium,152,Equilibrium_81,23,FALSE
+DNA Replication,R-HSA-69306,Equilibrium,153,Equilibrium_1,87,TRUE
+DNA Replication Pre-Initiation,R-HSA-69002,Equilibrium,118,Equilibrium_1,87,FALSE
+Deactivation of the beta-catenin transactivating complex,R-HSA-3769402,Equilibrium,44,Equilibrium_126,1,TRUE
+Deadenylation-dependent mRNA decay,R-HSA-429914,Equilibrium,56,Equilibrium_127,1,TRUE
+Death Receptor Signaling,R-HSA-73887,Equilibrium,157,Equilibrium_82,5,TRUE
+Dectin-1 mediated noncanonical NF-kB signaling,R-HSA-5607761,Equilibrium,49,Equilibrium_1,87,FALSE
+Defective B3GALT6 causes EDSP2 and SEMDJL1,R-HSA-4420332,Equilibrium,20,Equilibrium_128,4,FALSE
+Defective B3GALTL causes PpS,R-HSA-5083635,Equilibrium,38,Equilibrium_129,5,FALSE
+Defective B3GAT3 causes JDSSDHD,R-HSA-3560801,Equilibrium,20,Equilibrium_128,4,FALSE
+"Defective B4GALT7 causes EDS, progeroid type",R-HSA-3560783,Equilibrium,20,Equilibrium_128,4,FALSE
+Defective CFTR causes cystic fibrosis,R-HSA-5678895,Equilibrium,48,Equilibrium_1,87,FALSE
+Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA1 binding function,R-HSA-9704331,Equilibrium,25,Equilibrium_81,23,FALSE
+Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA2/RAD51/RAD51C binding function,R-HSA-9704646,Equilibrium,25,Equilibrium_81,23,FALSE
+Defective Intrinsic Pathway for Apoptosis,R-HSA-9734009,Equilibrium,25,Equilibrium_130,3,TRUE
+Defective TPR may confer susceptibility towards thyroid papillary carcinoma (TPC),R-HSA-5619107,Equilibrium,32,Equilibrium_131,30,FALSE
+Defective homologous recombination repair (HRR) due to BRCA1 loss of function,R-HSA-9701192,Equilibrium,25,Equilibrium_81,23,FALSE
+Defective homologous recombination repair (HRR) due to BRCA2 loss of function,R-HSA-9701190,Equilibrium,41,Equilibrium_81,23,FALSE
+Defective homologous recombination repair (HRR) due to PALB2 loss of function,R-HSA-9701193,Equilibrium,25,Equilibrium_81,23,FALSE
+Defects in vitamin and cofactor metabolism,R-HSA-3296482,Equilibrium,22,Equilibrium_132,1,TRUE
+Defensins,R-HSA-1461973,Equilibrium,49,Equilibrium_34,3,FALSE
+Degradation of AXIN,R-HSA-4641257,Equilibrium,42,Equilibrium_1,87,FALSE
+Degradation of CDH1,R-HSA-9766229,Equilibrium,54,Equilibrium_1,87,FALSE
+Degradation of CRY and PER proteins,R-HSA-9932298,Equilibrium,49,Equilibrium_1,87,FALSE
+Degradation of DVL,R-HSA-4641258,Equilibrium,44,Equilibrium_1,87,FALSE
+Degradation of GLI1 by the proteasome,R-HSA-5610780,Equilibrium,47,Equilibrium_1,87,FALSE
+Degradation of GLI2 by the proteasome,R-HSA-5610783,Equilibrium,47,Equilibrium_1,87,FALSE
+Degradation of beta-catenin by the destruction complex,R-HSA-195253,Equilibrium,72,Equilibrium_1,87,FALSE
+Degradation of the extracellular matrix,R-HSA-1474228,Equilibrium,140,Equilibrium_133,1,TRUE
+Dengue Virus Attachment and Entry,R-HSA-9918485,Equilibrium,45,Equilibrium_134,1,TRUE
+Dengue Virus Genome Translation and Replication,R-HSA-9918487,Equilibrium,83,Equilibrium_135,2,TRUE
+Dengue Virus-Host Interactions,R-HSA-9918481,Equilibrium,258,Equilibrium_136,1,TRUE
+Dengue virus activates/modulates innate and adaptive immune responses,R-HSA-9920588,Equilibrium,32,Equilibrium_137,1,TRUE
+Dengue virus modulates apoptosis,R-HSA-9920951,Equilibrium,16,Equilibrium_138,1,TRUE
+Depolymerization of the Nuclear Lamina,R-HSA-4419969,Equilibrium,15,Equilibrium_139,1,TRUE
+Deposition of new CENPA-containing nucleosomes at the centromere,R-HSA-606279,Equilibrium,53,Equilibrium_140,2,TRUE
+Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models,R-HSA-8862803,Equilibrium,22,Equilibrium_130,3,FALSE
+Detoxification of Reactive Oxygen Species,R-HSA-3299685,Equilibrium,37,Equilibrium_141,1,TRUE
+Deubiquitination,R-HSA-5688426,Equilibrium,269,Equilibrium_142,2,TRUE
+Developmental Cell Lineages,R-HSA-9734767,Equilibrium,32,Equilibrium_143,6,FALSE
+Developmental Cell Lineages of the Exocrine Pancreas,R-HSA-9820448,Equilibrium,29,Equilibrium_143,6,FALSE
+Developmental Lineage of Pancreatic Ductal Cells,R-HSA-9925563,Equilibrium,24,Equilibrium_143,6,FALSE
+Disassembly of the destruction complex and recruitment of AXIN to the membrane,R-HSA-4641262,Equilibrium,31,Equilibrium_55,8,TRUE
+Diseases associated with N-glycosylation of proteins,R-HSA-3781860,Equilibrium,20,Equilibrium_144,1,TRUE
+Diseases associated with O-glycosylation of proteins,R-HSA-3906995,Equilibrium,71,Equilibrium_129,5,FALSE
+Diseases associated with glycosaminoglycan metabolism,R-HSA-3560782,Equilibrium,41,Equilibrium_145,1,TRUE
+Diseases associated with glycosylation precursor biosynthesis,R-HSA-5609975,Equilibrium,16,Equilibrium_146,1,TRUE
+Diseases associated with the TLR signaling cascade,R-HSA-5602358,Equilibrium,35,Equilibrium_147,5,TRUE
+Diseases of DNA Double-Strand Break Repair,R-HSA-9675136,Equilibrium,41,Equilibrium_81,23,FALSE
+Diseases of DNA repair,R-HSA-9675135,Equilibrium,51,Equilibrium_81,23,FALSE
+Diseases of Immune System,R-HSA-5260271,Equilibrium,35,Equilibrium_147,5,FALSE
+Diseases of carbohydrate metabolism,R-HSA-5663084,Equilibrium,34,Equilibrium_148,1,TRUE
+Diseases of glycosylation,R-HSA-3781865,Equilibrium,147,Equilibrium_149,2,FALSE
+Diseases of hemostasis,R-HSA-9671793,Equilibrium,19,Equilibrium_150,1,TRUE
+Diseases of metabolism,R-HSA-5668914,Equilibrium,273,Equilibrium_149,2,TRUE
+Diseases of mitotic cell cycle,R-HSA-9675126,Equilibrium,38,Equilibrium_3,9,TRUE
+Diseases of programmed cell death,R-HSA-9645723,Equilibrium,78,Equilibrium_151,1,TRUE
+Disorders of Developmental Biology,R-HSA-9675151,Equilibrium,18,Equilibrium_152,1,TRUE
+Disorders of transmembrane transporters,R-HSA-5619115,Equilibrium,163,Equilibrium_153,2,TRUE
+Dopamine Neurotransmitter Release Cycle,R-HSA-212676,Equilibrium,23,Equilibrium_154,4,FALSE
+Downregulation of ERBB2 signaling,R-HSA-8863795,Equilibrium,29,Equilibrium_112,15,FALSE
+Downregulation of SMAD2/3:SMAD4 transcriptional activity,R-HSA-2173795,Equilibrium,31,Equilibrium_155,7,FALSE
+Downregulation of TGF-beta receptor signaling,R-HSA-2173788,Equilibrium,26,Equilibrium_155,7,FALSE
+Downstream TCR signaling,R-HSA-202424,Equilibrium,91,Equilibrium_1,87,FALSE
+Downstream signal transduction,R-HSA-186763,Equilibrium,29,Equilibrium_156,2,FALSE
+Downstream signaling events of B Cell Receptor (BCR),R-HSA-1168372,Equilibrium,68,Equilibrium_1,87,FALSE
+Downstream signaling of activated FGFR1,R-HSA-5654687,Equilibrium,31,Equilibrium_6,70,FALSE
+Downstream signaling of activated FGFR2,R-HSA-5654696,Equilibrium,30,Equilibrium_6,70,FALSE
+Downstream signaling of activated FGFR3,R-HSA-5654708,Equilibrium,25,Equilibrium_6,70,FALSE
+Downstream signaling of activated FGFR4,R-HSA-5654716,Equilibrium,27,Equilibrium_6,70,FALSE
+Drug ADME,R-HSA-9748784,Equilibrium,110,Equilibrium_157,1,TRUE
+Dual Incision in GG-NER,R-HSA-5696400,Equilibrium,41,Equilibrium_53,20,FALSE
+Dual incision in TC-NER,R-HSA-6782135,Equilibrium,63,Equilibrium_53,20,FALSE
+E2F mediated regulation of DNA replication,R-HSA-113510,Equilibrium,22,Equilibrium_158,1,TRUE
+E3 ubiquitin ligases ubiquitinate target proteins,R-HSA-8866654,Equilibrium,57,Equilibrium_159,2,FALSE
+ECM proteoglycans,R-HSA-3000178,Equilibrium,76,Equilibrium_160,1,TRUE
+EGFR downregulation,R-HSA-182971,Equilibrium,31,Equilibrium_161,2,FALSE
+EGR2 and SOX10-mediated initiation of Schwann cell myelination,R-HSA-9619665,Equilibrium,29,Equilibrium_162,1,TRUE
+EML4 and NUDC in mitotic spindle formation,R-HSA-9648025,Equilibrium,117,Equilibrium_26,10,FALSE
+EPH-Ephrin signaling,R-HSA-2682334,Equilibrium,92,Equilibrium_163,2,TRUE
+EPH-ephrin mediated repulsion of cells,R-HSA-3928665,Equilibrium,51,Equilibrium_163,2,FALSE
+EPHA-mediated growth cone collapse,R-HSA-3928663,Equilibrium,29,Equilibrium_164,1,TRUE
+EPHB-mediated forward signaling,R-HSA-3928662,Equilibrium,42,Equilibrium_165,1,TRUE
+ER Quality Control Compartment (ERQC),R-HSA-901032,Equilibrium,21,Equilibrium_73,3,FALSE
+ER to Golgi Anterograde Transport,R-HSA-199977,Equilibrium,156,Equilibrium_67,3,FALSE
+ER-Phagosome pathway,R-HSA-1236974,Equilibrium,85,Equilibrium_30,2,FALSE
+ERBB2 Regulates Cell Motility,R-HSA-6785631,Equilibrium,15,Equilibrium_112,15,FALSE
+ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression,R-HSA-427389,Equilibrium,45,Equilibrium_50,13,FALSE
+ERK/MAPK targets,R-HSA-198753,Equilibrium,22,Equilibrium_166,2,FALSE
+ESR-mediated signaling,R-HSA-8939211,Equilibrium,192,Equilibrium_167,3,FALSE
+Early SARS-CoV-2 Infection Events,R-HSA-9772572,Equilibrium,46,Equilibrium_45,2,TRUE
+Effects of PIP2 hydrolysis,R-HSA-114508,Equilibrium,27,Equilibrium_168,1,TRUE
+Elastic fibre formation,R-HSA-1566948,Equilibrium,44,Equilibrium_169,2,TRUE
+Endogenous sterols,R-HSA-211976,Equilibrium,26,Equilibrium_170,1,TRUE
+Endosomal Sorting Complex Required For Transport (ESCRT),R-HSA-917729,Equilibrium,31,Equilibrium_40,3,FALSE
+Energy dependent regulation of mTOR by LKB1-AMPK,R-HSA-380972,Equilibrium,29,Equilibrium_171,3,FALSE
+Ephrin signaling,R-HSA-3928664,Equilibrium,19,Equilibrium_172,1,TRUE
+Epigenetic regulation by WDR5-containing histone modifying complexes,R-HSA-9917777,Equilibrium,135,Equilibrium_173,4,TRUE
+Epigenetic regulation of adipogenesis genes by MLL3 and MLL4 complexes,R-HSA-9851695,Equilibrium,103,Equilibrium_173,4,FALSE
+Epigenetic regulation of gene expression,R-HSA-212165,Equilibrium,294,Equilibrium_174,1,TRUE
+Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,R-HSA-9818564,Equilibrium,103,Equilibrium_173,4,FALSE
+Estrogen-dependent gene expression,R-HSA-9018519,Equilibrium,121,Equilibrium_167,3,FALSE
+Estrogen-dependent nuclear events downstream of ESR-membrane signaling,R-HSA-9634638,Equilibrium,24,Equilibrium_175,1,TRUE
+Eukaryotic Translation Elongation,R-HSA-156842,Equilibrium,99,Equilibrium_90,20,FALSE
+Eukaryotic Translation Termination,R-HSA-72764,Equilibrium,98,Equilibrium_90,20,FALSE
+Evasion by RSV of host interferon responses,R-HSA-9833109,Equilibrium,37,Equilibrium_176,1,TRUE
+Export of Viral Ribonucleoproteins from Nucleus,R-HSA-168274,Equilibrium,39,Equilibrium_131,30,FALSE
+Extension of Telomeres,R-HSA-180786,Equilibrium,51,Equilibrium_98,5,FALSE
+Extra-nuclear estrogen signaling,R-HSA-9009391,Equilibrium,75,Equilibrium_177,1,TRUE
+FBXL7 down-regulates AURKA during mitotic entry and in early mitosis,R-HSA-8854050,Equilibrium,42,Equilibrium_1,87,FALSE
+FCERI mediated Ca+2 mobilization,R-HSA-2871809,Equilibrium,110,Equilibrium_28,20,FALSE
+FCERI mediated MAPK activation,R-HSA-2871796,Equilibrium,111,Equilibrium_28,20,FALSE
+FCERI mediated NF-kB activation,R-HSA-2871837,Equilibrium,147,Equilibrium_28,20,FALSE
+FCGR3A-mediated IL10 synthesis,R-HSA-9664323,Equilibrium,121,Equilibrium_28,20,FALSE
+FCGR3A-mediated phagocytosis,R-HSA-9664422,Equilibrium,142,Equilibrium_28,20,FALSE
+FGFR1 ligand binding and activation,R-HSA-190242,Equilibrium,18,Equilibrium_6,70,FALSE
+FGFR1 mutant receptor activation,R-HSA-1839124,Equilibrium,31,Equilibrium_6,70,FALSE
+FGFR2 alternative splicing,R-HSA-6803529,Equilibrium,28,Equilibrium_6,70,FALSE
+FGFR2 ligand binding and activation,R-HSA-190241,Equilibrium,20,Equilibrium_6,70,FALSE
+FGFR2 mutant receptor activation,R-HSA-1839126,Equilibrium,33,Equilibrium_6,70,FALSE
+FLT3 Signaling,R-HSA-9607240,Equilibrium,38,Equilibrium_178,1,TRUE
+FLT3 signaling in disease,R-HSA-9682385,Equilibrium,28,Equilibrium_179,3,TRUE
+FOXO-mediated transcription,R-HSA-9614085,Equilibrium,66,Equilibrium_180,1,TRUE
+FOXO-mediated transcription of cell cycle genes,R-HSA-9617828,Equilibrium,17,Equilibrium_181,1,TRUE
+"FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes",R-HSA-9615017,Equilibrium,30,Equilibrium_182,1,TRUE
+FRS-mediated FGFR1 signaling,R-HSA-5654693,Equilibrium,23,Equilibrium_6,70,FALSE
+FRS-mediated FGFR2 signaling,R-HSA-5654700,Equilibrium,25,Equilibrium_6,70,FALSE
+FRS-mediated FGFR3 signaling,R-HSA-5654706,Equilibrium,20,Equilibrium_6,70,FALSE
+FRS-mediated FGFR4 signaling,R-HSA-5654712,Equilibrium,22,Equilibrium_6,70,FALSE
+Factors involved in megakaryocyte development and platelet production,R-HSA-983231,Equilibrium,159,Equilibrium_183,1,TRUE
+Fanconi Anemia Pathway,R-HSA-6783310,Equilibrium,38,Equilibrium_184,1,TRUE
+Fatty acid metabolism,R-HSA-8978868,Equilibrium,176,Equilibrium_185,1,TRUE
+Fatty acyl-CoA biosynthesis,R-HSA-75105,Equilibrium,37,Equilibrium_186,2,TRUE
+Fc epsilon receptor (FCERI) signaling,R-HSA-2454202,Equilibrium,197,Equilibrium_28,20,FALSE
+Fcgamma receptor (FCGR) dependent phagocytosis,R-HSA-2029480,Equilibrium,168,Equilibrium_28,20,FALSE
+Fertilization,R-HSA-1187000,Equilibrium,26,Equilibrium_187,1,TRUE
+Fibronectin matrix formation,R-HSA-1566977,Equilibrium,20,Equilibrium_188,1,TRUE
+Formation of Fibrin Clot (Clotting Cascade),R-HSA-140877,Equilibrium,39,Equilibrium_108,3,TRUE
+Formation of HIV elongation complex in the absence of HIV Tat,R-HSA-167152,Equilibrium,45,Equilibrium_6,70,FALSE
+Formation of HIV-1 elongation complex containing HIV-1 Tat,R-HSA-167200,Equilibrium,44,Equilibrium_6,70,FALSE
+Formation of Incision Complex in GG-NER,R-HSA-5696395,Equilibrium,43,Equilibrium_53,20,FALSE
+Formation of RNA Pol II elongation complex,R-HSA-112382,Equilibrium,58,Equilibrium_6,70,FALSE
+Formation of TC-NER Pre-Incision Complex,R-HSA-6781823,Equilibrium,51,Equilibrium_53,20,FALSE
+Formation of WDR5-containing histone-modifying complexes,R-HSA-9772755,Equilibrium,42,Equilibrium_189,1,TRUE
+Formation of a pool of free 40S subunits,R-HSA-72689,Equilibrium,106,Equilibrium_90,20,FALSE
+Formation of paraxial mesoderm,R-HSA-9793380,Equilibrium,59,Equilibrium_1,87,FALSE
+Formation of the Early Elongation Complex,R-HSA-113418,Equilibrium,33,Equilibrium_6,70,FALSE
+Formation of the HIV-1 Early Elongation Complex,R-HSA-167158,Equilibrium,33,Equilibrium_6,70,FALSE
+Formation of the beta-catenin:TCF transactivating complex,R-HSA-201722,Equilibrium,62,Equilibrium_190,1,TRUE
+Formation of the cornified envelope,R-HSA-6809371,Equilibrium,129,Equilibrium_191,2,FALSE
+Formation of the dystrophin-glycoprotein complex (DGC),R-HSA-9913351,Equilibrium,36,Equilibrium_192,1,TRUE
+Formation of the nephric duct,R-HSA-9830364,Equilibrium,18,Equilibrium_193,1,TRUE
+"Formation of the ternary complex, and subsequently, the 43S complex",R-HSA-72695,Equilibrium,53,Equilibrium_194,3,FALSE
+Formation of the ureteric bud,R-HSA-9830674,Equilibrium,21,Equilibrium_195,1,TRUE
+Formation of tubulin folding intermediates by CCT/TriC,R-HSA-389960,Equilibrium,26,Equilibrium_8,12,FALSE
+G alpha (12/13) signalling events,R-HSA-416482,Equilibrium,80,Equilibrium_82,5,FALSE
+G alpha (q) signalling events,R-HSA-416476,Equilibrium,219,Equilibrium_196,1,TRUE
+G alpha (s) signalling events,R-HSA-418555,Equilibrium,158,Equilibrium_197,1,TRUE
+G alpha (z) signalling events,R-HSA-418597,Equilibrium,48,Equilibrium_2,43,FALSE
+G beta:gamma signalling through BTK,R-HSA-8964315,Equilibrium,18,Equilibrium_2,43,FALSE
+G beta:gamma signalling through CDC42,R-HSA-8964616,Equilibrium,20,Equilibrium_2,43,FALSE
+G beta:gamma signalling through PI3Kgamma,R-HSA-392451,Equilibrium,25,Equilibrium_2,43,FALSE
+G beta:gamma signalling through PLC beta,R-HSA-418217,Equilibrium,20,Equilibrium_2,43,FALSE
+G protein gated Potassium channels,R-HSA-1296059,Equilibrium,29,Equilibrium_2,43,FALSE
+G-protein activation,R-HSA-202040,Equilibrium,24,Equilibrium_2,43,FALSE
+G-protein beta:gamma signalling,R-HSA-397795,Equilibrium,32,Equilibrium_2,43,FALSE
+G-protein mediated events,R-HSA-112040,Equilibrium,54,Equilibrium_2,43,FALSE
+G0 and Early G1,R-HSA-1538133,Equilibrium,27,Equilibrium_198,4,FALSE
+G1 Phase,R-HSA-69236,Equilibrium,47,Equilibrium_116,2,FALSE
+G1/S DNA Damage Checkpoints,R-HSA-69615,Equilibrium,67,Equilibrium_1,87,FALSE
+G1/S Transition,R-HSA-69206,Equilibrium,121,Equilibrium_1,87,FALSE
+G1/S-Specific Transcription,R-HSA-69205,Equilibrium,29,Equilibrium_198,4,TRUE
+G2/M Checkpoints,R-HSA-69481,Equilibrium,139,Equilibrium_81,23,FALSE
+G2/M DNA damage checkpoint,R-HSA-69473,Equilibrium,79,Equilibrium_81,23,FALSE
+G2/M Transition,R-HSA-69275,Equilibrium,191,Equilibrium_199,2,FALSE
+GAB1 signalosome,R-HSA-180292,Equilibrium,17,Equilibrium_200,1,TRUE
+GABA B receptor activation,R-HSA-977444,Equilibrium,43,Equilibrium_2,43,FALSE
+GABA receptor activation,R-HSA-977443,Equilibrium,60,Equilibrium_2,43,FALSE
+"GABA synthesis, release, reuptake and degradation",R-HSA-888590,Equilibrium,19,Equilibrium_201,1,TRUE
+GPER1 signaling,R-HSA-9634597,Equilibrium,45,Equilibrium_2,43,FALSE
+GPVI-mediated activation cascade,R-HSA-114604,Equilibrium,35,Equilibrium_202,1,TRUE
+GRB2 events in ERBB2 signaling,R-HSA-1963640,Equilibrium,16,Equilibrium_112,15,FALSE
+GRB2:SOS provides linkage to MAPK signaling for Integrins,R-HSA-354194,Equilibrium,15,Equilibrium_203,4,FALSE
+GSK3B-mediated proteasomal degradation of PD-L1(CD274),R-HSA-9929356,Equilibrium,44,Equilibrium_1,87,FALSE
+GTP hydrolysis and joining of the 60S ribosomal subunit,R-HSA-72706,Equilibrium,117,Equilibrium_90,20,FALSE
+"Gamma carboxylation, hypusinylation, hydroxylation, and arylsulfatase activation",R-HSA-163841,Equilibrium,61,Equilibrium_204,1,TRUE
+Gap junction assembly,R-HSA-190861,Equilibrium,38,Equilibrium_8,12,FALSE
+Gap junction trafficking,R-HSA-190828,Equilibrium,49,Equilibrium_8,12,FALSE
+Gap junction trafficking and regulation,R-HSA-157858,Equilibrium,52,Equilibrium_8,12,TRUE
+Gap-filling DNA repair synthesis and ligation in GG-NER,R-HSA-5696397,Equilibrium,25,Equilibrium_53,20,FALSE
+Gap-filling DNA repair synthesis and ligation in TC-NER,R-HSA-6782210,Equilibrium,62,Equilibrium_53,20,FALSE
+Gastrin-CREB signalling pathway via PKC and MAPK,R-HSA-881907,Equilibrium,18,Equilibrium_205,1,TRUE
+Gastrulation,R-HSA-9758941,Equilibrium,120,Equilibrium_206,1,TRUE
+Gene Silencing by RNA,R-HSA-211000,Equilibrium,104,Equilibrium_207,1,TRUE
+Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation,R-HSA-8950505,Equilibrium,37,Equilibrium_208,3,FALSE
+Generation of second messenger molecules,R-HSA-202433,Equilibrium,41,Equilibrium_209,2,TRUE
+Global Genome Nucleotide Excision Repair (GG-NER),R-HSA-5696399,Equilibrium,84,Equilibrium_53,20,FALSE
+Glucagon signaling in metabolic regulation,R-HSA-163359,Equilibrium,33,Equilibrium_2,43,FALSE
+Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,R-HSA-381676,Equilibrium,42,Equilibrium_2,43,FALSE
+Glucagon-type ligand receptors,R-HSA-420092,Equilibrium,33,Equilibrium_2,43,FALSE
+Gluconeogenesis,R-HSA-70263,Equilibrium,26,Equilibrium_210,1,TRUE
+Glucose metabolism,R-HSA-70326,Equilibrium,84,Equilibrium_211,2,TRUE
+Glucuronidation,R-HSA-156588,Equilibrium,27,Equilibrium_212,1,TRUE
+Glutamate Neurotransmitter Release Cycle,R-HSA-210500,Equilibrium,24,Equilibrium_154,4,TRUE
+"Glutamate binding, activation of AMPA receptors and synaptic plasticity",R-HSA-399721,Equilibrium,31,Equilibrium_213,2,TRUE
+Glutathione conjugation,R-HSA-156590,Equilibrium,37,Equilibrium_214,1,TRUE
+Glycerophospholipid biosynthesis,R-HSA-1483206,Equilibrium,129,Equilibrium_215,2,FALSE
+Glycogen metabolism,R-HSA-8982491,Equilibrium,26,Equilibrium_216,1,TRUE
+Glycolysis,R-HSA-70171,Equilibrium,73,Equilibrium_211,2,FALSE
+Glycosaminoglycan metabolism,R-HSA-1630316,Equilibrium,136,Equilibrium_217,1,TRUE
+Glycosaminoglycan-protein linkage region biosynthesis,R-HSA-1971475,Equilibrium,29,Equilibrium_128,4,TRUE
+Glycosphingolipid biosynthesis,R-HSA-9840309,Equilibrium,19,Equilibrium_218,1,TRUE
+Glycosphingolipid catabolism,R-HSA-9840310,Equilibrium,39,Equilibrium_219,3,FALSE
+Glycosphingolipid metabolism,R-HSA-1660662,Equilibrium,58,Equilibrium_219,3,FALSE
+Glyoxylate metabolism and glycine degradation,R-HSA-389661,Equilibrium,19,Equilibrium_220,1,TRUE
+Golgi Associated Vesicle Biogenesis,R-HSA-432722,Equilibrium,56,Equilibrium_221,2,FALSE
+Golgi-to-ER retrograde transport,R-HSA-8856688,Equilibrium,136,Equilibrium_65,4,FALSE
+Growth hormone receptor signaling,R-HSA-982772,Equilibrium,24,Equilibrium_222,1,TRUE
+HATs acetylate histones,R-HSA-3214847,Equilibrium,108,Equilibrium_223,1,TRUE
+HCMV Early Events,R-HSA-9609690,Equilibrium,206,Equilibrium_224,3,FALSE
+HCMV Infection,R-HSA-9609646,Equilibrium,260,Equilibrium_224,3,TRUE
+HCMV Late Events,R-HSA-9610379,Equilibrium,171,Equilibrium_224,3,FALSE
+HDACs deacetylate histones,R-HSA-3214815,Equilibrium,60,Equilibrium_225,1,TRUE
+HDR through Homologous Recombination (HRR),R-HSA-5685942,Equilibrium,69,Equilibrium_81,23,FALSE
+HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA),R-HSA-5693567,Equilibrium,116,Equilibrium_81,23,FALSE
+HDR through Single Strand Annealing (SSA),R-HSA-5685938,Equilibrium,37,Equilibrium_81,23,FALSE
+HIV Infection,R-HSA-162906,Equilibrium,228,Equilibrium_226,4,TRUE
+HIV Life Cycle,R-HSA-162587,Equilibrium,159,Equilibrium_226,4,FALSE
+HIV Transcription Elongation,R-HSA-167169,Equilibrium,44,Equilibrium_6,70,FALSE
+HIV Transcription Initiation,R-HSA-167161,Equilibrium,48,Equilibrium_6,70,FALSE
+HIV elongation arrest and recovery,R-HSA-167287,Equilibrium,33,Equilibrium_6,70,FALSE
+HS-GAG biosynthesis,R-HSA-2022928,Equilibrium,33,Equilibrium_227,2,FALSE
+HS-GAG degradation,R-HSA-2024096,Equilibrium,20,Equilibrium_228,1,TRUE
+HSF1 activation,R-HSA-3371511,Equilibrium,32,Equilibrium_47,3,FALSE
+HSF1-dependent transactivation,R-HSA-3371571,Equilibrium,39,Equilibrium_47,3,TRUE
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,R-HSA-3371497,Equilibrium,57,Equilibrium_66,2,TRUE
+Hedgehog 'off' state,R-HSA-5610787,Equilibrium,100,Equilibrium_1,87,FALSE
+Hedgehog 'on' state,R-HSA-5632684,Equilibrium,73,Equilibrium_1,87,FALSE
+Hedgehog ligand biogenesis,R-HSA-5358346,Equilibrium,52,Equilibrium_1,87,FALSE
+Heme signaling,R-HSA-9707616,Equilibrium,47,Equilibrium_229,1,TRUE
+Heparan sulfate/heparin (HS-GAG) metabolism,R-HSA-1638091,Equilibrium,41,Equilibrium_227,2,TRUE
+Hh mutants abrogate ligand secretion,R-HSA-5387390,Equilibrium,46,Equilibrium_1,87,FALSE
+Hh mutants are degraded by ERAD,R-HSA-5362768,Equilibrium,43,Equilibrium_1,87,FALSE
+High laminar flow shear stress activates signaling by PIEZO1 and PECAM1:CDH5:KDR in endothelial cells,R-HSA-9856530,Equilibrium,69,Equilibrium_91,3,FALSE
+Homologous DNA Pairing and Strand Exchange,R-HSA-5693579,Equilibrium,43,Equilibrium_81,23,FALSE
+Homology Directed Repair,R-HSA-5693538,Equilibrium,122,Equilibrium_81,23,FALSE
+Host Interactions of HIV factors,R-HSA-162909,Equilibrium,126,Equilibrium_226,4,FALSE
+Hyaluronan metabolism,R-HSA-2142845,Equilibrium,20,Equilibrium_230,1,TRUE
+IGF1R signaling cascade,R-HSA-2428924,Equilibrium,53,Equilibrium_6,70,FALSE
+IKK complex recruitment mediated by RIP1,R-HSA-937041,Equilibrium,23,Equilibrium_231,2,TRUE
+IL-6-type cytokine receptor ligand interactions,R-HSA-6788467,Equilibrium,17,Equilibrium_232,2,FALSE
+IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation,R-HSA-975163,Equilibrium,15,Equilibrium_233,2,FALSE
+IRAK4 deficiency (TLR2/4),R-HSA-5603041,Equilibrium,20,Equilibrium_147,5,FALSE
+IRE1alpha activates chaperones,R-HSA-381070,Equilibrium,50,Equilibrium_234,3,FALSE
+IRS-mediated signalling,R-HSA-112399,Equilibrium,48,Equilibrium_6,70,FALSE
+IRS-related events triggered by IGF1R,R-HSA-2428928,Equilibrium,52,Equilibrium_6,70,FALSE
+ISG15 antiviral mechanism,R-HSA-1169408,Equilibrium,76,Equilibrium_131,30,FALSE
+Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell,R-HSA-198933,Equilibrium,223,Equilibrium_235,1,TRUE
+Impaired BRCA2 binding to PALB2,R-HSA-9709603,Equilibrium,24,Equilibrium_81,23,FALSE
+Impaired BRCA2 binding to RAD51,R-HSA-9709570,Equilibrium,35,Equilibrium_81,23,FALSE
+Inactivation of APC/C via direct inhibition of the APC/C complex,R-HSA-141430,Equilibrium,21,Equilibrium_3,9,FALSE
+Inactivation of CSF3 (G-CSF) signaling,R-HSA-9705462,Equilibrium,25,Equilibrium_236,2,FALSE
+"Inactivation, recovery and regulation of the phototransduction cascade",R-HSA-2514859,Equilibrium,33,Equilibrium_237,2,FALSE
+"Incretin synthesis, secretion, and inactivation",R-HSA-400508,Equilibrium,24,Equilibrium_238,2,TRUE
+Infection with Enterobacteria,R-HSA-9640148,Equilibrium,158,Equilibrium_52,2,FALSE
+Infection with Mycobacterium tuberculosis,R-HSA-9635486,Equilibrium,82,Equilibrium_239,1,TRUE
+Inflammasomes,R-HSA-622312,Equilibrium,25,Equilibrium_83,4,FALSE
+Influenza Infection,R-HSA-168255,Equilibrium,171,Equilibrium_90,20,FALSE
+Influenza Viral RNA Transcription and Replication,R-HSA-168273,Equilibrium,149,Equilibrium_90,20,FALSE
+Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits,R-HSA-997272,Equilibrium,29,Equilibrium_2,43,FALSE
+Inhibition of DNA recombination at telomere,R-HSA-9670095,Equilibrium,47,Equilibrium_98,5,FALSE
+Inhibition of the proteolytic activity of APC/C required for the onset of anaphase by mitotic spindle checkpoint components,R-HSA-141405,Equilibrium,21,Equilibrium_3,9,FALSE
+Initiation of Nuclear Envelope (NE) Reformation,R-HSA-2995383,Equilibrium,19,Equilibrium_240,1,TRUE
+InlB-mediated entry of Listeria monocytogenes into host cell,R-HSA-8875360,Equilibrium,16,Equilibrium_241,3,FALSE
+Inositol phosphate metabolism,R-HSA-1483249,Equilibrium,48,Equilibrium_242,2,TRUE
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,R-HSA-9609523,Equilibrium,22,Equilibrium_243,1,TRUE
+Insulin processing,R-HSA-264876,Equilibrium,25,Equilibrium_244,1,TRUE
+Insulin receptor recycling,R-HSA-77387,Equilibrium,30,Equilibrium_245,4,FALSE
+Insulin receptor signalling cascade,R-HSA-74751,Equilibrium,54,Equilibrium_6,70,FALSE
+Integration of energy metabolism,R-HSA-163685,Equilibrium,108,Equilibrium_2,43,TRUE
+Integrin cell surface interactions,R-HSA-216083,Equilibrium,85,Equilibrium_246,1,TRUE
+Integrin signaling,R-HSA-354192,Equilibrium,27,Equilibrium_203,4,FALSE
+Interaction between L1 and Ankyrins,R-HSA-445095,Equilibrium,31,Equilibrium_247,1,TRUE
+Interactions of Rev with host cellular proteins,R-HSA-177243,Equilibrium,38,Equilibrium_131,30,FALSE
+Interactions of Vpr with host cellular proteins,R-HSA-176033,Equilibrium,43,Equilibrium_131,30,FALSE
+Interconversion of nucleotide di- and triphosphates,R-HSA-499943,Equilibrium,30,Equilibrium_248,1,TRUE
+Interferon Signaling,R-HSA-913531,Equilibrium,297,Equilibrium_33,2,TRUE
+Interferon alpha/beta signaling,R-HSA-909733,Equilibrium,78,Equilibrium_249,1,TRUE
+Interferon gamma signaling,R-HSA-877300,Equilibrium,99,Equilibrium_250,1,TRUE
+Interleukin receptor SHC signaling,R-HSA-912526,Equilibrium,27,Equilibrium_251,3,FALSE
+Interleukin-1 family signaling,R-HSA-446652,Equilibrium,140,Equilibrium_252,2,TRUE
+Interleukin-1 signaling,R-HSA-9020702,Equilibrium,102,Equilibrium_252,2,FALSE
+Interleukin-10 signaling,R-HSA-6783783,Equilibrium,45,Equilibrium_253,1,TRUE
+Interleukin-12 family signaling,R-HSA-447115,Equilibrium,56,Equilibrium_208,3,TRUE
+Interleukin-12 signaling,R-HSA-9020591,Equilibrium,46,Equilibrium_208,3,FALSE
+Interleukin-17 signaling,R-HSA-448424,Equilibrium,72,Equilibrium_254,18,FALSE
+Interleukin-2 family signaling,R-HSA-451927,Equilibrium,44,Equilibrium_251,3,FALSE
+Interleukin-20 family signaling,R-HSA-8854691,Equilibrium,26,Equilibrium_255,1,TRUE
+"Interleukin-3, Interleukin-5 and GM-CSF signaling",R-HSA-512988,Equilibrium,48,Equilibrium_251,3,TRUE
+Interleukin-37 signaling,R-HSA-9008059,Equilibrium,21,Equilibrium_256,1,TRUE
+Interleukin-4 and Interleukin-13 signaling,R-HSA-6785807,Equilibrium,111,Equilibrium_257,1,TRUE
+Interleukin-6 family signaling,R-HSA-6783589,Equilibrium,24,Equilibrium_232,2,TRUE
+Interleukin-7 signaling,R-HSA-1266695,Equilibrium,25,Equilibrium_258,1,TRUE
+Intra-Golgi and retrograde Golgi-to-ER traffic,R-HSA-6811442,Equilibrium,205,Equilibrium_65,4,TRUE
+Intra-Golgi traffic,R-HSA-6811438,Equilibrium,44,Equilibrium_259,1,TRUE
+Intraflagellar transport,R-HSA-5620924,Equilibrium,54,Equilibrium_260,1,TRUE
+Intrinsic Pathway for Apoptosis,R-HSA-109606,Equilibrium,55,Equilibrium_10,3,TRUE
+Intrinsic Pathway of Fibrin Clot Formation,R-HSA-140837,Equilibrium,23,Equilibrium_108,3,FALSE
+Inwardly rectifying K+ channels,R-HSA-1296065,Equilibrium,35,Equilibrium_2,43,FALSE
+Ion channel transport,R-HSA-983712,Equilibrium,183,Equilibrium_261,2,TRUE
+Ion homeostasis,R-HSA-5578775,Equilibrium,54,Equilibrium_262,1,TRUE
+Ion transport by P-type ATPases,R-HSA-936837,Equilibrium,55,Equilibrium_263,1,TRUE
+Iron uptake and transport,R-HSA-917937,Equilibrium,59,Equilibrium_245,4,TRUE
+JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1,R-HSA-450321,Equilibrium,22,Equilibrium_264,4,FALSE
+KEAP1-NFE2L2 pathway,R-HSA-9755511,Equilibrium,120,Equilibrium_88,3,FALSE
+KSRP (KHSRP) binds and destabilizes mRNA,R-HSA-450604,Equilibrium,17,Equilibrium_61,3,FALSE
+Keratan sulfate biosynthesis,R-HSA-2022854,Equilibrium,29,Equilibrium_265,2,FALSE
+Keratan sulfate/keratin metabolism,R-HSA-1638074,Equilibrium,37,Equilibrium_265,2,TRUE
+Keratinization,R-HSA-6805567,Equilibrium,217,Equilibrium_191,2,TRUE
+Kidney development,R-HSA-9830369,Equilibrium,46,Equilibrium_266,1,TRUE
+Kinesins,R-HSA-983189,Equilibrium,63,Equilibrium_65,4,FALSE
+L13a-mediated translational silencing of Ceruloplasmin expression,R-HSA-156827,Equilibrium,116,Equilibrium_90,20,FALSE
+L1CAM interactions,R-HSA-373760,Equilibrium,121,Equilibrium_267,1,TRUE
+LDL clearance,R-HSA-8964038,Equilibrium,19,Equilibrium_268,2,FALSE
+Laminin interactions,R-HSA-3000157,Equilibrium,30,Equilibrium_269,1,TRUE
+Late Phase of HIV Life Cycle,R-HSA-162599,Equilibrium,146,Equilibrium_226,4,FALSE
+Late SARS-CoV-2 Infection Events,R-HSA-9772573,Equilibrium,84,Equilibrium_270,4,TRUE
+Late endosomal microautophagy,R-HSA-9615710,Equilibrium,34,Equilibrium_271,1,TRUE
+Leishmania infection,R-HSA-9658195,Equilibrium,245,Equilibrium_28,20,TRUE
+Leishmania parasite growth and survival,R-HSA-9664433,Equilibrium,159,Equilibrium_28,20,FALSE
+Leishmania phagocytosis,R-HSA-9664417,Equilibrium,142,Equilibrium_28,20,FALSE
+Listeria monocytogenes entry into host cells,R-HSA-8876384,Equilibrium,22,Equilibrium_241,3,TRUE
+Long-term potentiation,R-HSA-9620244,Equilibrium,23,Equilibrium_69,5,FALSE
+Loss of Nlp from mitotic centrosomes,R-HSA-380259,Equilibrium,69,Equilibrium_5,8,FALSE
+Loss of proteins required for interphase microtubule organization from the centrosome,R-HSA-380284,Equilibrium,69,Equilibrium_5,8,FALSE
+Lysosome Vesicle Biogenesis,R-HSA-432720,Equilibrium,35,Equilibrium_272,1,TRUE
+MAP kinase activation,R-HSA-450294,Equilibrium,63,Equilibrium_254,18,FALSE
+MAP2K and MAPK activation,R-HSA-5674135,Equilibrium,40,Equilibrium_273,9,FALSE
+MAP3K8 (TPL2)-dependent MAPK1/3 activation,R-HSA-5684264,Equilibrium,16,Equilibrium_274,1,TRUE
+MAPK targets/ Nuclear events mediated by MAP kinases,R-HSA-450282,Equilibrium,31,Equilibrium_166,2,TRUE
+MAPK1/MAPK3 signaling,R-HSA-5684996,Equilibrium,271,Equilibrium_275,2,TRUE
+MAPK6/MAPK4 signaling,R-HSA-5687128,Equilibrium,80,Equilibrium_276,1,TRUE
+MECP2 regulates neuronal receptors and channels,R-HSA-9022699,Equilibrium,18,Equilibrium_277,1,TRUE
+MET activates PTK2 signaling,R-HSA-8874081,Equilibrium,30,Equilibrium_143,6,FALSE
+MET promotes cell motility,R-HSA-8875878,Equilibrium,41,Equilibrium_143,6,FALSE
+MHC class II antigen presentation,R-HSA-2132295,Equilibrium,127,Equilibrium_278,1,TRUE
+MITF-M-dependent gene expression,R-HSA-9856651,Equilibrium,109,Equilibrium_279,2,FALSE
+MITF-M-regulated melanocyte development,R-HSA-9730414,Equilibrium,160,Equilibrium_279,2,TRUE
+MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis,R-HSA-9841922,Equilibrium,103,Equilibrium_173,4,FALSE
+MTOR signalling,R-HSA-165159,Equilibrium,41,Equilibrium_171,3,TRUE
+Macroautophagy,R-HSA-1632852,Equilibrium,145,Equilibrium_48,3,FALSE
+Major pathway of rRNA processing in the nucleolus and cytosol,R-HSA-6791226,Equilibrium,189,Equilibrium_280,3,FALSE
+Maternal to zygotic transition (MZT),R-HSA-9816359,Equilibrium,109,Equilibrium_281,1,TRUE
+Maturation of DENV proteins,R-HSA-9918432,Equilibrium,52,Equilibrium_135,2,FALSE
+Maturation of TCA enzymes and regulation of TCA cycle,R-HSA-9854311,Equilibrium,20,Equilibrium_101,2,FALSE
+Maturation of spike protein_9694548,R-HSA-9694548,Equilibrium,42,Equilibrium_270,4,FALSE
+Mechanical load activates signaling by PIEZO1 and integrins in osteocytes,R-HSA-9856532,Equilibrium,17,Equilibrium_282,1,TRUE
+Meiosis,R-HSA-1500620,Equilibrium,89,Equilibrium_283,4,FALSE
+Meiotic recombination,R-HSA-912446,Equilibrium,57,Equilibrium_283,4,FALSE
+Meiotic synapsis,R-HSA-1221632,Equilibrium,59,Equilibrium_283,4,FALSE
+Metabolic disorders of biological oxidation enzymes,R-HSA-5579029,Equilibrium,34,Equilibrium_284,1,TRUE
+Metabolism of amine-derived hormones,R-HSA-209776,Equilibrium,22,Equilibrium_285,1,TRUE
+Metabolism of carbohydrates and carbohydrate derivatives,R-HSA-71387,Equilibrium,298,Equilibrium_286,1,TRUE
+Metabolism of cofactors,R-HSA-8978934,Equilibrium,25,Equilibrium_287,1,TRUE
+Metabolism of fat-soluble vitamins,R-HSA-6806667,Equilibrium,48,Equilibrium_288,2,TRUE
+Metabolism of folate and pterines,R-HSA-196757,Equilibrium,17,Equilibrium_289,1,TRUE
+Metabolism of nitric oxide: NOS3 activation and regulation,R-HSA-202131,Equilibrium,17,Equilibrium_290,1,TRUE
+Metabolism of non-coding RNA,R-HSA-194441,Equilibrium,54,Equilibrium_131,30,FALSE
+Metabolism of nucleotides,R-HSA-15869,Equilibrium,98,Equilibrium_291,1,TRUE
+Metabolism of polyamines,R-HSA-351202,Equilibrium,46,Equilibrium_1,87,FALSE
+Metabolism of steroid hormones,R-HSA-196071,Equilibrium,36,Equilibrium_292,1,TRUE
+Metabolism of steroids,R-HSA-8957322,Equilibrium,154,Equilibrium_293,1,TRUE
+Metabolism of vitamins and cofactors,R-HSA-196854,Equilibrium,196,Equilibrium_294,2,TRUE
+Metabolism of water-soluble vitamins and cofactors,R-HSA-196849,Equilibrium,125,Equilibrium_294,2,FALSE
+Metal ion SLC transporters,R-HSA-425410,Equilibrium,44,Equilibrium_295,1,TRUE
+Metalloprotease DUBs,R-HSA-5689901,Equilibrium,31,Equilibrium_296,1,TRUE
+MicroRNA (miRNA) biogenesis,R-HSA-203927,Equilibrium,26,Equilibrium_297,1,TRUE
+Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane,R-HSA-190840,Equilibrium,20,Equilibrium_8,12,FALSE
+Miscellaneous transport and binding events,R-HSA-5223345,Equilibrium,29,Equilibrium_298,1,TRUE
+Mitochondrial Fatty Acid Beta-Oxidation,R-HSA-77289,Equilibrium,38,Equilibrium_299,1,TRUE
+Mitochondrial biogenesis,R-HSA-1592230,Equilibrium,95,Equilibrium_300,2,TRUE
+Mitochondrial calcium ion transport,R-HSA-8949215,Equilibrium,23,Equilibrium_301,1,TRUE
+Mitochondrial protein degradation,R-HSA-9837999,Equilibrium,98,Equilibrium_302,1,TRUE
+Mitochondrial protein import,R-HSA-1268020,Equilibrium,65,Equilibrium_303,1,TRUE
+Mitophagy,R-HSA-5205647,Equilibrium,39,Equilibrium_304,2,TRUE
+Mitotic Anaphase,R-HSA-68882,Equilibrium,222,Equilibrium_26,10,FALSE
+Mitotic G1 phase and G1/S transition,R-HSA-453279,Equilibrium,139,Equilibrium_1,87,FALSE
+Mitotic G2-G2/M phases,R-HSA-453274,Equilibrium,193,Equilibrium_199,2,TRUE
+Mitotic Metaphase and Anaphase,R-HSA-2555396,Equilibrium,223,Equilibrium_26,10,TRUE
+Mitotic Prometaphase,R-HSA-68877,Equilibrium,204,Equilibrium_26,10,FALSE
+Mitotic Prophase,R-HSA-68875,Equilibrium,111,Equilibrium_305,1,TRUE
+Mitotic Spindle Checkpoint,R-HSA-69618,Equilibrium,111,Equilibrium_26,10,FALSE
+Molecules associated with elastic fibres,R-HSA-2129379,Equilibrium,37,Equilibrium_169,2,FALSE
+Muscle contraction,R-HSA-397014,Equilibrium,204,Equilibrium_75,2,TRUE
+MyD88 cascade initiated on plasma membrane,R-HSA-975871,Equilibrium,98,Equilibrium_254,18,FALSE
+MyD88 deficiency (TLR2/4),R-HSA-5602498,Equilibrium,19,Equilibrium_147,5,FALSE
+MyD88 dependent cascade initiated on endosome,R-HSA-975155,Equilibrium,103,Equilibrium_254,18,FALSE
+MyD88-independent TLR4 cascade,R-HSA-166166,Equilibrium,110,Equilibrium_254,18,FALSE
+MyD88:MAL(TIRAP) cascade initiated on plasma membrane,R-HSA-166058,Equilibrium,115,Equilibrium_254,18,FALSE
+Myogenesis,R-HSA-525793,Equilibrium,29,Equilibrium_306,1,TRUE
+N-Glycan antennae elongation,R-HSA-975577,Equilibrium,15,Equilibrium_307,2,FALSE
+N-glycan antennae elongation in the medial/trans-Golgi,R-HSA-975576,Equilibrium,26,Equilibrium_307,2,TRUE
+N-glycan trimming in the ER and Calnexin/Calreticulin cycle,R-HSA-532668,Equilibrium,35,Equilibrium_73,3,TRUE
+NCAM signaling for neurite out-growth,R-HSA-375165,Equilibrium,63,Equilibrium_308,2,TRUE
+NCAM1 interactions,R-HSA-419037,Equilibrium,42,Equilibrium_308,2,FALSE
+NEP/NS2 Interacts with the Cellular Export Machinery,R-HSA-168333,Equilibrium,38,Equilibrium_131,30,FALSE
+NFE2L2 regulating anti-oxidant/detoxification enzymes,R-HSA-9818027,Equilibrium,20,Equilibrium_309,1,TRUE
+NGF-stimulated transcription,R-HSA-9031628,Equilibrium,39,Equilibrium_310,4,FALSE
+NIK-->noncanonical NF-kB signaling,R-HSA-5676590,Equilibrium,46,Equilibrium_1,87,FALSE
+NOD1/2 Signaling Pathway,R-HSA-168638,Equilibrium,37,Equilibrium_264,4,FALSE
+NOTCH1 Intracellular Domain Regulates Transcription,R-HSA-2122947,Equilibrium,48,Equilibrium_113,7,FALSE
+NOTCH2 Activation and Transmission of Signal to the Nucleus,R-HSA-2979096,Equilibrium,25,Equilibrium_7,5,FALSE
+NOTCH3 Activation and Transmission of Signal to the Nucleus,R-HSA-9013507,Equilibrium,25,Equilibrium_7,5,FALSE
+NOTCH4 Intracellular Domain Regulates Transcription,R-HSA-9013695,Equilibrium,20,Equilibrium_311,2,TRUE
+NPAS4 regulates expression of target genes,R-HSA-9768919,Equilibrium,22,Equilibrium_312,2,FALSE
+NR1H2 and NR1H3-mediated signaling,R-HSA-9024446,Equilibrium,54,Equilibrium_313,2,TRUE
+NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux,R-HSA-9029569,Equilibrium,44,Equilibrium_313,2,FALSE
+NRAGE signals death through JNK,R-HSA-193648,Equilibrium,59,Equilibrium_82,5,FALSE
+NRIF signals cell death from the nucleus,R-HSA-205043,Equilibrium,16,Equilibrium_314,1,TRUE
+NS1 Mediated Effects on Host Pathways,R-HSA-168276,Equilibrium,44,Equilibrium_131,30,FALSE
+Neddylation,R-HSA-8951664,Equilibrium,234,Equilibrium_315,1,TRUE
+Nef-mediates down modulation of cell surface receptors by recruiting them to clathrin adapters,R-HSA-164938,Equilibrium,22,Equilibrium_316,2,FALSE
+Negative Regulation of CDH1 Gene Transcription,R-HSA-9764725,Equilibrium,63,Equilibrium_317,2,FALSE
+Negative epigenetic regulation of rRNA expression,R-HSA-5250941,Equilibrium,82,Equilibrium_50,13,FALSE
+Negative regulation of FGFR1 signaling,R-HSA-5654726,Equilibrium,33,Equilibrium_6,70,FALSE
+Negative regulation of FGFR2 signaling,R-HSA-5654727,Equilibrium,34,Equilibrium_6,70,FALSE
+Negative regulation of FGFR3 signaling,R-HSA-5654732,Equilibrium,29,Equilibrium_6,70,FALSE
+Negative regulation of FGFR4 signaling,R-HSA-5654733,Equilibrium,31,Equilibrium_6,70,FALSE
+Negative regulation of FLT3,R-HSA-9706369,Equilibrium,15,Equilibrium_318,1,TRUE
+Negative regulation of MAPK pathway,R-HSA-5675221,Equilibrium,43,Equilibrium_319,1,TRUE
+Negative regulation of MET activity,R-HSA-6807004,Equilibrium,21,Equilibrium_241,3,FALSE
+Negative regulation of NMDA receptor-mediated neuronal transmission,R-HSA-9617324,Equilibrium,21,Equilibrium_69,5,FALSE
+Negative regulation of NOTCH4 signaling,R-HSA-9604323,Equilibrium,44,Equilibrium_1,87,FALSE
+Negative regulation of the PI3K/AKT network,R-HSA-199418,Equilibrium,121,Equilibrium_111,4,TRUE
+Negative regulators of DDX58/IFIH1 signaling,R-HSA-936440,Equilibrium,35,Equilibrium_320,1,TRUE
+Nephrin family interactions,R-HSA-373753,Equilibrium,23,Equilibrium_321,1,TRUE
+Netrin-1 signaling,R-HSA-373752,Equilibrium,44,Equilibrium_322,1,TRUE
+Neurexins and neuroligins,R-HSA-6794361,Equilibrium,57,Equilibrium_323,2,FALSE
+Neurodegenerative Diseases,R-HSA-8863678,Equilibrium,22,Equilibrium_130,3,FALSE
+Neurotransmitter receptors and postsynaptic signal transmission,R-HSA-112314,Equilibrium,205,Equilibrium_324,2,FALSE
+Neurotransmitter release cycle,R-HSA-112310,Equilibrium,51,Equilibrium_325,1,TRUE
+Nicotinate metabolism,R-HSA-196807,Equilibrium,29,Equilibrium_326,1,TRUE
+Nitric oxide stimulates guanylate cyclase,R-HSA-392154,Equilibrium,23,Equilibrium_327,1,TRUE
+NoRC negatively regulates rRNA expression,R-HSA-427413,Equilibrium,76,Equilibrium_50,13,FALSE
+Non-integrin membrane-ECM interactions,R-HSA-3000171,Equilibrium,80,Equilibrium_328,1,TRUE
+Nonhomologous End-Joining (NHEJ),R-HSA-5693571,Equilibrium,51,Equilibrium_125,3,FALSE
+Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),R-HSA-975957,Equilibrium,120,Equilibrium_90,20,FALSE
+Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),R-HSA-975956,Equilibrium,100,Equilibrium_90,20,FALSE
+Nonsense-Mediated Decay (NMD),R-HSA-927802,Equilibrium,120,Equilibrium_90,20,FALSE
+Norepinephrine Neurotransmitter Release Cycle,R-HSA-181430,Equilibrium,18,Equilibrium_154,4,FALSE
+Notch-HLH transcription pathway,R-HSA-350054,Equilibrium,28,Equilibrium_329,1,TRUE
+Nuclear Envelope (NE) Reassembly,R-HSA-2995410,Equilibrium,76,Equilibrium_330,1,TRUE
+Nuclear Envelope Breakdown,R-HSA-2980766,Equilibrium,53,Equilibrium_131,30,FALSE
+Nuclear Events (kinase and transcription factor activation),R-HSA-198725,Equilibrium,61,Equilibrium_310,4,FALSE
+Nuclear Pore Complex (NPC) Disassembly,R-HSA-3301854,Equilibrium,36,Equilibrium_131,30,FALSE
+Nuclear RNA decay,R-HSA-9930044,Equilibrium,35,Equilibrium_331,1,TRUE
+Nuclear Receptor transcription pathway,R-HSA-383280,Equilibrium,53,Equilibrium_332,1,TRUE
+Nuclear events mediated by NFE2L2,R-HSA-9759194,Equilibrium,88,Equilibrium_88,3,FALSE
+Nuclear events stimulated by ALK signaling in cancer,R-HSA-9725371,Equilibrium,35,Equilibrium_333,1,TRUE
+Nuclear import of Rev protein,R-HSA-180746,Equilibrium,35,Equilibrium_131,30,FALSE
+Nuclear signaling by ERBB4,R-HSA-1251985,Equilibrium,32,Equilibrium_334,2,FALSE
+Nucleosome assembly,R-HSA-774815,Equilibrium,53,Equilibrium_140,2,FALSE
+Nucleotide Excision Repair,R-HSA-5696398,Equilibrium,108,Equilibrium_53,20,TRUE
+Nucleotide catabolism,R-HSA-8956319,Equilibrium,35,Equilibrium_335,1,TRUE
+Nucleotide salvage,R-HSA-8956321,Equilibrium,23,Equilibrium_336,1,TRUE
+"Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",R-HSA-168643,Equilibrium,61,Equilibrium_264,4,TRUE
+Nucleotide-like (purinergic) receptors,R-HSA-418038,Equilibrium,16,Equilibrium_337,1,TRUE
+O-glycosylation of TSR domain-containing proteins,R-HSA-5173214,Equilibrium,39,Equilibrium_129,5,FALSE
+O-linked glycosylation,R-HSA-5173105,Equilibrium,127,Equilibrium_129,5,TRUE
+O-linked glycosylation of mucins,R-HSA-913709,Equilibrium,65,Equilibrium_129,5,FALSE
+Oncogene Induced Senescence,R-HSA-2559585,Equilibrium,35,Equilibrium_338,1,TRUE
+Oncogenic MAPK signaling,R-HSA-6802957,Equilibrium,82,Equilibrium_273,9,TRUE
+Opioid Signalling,R-HSA-111885,Equilibrium,90,Equilibrium_2,43,FALSE
+Orc1 removal from chromatin,R-HSA-68949,Equilibrium,58,Equilibrium_1,87,FALSE
+Organelle biogenesis and maintenance,R-HSA-1852241,Equilibrium,296,Equilibrium_99,2,TRUE
+Other interleukin signaling,R-HSA-449836,Equilibrium,24,Equilibrium_339,1,TRUE
+Other semaphorin interactions,R-HSA-416700,Equilibrium,19,Equilibrium_340,1,TRUE
+Ovarian tumor domain proteases,R-HSA-5689896,Equilibrium,39,Equilibrium_341,1,TRUE
+Oxidative Stress Induced Senescence,R-HSA-2559580,Equilibrium,94,Equilibrium_86,2,FALSE
+Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha,R-HSA-1234176,Equilibrium,53,Equilibrium_1,87,FALSE
+PCNA-Dependent Long Patch Base Excision Repair,R-HSA-5651801,Equilibrium,21,Equilibrium_53,20,FALSE
+PCP/CE pathway,R-HSA-4086400,Equilibrium,79,Equilibrium_1,87,FALSE
+PD-L1(CD274) glycosylation and translocation to plasma membrane,R-HSA-9931295,Equilibrium,21,Equilibrium_342,1,TRUE
+PELO:HBS1L and ABCE1 dissociate a ribosome on a non-stop mRNA,R-HSA-9954714,Equilibrium,95,Equilibrium_90,20,FALSE
+PERK regulates gene expression,R-HSA-381042,Equilibrium,32,Equilibrium_4,2,TRUE
+PI Metabolism,R-HSA-1483255,Equilibrium,84,Equilibrium_343,2,TRUE
+PI-3K cascade:FGFR1,R-HSA-5654689,Equilibrium,21,Equilibrium_6,70,FALSE
+PI-3K cascade:FGFR2,R-HSA-5654695,Equilibrium,23,Equilibrium_6,70,FALSE
+PI-3K cascade:FGFR3,R-HSA-5654710,Equilibrium,18,Equilibrium_6,70,FALSE
+PI-3K cascade:FGFR4,R-HSA-5654720,Equilibrium,20,Equilibrium_6,70,FALSE
+PI3K Cascade,R-HSA-109704,Equilibrium,44,Equilibrium_6,70,FALSE
+PI3K events in ERBB2 signaling,R-HSA-1963642,Equilibrium,16,Equilibrium_112,15,FALSE
+PI3K/AKT Signaling in Cancer,R-HSA-2219528,Equilibrium,113,Equilibrium_111,4,FALSE
+"PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",R-HSA-6811558,Equilibrium,114,Equilibrium_111,4,FALSE
+PINK1-PRKN Mediated Mitophagy,R-HSA-5205685,Equilibrium,32,Equilibrium_304,2,FALSE
+PIP3 activates AKT signaling,R-HSA-1257604,Equilibrium,284,Equilibrium_344,2,TRUE
+PIWI-interacting RNA (piRNA) biogenesis,R-HSA-5601884,Equilibrium,29,Equilibrium_345,1,TRUE
+PKA activation,R-HSA-163615,Equilibrium,18,Equilibrium_2,43,FALSE
+PKA activation in glucagon signalling,R-HSA-164378,Equilibrium,17,Equilibrium_2,43,FALSE
+PKA-mediated phosphorylation of CREB,R-HSA-111931,Equilibrium,20,Equilibrium_2,43,FALSE
+PKR-mediated signaling,R-HSA-9833482,Equilibrium,81,Equilibrium_346,1,TRUE
+PLC beta mediated events,R-HSA-112043,Equilibrium,49,Equilibrium_2,43,FALSE
+PPARA activates gene expression,R-HSA-1989781,Equilibrium,117,Equilibrium_347,2,FALSE
+PTEN Regulation,R-HSA-6807070,Equilibrium,145,Equilibrium_344,2,FALSE
+Paracetamol ADME,R-HSA-9753281,Equilibrium,30,Equilibrium_348,1,TRUE
+Paradoxical activation of RAF signaling by kinase inactive BRAF,R-HSA-6802955,Equilibrium,45,Equilibrium_273,9,FALSE
+Parasite infection,R-HSA-9664407,Equilibrium,142,Equilibrium_28,20,FALSE
+Parasitic Infection Pathways,R-HSA-9824443,Equilibrium,245,Equilibrium_28,20,FALSE
+Pausing and recovery of HIV elongation,R-HSA-167290,Equilibrium,33,Equilibrium_6,70,FALSE
+Pausing and recovery of Tat-mediated HIV elongation,R-HSA-167238,Equilibrium,32,Equilibrium_6,70,FALSE
+Peptide chain elongation,R-HSA-156902,Equilibrium,94,Equilibrium_90,20,FALSE
+Peptide hormone metabolism,R-HSA-2980736,Equilibrium,86,Equilibrium_349,1,TRUE
+Peptide ligand-binding receptors,R-HSA-375276,Equilibrium,200,Equilibrium_350,1,TRUE
+Peroxisomal lipid metabolism,R-HSA-390918,Equilibrium,28,Equilibrium_351,1,TRUE
+Peroxisomal protein import,R-HSA-9033241,Equilibrium,63,Equilibrium_352,1,TRUE
+Phase 0 - rapid depolarisation,R-HSA-5576892,Equilibrium,32,Equilibrium_353,1,TRUE
+Phase I - Functionalization of compounds,R-HSA-211945,Equilibrium,105,Equilibrium_117,2,TRUE
+Phase II - Conjugation of compounds,R-HSA-156580,Equilibrium,106,Equilibrium_354,1,TRUE
+Phospholipase C-mediated cascade; FGFR2,R-HSA-5654221,Equilibrium,18,Equilibrium_6,70,FALSE
+Phospholipid metabolism,R-HSA-1483257,Equilibrium,212,Equilibrium_215,2,TRUE
+Phosphorylation of CD3 and TCR zeta chains,R-HSA-202427,Equilibrium,29,Equilibrium_209,2,FALSE
+Phosphorylation of the APC/C,R-HSA-176412,Equilibrium,20,Equilibrium_3,9,FALSE
+Plasma lipoprotein assembly,R-HSA-8963898,Equilibrium,19,Equilibrium_355,1,TRUE
+"Plasma lipoprotein assembly, remodeling, and clearance",R-HSA-174824,Equilibrium,75,Equilibrium_356,1,TRUE
+Plasma lipoprotein clearance,R-HSA-8964043,Equilibrium,37,Equilibrium_268,2,TRUE
+Plasma lipoprotein remodeling,R-HSA-8963899,Equilibrium,34,Equilibrium_42,2,TRUE
+Platelet Aggregation (Plug Formation),R-HSA-76009,Equilibrium,39,Equilibrium_203,4,TRUE
+"Platelet activation, signaling and aggregation",R-HSA-76002,Equilibrium,262,Equilibrium_357,3,TRUE
+Platelet calcium homeostasis,R-HSA-418360,Equilibrium,28,Equilibrium_358,1,TRUE
+Platelet degranulation,R-HSA-114608,Equilibrium,128,Equilibrium_357,3,FALSE
+Platelet homeostasis,R-HSA-418346,Equilibrium,87,Equilibrium_359,1,TRUE
+Platelet sensitization by LDL,R-HSA-432142,Equilibrium,17,Equilibrium_360,1,TRUE
+Polo-like kinase mediated events,R-HSA-156711,Equilibrium,16,Equilibrium_361,1,TRUE
+Positive epigenetic regulation of rRNA expression,R-HSA-5250913,Equilibrium,75,Equilibrium_50,13,FALSE
+Post NMDA receptor activation events,R-HSA-438064,Equilibrium,81,Equilibrium_14,2,FALSE
+Post-chaperonin tubulin folding pathway,R-HSA-389977,Equilibrium,23,Equilibrium_8,12,FALSE
+Post-translational modification: synthesis of GPI-anchored proteins,R-HSA-163125,Equilibrium,93,Equilibrium_362,1,TRUE
+Post-translational protein phosphorylation,R-HSA-8957275,Equilibrium,107,Equilibrium_363,2,FALSE
+Postmitotic nuclear pore complex (NPC) reformation,R-HSA-9615933,Equilibrium,27,Equilibrium_131,30,FALSE
+Potassium Channels,R-HSA-1296071,Equilibrium,103,Equilibrium_364,1,TRUE
+Potential therapeutics for SARS,R-HSA-9679191,Equilibrium,164,Equilibrium_365,1,TRUE
+Pre-NOTCH Expression and Processing,R-HSA-1912422,Equilibrium,94,Equilibrium_366,2,TRUE
+Pre-NOTCH Processing in Golgi,R-HSA-1912420,Equilibrium,18,Equilibrium_367,1,TRUE
+Pre-NOTCH Transcription and Translation,R-HSA-1912408,Equilibrium,78,Equilibrium_366,2,FALSE
+Prefoldin mediated transfer of substrate  to CCT/TriC,R-HSA-389957,Equilibrium,28,Equilibrium_8,12,FALSE
+Presynaptic function of Kainate receptors,R-HSA-500657,Equilibrium,21,Equilibrium_2,43,FALSE
+Presynaptic phase of homologous DNA pairing and strand exchange,R-HSA-5693616,Equilibrium,40,Equilibrium_81,23,FALSE
+Processing of Capped Intron-Containing Pre-mRNA,R-HSA-72203,Equilibrium,296,Equilibrium_368,3,TRUE
+Processing of Capped Intronless Pre-mRNA,R-HSA-75067,Equilibrium,29,Equilibrium_369,2,TRUE
+Processing of DNA double-strand break ends,R-HSA-5693607,Equilibrium,80,Equilibrium_81,23,FALSE
+Processing of Intronless Pre-mRNAs,R-HSA-77595,Equilibrium,20,Equilibrium_369,2,FALSE
+Programmed Cell Death,R-HSA-5357801,Equilibrium,202,Equilibrium_35,2,TRUE
+Prostacyclin signalling through prostacyclin receptor,R-HSA-392851,Equilibrium,19,Equilibrium_2,43,FALSE
+Proteasome assembly,R-HSA-9907900,Equilibrium,52,Equilibrium_1,87,FALSE
+Protein folding,R-HSA-391251,Equilibrium,98,Equilibrium_93,2,TRUE
+Protein hydroxylation,R-HSA-9629569,Equilibrium,20,Equilibrium_370,1,TRUE
+Protein localization,R-HSA-9609507,Equilibrium,164,Equilibrium_371,1,TRUE
+Protein ubiquitination,R-HSA-8852135,Equilibrium,77,Equilibrium_159,2,TRUE
+Protein-protein interactions at synapses,R-HSA-6794362,Equilibrium,88,Equilibrium_323,2,TRUE
+Purine catabolism,R-HSA-74259,Equilibrium,17,Equilibrium_372,1,TRUE
+Purinergic signaling in leishmaniasis infection,R-HSA-9660826,Equilibrium,27,Equilibrium_83,4,FALSE
+Pyroptosis,R-HSA-5620971,Equilibrium,27,Equilibrium_373,1,TRUE
+Pyruvate metabolism,R-HSA-70268,Equilibrium,49,Equilibrium_374,2,TRUE
+RA biosynthesis pathway,R-HSA-5365859,Equilibrium,22,Equilibrium_375,2,FALSE
+RAB GEFs exchange GTP for GDP on RABs,R-HSA-8876198,Equilibrium,90,Equilibrium_376,2,FALSE
+RAB geranylgeranylation,R-HSA-8873719,Equilibrium,65,Equilibrium_377,1,TRUE
+RAC1 GTPase cycle,R-HSA-9013149,Equilibrium,184,Equilibrium_64,2,TRUE
+RAC2 GTPase cycle,R-HSA-9013404,Equilibrium,88,Equilibrium_378,2,FALSE
+RAC3 GTPase cycle,R-HSA-9013423,Equilibrium,94,Equilibrium_378,2,TRUE
+RAF activation,R-HSA-5673000,Equilibrium,34,Equilibrium_379,1,TRUE
+RAF-independent MAPK1/3 activation,R-HSA-112409,Equilibrium,23,Equilibrium_380,1,TRUE
+RAF/MAP kinase cascade,R-HSA-5673001,Equilibrium,265,Equilibrium_275,2,FALSE
+RAS processing,R-HSA-9648002,Equilibrium,24,Equilibrium_381,1,TRUE
+RET signaling,R-HSA-8853659,Equilibrium,41,Equilibrium_382,1,TRUE
+RHO GTPase Effectors,R-HSA-195258,Equilibrium,292,Equilibrium_383,1,TRUE
+RHO GTPases Activate Formins,R-HSA-5663220,Equilibrium,140,Equilibrium_26,10,FALSE
+RHO GTPases Activate NADPH Oxidases,R-HSA-5668599,Equilibrium,24,Equilibrium_384,1,TRUE
+RHO GTPases Activate ROCKs,R-HSA-5627117,Equilibrium,19,Equilibrium_385,4,FALSE
+RHO GTPases Activate WASPs and WAVEs,R-HSA-5663213,Equilibrium,36,Equilibrium_386,1,TRUE
+RHO GTPases activate CIT,R-HSA-5625900,Equilibrium,19,Equilibrium_385,4,FALSE
+RHO GTPases activate IQGAPs,R-HSA-5626467,Equilibrium,32,Equilibrium_8,12,FALSE
+RHO GTPases activate PAKs,R-HSA-5627123,Equilibrium,21,Equilibrium_387,1,TRUE
+RHO GTPases activate PKNs,R-HSA-5625740,Equilibrium,62,Equilibrium_388,1,TRUE
+RHOA GTPase cycle,R-HSA-8980692,Equilibrium,149,Equilibrium_389,1,TRUE
+RHOB GTPase cycle,R-HSA-9013026,Equilibrium,70,Equilibrium_390,2,FALSE
+RHOBTB GTPase Cycle,R-HSA-9706574,Equilibrium,35,Equilibrium_391,3,TRUE
+RHOBTB1 GTPase cycle,R-HSA-9013422,Equilibrium,23,Equilibrium_391,3,FALSE
+RHOBTB2 GTPase cycle,R-HSA-9013418,Equilibrium,23,Equilibrium_391,3,FALSE
+RHOC GTPase cycle,R-HSA-9013106,Equilibrium,74,Equilibrium_390,2,TRUE
+RHOD GTPase cycle,R-HSA-9013405,Equilibrium,53,Equilibrium_392,1,TRUE
+RHOF GTPase cycle,R-HSA-9035034,Equilibrium,42,Equilibrium_393,1,TRUE
+RHOG GTPase cycle,R-HSA-9013408,Equilibrium,74,Equilibrium_394,1,TRUE
+RHOH GTPase cycle,R-HSA-9013407,Equilibrium,37,Equilibrium_395,1,TRUE
+RHOJ GTPase cycle,R-HSA-9013409,Equilibrium,55,Equilibrium_396,2,FALSE
+RHOQ GTPase cycle,R-HSA-9013406,Equilibrium,59,Equilibrium_396,2,TRUE
+RHOU GTPase cycle,R-HSA-9013420,Equilibrium,40,Equilibrium_397,1,TRUE
+RHOV GTPase cycle,R-HSA-9013424,Equilibrium,37,Equilibrium_398,1,TRUE
+RIP-mediated NFkB activation via ZBP1,R-HSA-1810476,Equilibrium,17,Equilibrium_399,2,FALSE
+RIPK1-mediated regulated necrosis,R-HSA-5213460,Equilibrium,34,Equilibrium_400,3,FALSE
+RNA Pol II CTD phosphorylation and interaction with CE,R-HSA-77075,Equilibrium,27,Equilibrium_6,70,FALSE
+RNA Pol II CTD phosphorylation and interaction with CE during HIV infection,R-HSA-167160,Equilibrium,27,Equilibrium_6,70,FALSE
+RNA Polymerase I Promoter Clearance,R-HSA-73854,Equilibrium,79,Equilibrium_50,13,FALSE
+RNA Polymerase I Promoter Escape,R-HSA-73772,Equilibrium,59,Equilibrium_50,13,FALSE
+RNA Polymerase I Transcription,R-HSA-73864,Equilibrium,81,Equilibrium_50,13,FALSE
+RNA Polymerase I Transcription Initiation,R-HSA-73762,Equilibrium,48,Equilibrium_50,13,FALSE
+RNA Polymerase I Transcription Termination,R-HSA-73863,Equilibrium,33,Equilibrium_50,13,FALSE
+RNA Polymerase II HIV Promoter Escape,R-HSA-167162,Equilibrium,48,Equilibrium_6,70,FALSE
+RNA Polymerase II Pre-transcription Events,R-HSA-674695,Equilibrium,82,Equilibrium_6,70,FALSE
+RNA Polymerase II Promoter Escape,R-HSA-73776,Equilibrium,48,Equilibrium_6,70,FALSE
+RNA Polymerase II Transcription Elongation,R-HSA-75955,Equilibrium,58,Equilibrium_6,70,FALSE
+RNA Polymerase II Transcription Initiation,R-HSA-75953,Equilibrium,48,Equilibrium_6,70,FALSE
+RNA Polymerase II Transcription Initiation And Promoter Clearance,R-HSA-76042,Equilibrium,48,Equilibrium_6,70,FALSE
+RNA Polymerase II Transcription Pre-Initiation And Promoter Opening,R-HSA-73779,Equilibrium,48,Equilibrium_6,70,FALSE
+RNA Polymerase II Transcription Termination,R-HSA-73856,Equilibrium,67,Equilibrium_401,1,TRUE
+RNA Polymerase III Abortive And Retractive Initiation,R-HSA-749476,Equilibrium,41,Equilibrium_402,8,TRUE
+RNA Polymerase III Chain Elongation,R-HSA-73780,Equilibrium,18,Equilibrium_402,8,FALSE
+RNA Polymerase III Transcription,R-HSA-74158,Equilibrium,41,Equilibrium_402,8,FALSE
+RNA Polymerase III Transcription Initiation,R-HSA-76046,Equilibrium,36,Equilibrium_402,8,FALSE
+RNA Polymerase III Transcription Initiation From Type 1 Promoter,R-HSA-76061,Equilibrium,28,Equilibrium_402,8,FALSE
+RNA Polymerase III Transcription Initiation From Type 2 Promoter,R-HSA-76066,Equilibrium,27,Equilibrium_402,8,FALSE
+RNA Polymerase III Transcription Initiation From Type 3 Promoter,R-HSA-76071,Equilibrium,28,Equilibrium_402,8,FALSE
+RNA Polymerase III Transcription Termination,R-HSA-73980,Equilibrium,23,Equilibrium_402,8,FALSE
+RNA polymerase II transcribes snRNA genes,R-HSA-6807505,Equilibrium,81,Equilibrium_403,1,TRUE
+RND1 GTPase cycle,R-HSA-9696273,Equilibrium,42,Equilibrium_404,1,TRUE
+RND2 GTPase cycle,R-HSA-9696270,Equilibrium,43,Equilibrium_405,1,TRUE
+RND3 GTPase cycle,R-HSA-9696264,Equilibrium,42,Equilibrium_406,1,TRUE
+ROS and RNS production in phagocytes,R-HSA-1222556,Equilibrium,36,Equilibrium_245,4,FALSE
+RSV-host interactions,R-HSA-9833110,Equilibrium,109,Equilibrium_407,2,FALSE
+RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known,R-HSA-8939243,Equilibrium,37,Equilibrium_408,1,TRUE
+RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function,R-HSA-8936459,Equilibrium,65,Equilibrium_409,1,TRUE
+RUNX1 regulates transcription of genes involved in differentiation of HSCs,R-HSA-8939236,Equilibrium,85,Equilibrium_1,87,FALSE
+RUNX2 regulates bone development,R-HSA-8941326,Equilibrium,31,Equilibrium_410,2,TRUE
+RUNX2 regulates osteoblast differentiation,R-HSA-8940973,Equilibrium,24,Equilibrium_410,2,FALSE
+Rab regulation of trafficking,R-HSA-9007101,Equilibrium,123,Equilibrium_376,2,TRUE
+Rap1 signalling,R-HSA-392517,Equilibrium,16,Equilibrium_411,1,TRUE
+Ras activation upon Ca2+ influx through NMDA receptor,R-HSA-442982,Equilibrium,20,Equilibrium_69,5,FALSE
+Receptor-type tyrosine-protein phosphatases,R-HSA-388844,Equilibrium,20,Equilibrium_412,1,TRUE
+Recognition of DNA damage by PCNA-containing replication complex,R-HSA-110314,Equilibrium,30,Equilibrium_53,20,FALSE
+Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks,R-HSA-5693565,Equilibrium,60,Equilibrium_125,3,FALSE
+Recruitment of NuMA to mitotic centrosomes,R-HSA-380320,Equilibrium,95,Equilibrium_5,8,FALSE
+Recruitment of mitotic centrosome proteins and complexes,R-HSA-380270,Equilibrium,81,Equilibrium_5,8,FALSE
+Recycling of bile acids and salts,R-HSA-159418,Equilibrium,18,Equilibrium_413,1,TRUE
+Recycling pathway of L1,R-HSA-437239,Equilibrium,49,Equilibrium_414,1,TRUE
+Regulated Necrosis,R-HSA-5218859,Equilibrium,61,Equilibrium_400,3,TRUE
+Regulation of APC/C activators between G1/S and early anaphase,R-HSA-176408,Equilibrium,68,Equilibrium_1,87,FALSE
+Regulation of Apoptosis,R-HSA-169911,Equilibrium,40,Equilibrium_1,87,FALSE
+Regulation of CDH1 Expression and Function,R-HSA-9764265,Equilibrium,176,Equilibrium_19,6,FALSE
+Regulation of CDH1 Function,R-HSA-9764561,Equilibrium,61,Equilibrium_1,87,FALSE
+Regulation of CDH1 Gene Transcription,R-HSA-9764560,Equilibrium,73,Equilibrium_317,2,TRUE
+Regulation of CDH1 posttranslational processing and trafficking to plasma membrane,R-HSA-9768727,Equilibrium,32,Equilibrium_415,1,TRUE
+Regulation of CDH11 Expression and Function,R-HSA-9759475,Equilibrium,30,Equilibrium_416,2,FALSE
+Regulation of Complement cascade,R-HSA-977606,Equilibrium,128,Equilibrium_28,20,FALSE
+Regulation of Expression and Function of Type I Classical Cadherins,R-HSA-9764274,Equilibrium,176,Equilibrium_19,6,FALSE
+Regulation of Expression and Function of Type II Classical Cadherins,R-HSA-9764260,Equilibrium,33,Equilibrium_416,2,TRUE
+Regulation of FZD by ubiquitination,R-HSA-4641263,Equilibrium,21,Equilibrium_417,1,TRUE
+Regulation of Glucokinase by Glucokinase Regulatory Protein,R-HSA-170822,Equilibrium,32,Equilibrium_131,30,FALSE
+Regulation of HSF1-mediated heat shock response,R-HSA-3371453,Equilibrium,84,Equilibrium_89,2,FALSE
+Regulation of Homotypic Cell-Cell Adhesion,R-HSA-9759476,Equilibrium,194,Equilibrium_19,6,FALSE
+Regulation of IFNA/IFNB signaling,R-HSA-912694,Equilibrium,25,Equilibrium_418,1,TRUE
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),R-HSA-381426,Equilibrium,124,Equilibrium_363,2,TRUE
+Regulation of MECP2 expression and activity,R-HSA-9022692,Equilibrium,32,Equilibrium_419,2,FALSE
+Regulation of MITF-M-dependent genes involved in cell cycle and proliferation,R-HSA-9825892,Equilibrium,18,Equilibrium_420,1,TRUE
+Regulation of MITF-M-dependent genes involved in lysosome biogenesis and autophagy,R-HSA-9857377,Equilibrium,17,Equilibrium_421,1,TRUE
+Regulation of NF-kappa B signaling,R-HSA-9758274,Equilibrium,18,Equilibrium_422,1,TRUE
+Regulation of PD-L1(CD274) Post-translational modification,R-HSA-9909615,Equilibrium,86,Equilibrium_1,87,FALSE
+Regulation of PD-L1(CD274) expression,R-HSA-9909648,Equilibrium,178,Equilibrium_106,3,FALSE
+Regulation of PLK1 Activity at G2/M Transition,R-HSA-2565942,Equilibrium,87,Equilibrium_5,8,FALSE
+Regulation of PTEN gene transcription,R-HSA-8943724,Equilibrium,61,Equilibrium_423,1,TRUE
+Regulation of PTEN stability and activity,R-HSA-8948751,Equilibrium,56,Equilibrium_1,87,FALSE
+Regulation of RAS by GAPs,R-HSA-5658442,Equilibrium,55,Equilibrium_1,87,FALSE
+Regulation of RUNX2 expression and activity,R-HSA-8939902,Equilibrium,59,Equilibrium_1,87,FALSE
+Regulation of RUNX3 expression and activity,R-HSA-8941858,Equilibrium,45,Equilibrium_1,87,FALSE
+Regulation of T cell activation by CD28 family,R-HSA-388841,Equilibrium,258,Equilibrium_106,3,TRUE
+Regulation of TLR by endogenous ligand,R-HSA-5686938,Equilibrium,22,Equilibrium_147,5,FALSE
+Regulation of TNFR1 signaling,R-HSA-5357905,Equilibrium,50,Equilibrium_424,4,FALSE
+Regulation of TP53 Activity,R-HSA-5633007,Equilibrium,161,Equilibrium_425,2,TRUE
+Regulation of TP53 Activity through Acetylation,R-HSA-6804758,Equilibrium,30,Equilibrium_426,1,TRUE
+Regulation of TP53 Activity through Methylation,R-HSA-6804760,Equilibrium,19,Equilibrium_427,1,TRUE
+Regulation of TP53 Activity through Phosphorylation,R-HSA-6804756,Equilibrium,93,Equilibrium_425,2,FALSE
+Regulation of TP53 Degradation,R-HSA-6804757,Equilibrium,36,Equilibrium_428,2,FALSE
+Regulation of TP53 Expression and Degradation,R-HSA-6806003,Equilibrium,37,Equilibrium_428,2,TRUE
+Regulation of actin dynamics for phagocytic cup formation,R-HSA-2029482,Equilibrium,143,Equilibrium_28,20,FALSE
+Regulation of beta-cell development,R-HSA-186712,Equilibrium,42,Equilibrium_429,2,TRUE
+Regulation of cholesterol biosynthesis by SREBP (SREBF),R-HSA-1655829,Equilibrium,55,Equilibrium_16,2,TRUE
+Regulation of endogenous retroelements,R-HSA-9842860,Equilibrium,111,Equilibrium_50,13,TRUE
+Regulation of endogenous retroelements by KRAB-ZFP proteins,R-HSA-9843940,Equilibrium,76,Equilibrium_50,13,FALSE
+Regulation of endogenous retroelements by Piwi-interacting RNAs (piRNAs),R-HSA-9845323,Equilibrium,66,Equilibrium_50,13,FALSE
+Regulation of expression of SLITs and ROBOs,R-HSA-9010553,Equilibrium,164,Equilibrium_90,20,FALSE
+Regulation of gene expression in beta cells,R-HSA-210745,Equilibrium,21,Equilibrium_429,2,FALSE
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,R-HSA-210744,Equilibrium,16,Equilibrium_311,2,FALSE
+Regulation of insulin secretion,R-HSA-422356,Equilibrium,78,Equilibrium_2,43,FALSE
+Regulation of lipid metabolism by PPARalpha,R-HSA-400206,Equilibrium,119,Equilibrium_347,2,TRUE
+Regulation of mRNA stability by proteins that bind AU-rich elements,R-HSA-450531,Equilibrium,76,Equilibrium_1,87,FALSE
+Regulation of mitotic cell cycle,R-HSA-453276,Equilibrium,75,Equilibrium_1,87,FALSE
+Regulation of necroptotic cell death,R-HSA-5675482,Equilibrium,32,Equilibrium_400,3,FALSE
+Regulation of ornithine decarboxylase (ODC),R-HSA-350562,Equilibrium,38,Equilibrium_1,87,FALSE
+Regulation of pyruvate dehydrogenase (PDH) complex,R-HSA-204174,Equilibrium,15,Equilibrium_430,1,TRUE
+Regulation of pyruvate metabolism,R-HSA-9861718,Equilibrium,33,Equilibrium_374,2,FALSE
+Regulation of signaling by CBL,R-HSA-912631,Equilibrium,22,Equilibrium_431,1,TRUE
+Reproduction,R-HSA-1474165,Equilibrium,127,Equilibrium_283,4,TRUE
+Resolution of AP sites via the multiple-nucleotide patch replacement pathway,R-HSA-110373,Equilibrium,25,Equilibrium_53,20,FALSE
+Resolution of Abasic Sites (AP sites),R-HSA-73933,Equilibrium,38,Equilibrium_53,20,FALSE
+Resolution of D-Loop Structures,R-HSA-5693537,Equilibrium,36,Equilibrium_81,23,FALSE
+Resolution of D-loop Structures through Holliday Junction Intermediates,R-HSA-5693568,Equilibrium,35,Equilibrium_81,23,FALSE
+Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA),R-HSA-5693554,Equilibrium,27,Equilibrium_81,23,FALSE
+Resolution of Sister Chromatid Cohesion,R-HSA-2500257,Equilibrium,127,Equilibrium_26,10,FALSE
+Respiratory Syncytial Virus Infection Pathway,R-HSA-9820952,Equilibrium,133,Equilibrium_407,2,TRUE
+Respiratory electron transport,R-HSA-611105,Equilibrium,159,Equilibrium_21,2,FALSE
+Respiratory syncytial virus (RSV) attachment and entry,R-HSA-9820960,Equilibrium,32,Equilibrium_432,1,TRUE
+"Respiratory syncytial virus (RSV) genome replication, transcription and translation",R-HSA-9820965,Equilibrium,30,Equilibrium_433,1,TRUE
+Response of Mtb to phagocytosis,R-HSA-9637690,Equilibrium,39,Equilibrium_434,1,TRUE
+Response of endothelial cells to shear stress,R-HSA-9860931,Equilibrium,93,Equilibrium_91,3,FALSE
+Response to elevated platelet cytosolic Ca2+,R-HSA-76005,Equilibrium,133,Equilibrium_357,3,FALSE
+Retinoid metabolism and transport,R-HSA-975634,Equilibrium,44,Equilibrium_288,2,FALSE
+Retrograde transport at the Trans-Golgi-Network,R-HSA-6811440,Equilibrium,49,Equilibrium_435,1,TRUE
+Rev-mediated nuclear export of HIV RNA,R-HSA-165054,Equilibrium,36,Equilibrium_131,30,FALSE
+Role of phospholipids in phagocytosis,R-HSA-2029485,Equilibrium,107,Equilibrium_28,20,FALSE
+S Phase,R-HSA-69242,Equilibrium,150,Equilibrium_1,87,FALSE
+SARS-CoV-1 Infection,R-HSA-9678108,Equilibrium,157,Equilibrium_436,2,TRUE
+SARS-CoV-1 activates/modulates innate immune responses,R-HSA-9692916,Equilibrium,54,Equilibrium_437,1,TRUE
+SARS-CoV-1 modulates host translation machinery,R-HSA-9735869,Equilibrium,41,Equilibrium_194,3,FALSE
+SARS-CoV-1 targets host intracellular signalling and regulatory pathways,R-HSA-9735871,Equilibrium,19,Equilibrium_438,1,TRUE
+SARS-CoV-1-host interactions,R-HSA-9692914,Equilibrium,112,Equilibrium_436,2,FALSE
+SARS-CoV-2 activates/modulates innate and adaptive immune responses,R-HSA-9705671,Equilibrium,138,Equilibrium_439,2,FALSE
+SARS-CoV-2 modulates host translation machinery,R-HSA-9754678,Equilibrium,55,Equilibrium_194,3,TRUE
+SARS-CoV-2-host interactions,R-HSA-9705683,Equilibrium,218,Equilibrium_439,2,TRUE
+SCF(Skp2)-mediated degradation of p27/p21,R-HSA-187577,Equilibrium,50,Equilibrium_1,87,FALSE
+SCF-beta-TrCP mediated degradation of Emi1,R-HSA-174113,Equilibrium,42,Equilibrium_1,87,FALSE
+SHC-mediated cascade:FGFR1,R-HSA-5654688,Equilibrium,21,Equilibrium_6,70,FALSE
+SHC-mediated cascade:FGFR2,R-HSA-5654699,Equilibrium,23,Equilibrium_6,70,FALSE
+SHC-mediated cascade:FGFR3,R-HSA-5654704,Equilibrium,18,Equilibrium_6,70,FALSE
+SHC-mediated cascade:FGFR4,R-HSA-5654719,Equilibrium,20,Equilibrium_6,70,FALSE
+SHC1 events in ERBB2 signaling,R-HSA-1250196,Equilibrium,22,Equilibrium_112,15,FALSE
+SLC transporter disorders,R-HSA-5619102,Equilibrium,98,Equilibrium_153,2,FALSE
+SLC-mediated transmembrane transport,R-HSA-425407,Equilibrium,244,Equilibrium_440,1,TRUE
+SLC-mediated transport of amino acids,R-HSA-9958863,Equilibrium,37,Equilibrium_24,2,TRUE
+SLC-mediated transport of inorganic anions,R-HSA-9958790,Equilibrium,35,Equilibrium_441,1,TRUE
+SLC-mediated transport of neurotransmitters,R-HSA-442660,Equilibrium,21,Equilibrium_442,1,TRUE
+SLC-mediated transport of organic anions,R-HSA-9955298,Equilibrium,38,Equilibrium_443,1,TRUE
+SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription,R-HSA-2173796,Equilibrium,36,Equilibrium_155,7,FALSE
+SPOP-mediated proteasomal degradation of PD-L1(CD274),R-HSA-9929491,Equilibrium,46,Equilibrium_1,87,FALSE
+SRP-dependent cotranslational protein targeting to membrane,R-HSA-1799339,Equilibrium,119,Equilibrium_90,20,FALSE
+SUMO E3 ligases SUMOylate target proteins,R-HSA-3108232,Equilibrium,170,Equilibrium_444,2,FALSE
+SUMOylation,R-HSA-2990846,Equilibrium,176,Equilibrium_444,2,TRUE
+SUMOylation of DNA damage response and repair proteins,R-HSA-3108214,Equilibrium,77,Equilibrium_131,30,FALSE
+SUMOylation of DNA methylation proteins,R-HSA-4655427,Equilibrium,16,Equilibrium_445,1,TRUE
+SUMOylation of DNA replication proteins,R-HSA-4615885,Equilibrium,46,Equilibrium_131,30,FALSE
+SUMOylation of RNA binding proteins,R-HSA-4570464,Equilibrium,47,Equilibrium_131,30,FALSE
+SUMOylation of SUMOylation proteins,R-HSA-4085377,Equilibrium,35,Equilibrium_131,30,FALSE
+SUMOylation of chromatin organization proteins,R-HSA-4551638,Equilibrium,58,Equilibrium_131,30,FALSE
+SUMOylation of intracellular receptors,R-HSA-4090294,Equilibrium,30,Equilibrium_446,1,TRUE
+SUMOylation of ubiquitinylation proteins,R-HSA-3232142,Equilibrium,39,Equilibrium_131,30,FALSE
+Scavenging by Class A Receptors,R-HSA-3000480,Equilibrium,19,Equilibrium_447,1,TRUE
+Sealing of the nuclear envelope (NE) by ESCRT-III,R-HSA-9668328,Equilibrium,32,Equilibrium_8,12,FALSE
+Selective autophagy,R-HSA-9663891,Equilibrium,90,Equilibrium_48,3,FALSE
+Selenoamino acid metabolism,R-HSA-2408522,Equilibrium,122,Equilibrium_90,20,FALSE
+Selenocysteine synthesis,R-HSA-2408557,Equilibrium,98,Equilibrium_90,20,FALSE
+Sema3A PAK dependent Axon repulsion,R-HSA-399954,Equilibrium,16,Equilibrium_448,1,TRUE
+Sema4D in semaphorin signaling,R-HSA-400685,Equilibrium,24,Equilibrium_385,4,TRUE
+Sema4D induced cell migration and growth-cone collapse,R-HSA-416572,Equilibrium,20,Equilibrium_385,4,FALSE
+Semaphorin interactions,R-HSA-373755,Equilibrium,64,Equilibrium_449,1,TRUE
+Senescence-Associated Secretory Phenotype (SASP),R-HSA-2559582,Equilibrium,80,Equilibrium_450,1,TRUE
+"Sensory perception of sweet, bitter, and umami (glutamate) taste",R-HSA-9717207,Equilibrium,41,Equilibrium_451,2,FALSE
+Sensory perception of taste,R-HSA-9717189,Equilibrium,47,Equilibrium_451,2,TRUE
+Sensory processing of sound,R-HSA-9659379,Equilibrium,77,Equilibrium_452,3,TRUE
+Sensory processing of sound by inner hair cells of the cochlea,R-HSA-9662360,Equilibrium,69,Equilibrium_452,3,FALSE
+Sensory processing of sound by outer hair cells of the cochlea,R-HSA-9662361,Equilibrium,55,Equilibrium_452,3,FALSE
+Separation of Sister Chromatids,R-HSA-2467813,Equilibrium,178,Equilibrium_26,10,FALSE
+Serotonin Neurotransmitter Release Cycle,R-HSA-181429,Equilibrium,18,Equilibrium_154,4,FALSE
+Sialic acid metabolism,R-HSA-4085001,Equilibrium,33,Equilibrium_59,3,FALSE
+Signal amplification,R-HSA-392518,Equilibrium,33,Equilibrium_2,43,FALSE
+Signal transduction by L1,R-HSA-445144,Equilibrium,21,Equilibrium_453,1,TRUE
+Signaling by ALK,R-HSA-201556,Equilibrium,30,Equilibrium_454,1,TRUE
+Signaling by ALK fusions and activated point mutants,R-HSA-9725370,Equilibrium,93,Equilibrium_455,2,TRUE
+Signaling by ALK in cancer,R-HSA-9700206,Equilibrium,93,Equilibrium_455,2,FALSE
+Signaling by Activin,R-HSA-1502540,Equilibrium,17,Equilibrium_456,1,TRUE
+Signaling by BMP,R-HSA-201451,Equilibrium,31,Equilibrium_457,1,TRUE
+Signaling by BRAF and RAF1 fusions,R-HSA-6802952,Equilibrium,65,Equilibrium_273,9,FALSE
+Signaling by CSF1 (M-CSF) in myeloid cells,R-HSA-9680350,Equilibrium,31,Equilibrium_458,1,TRUE
+Signaling by CSF3 (G-CSF),R-HSA-9674555,Equilibrium,30,Equilibrium_236,2,TRUE
+Signaling by CTNNB1 phospho-site mutants,R-HSA-4839743,Equilibrium,15,Equilibrium_55,8,FALSE
+Signaling by EGFR,R-HSA-177929,Equilibrium,53,Equilibrium_161,2,TRUE
+Signaling by EGFR in Cancer,R-HSA-1643713,Equilibrium,25,Equilibrium_112,15,FALSE
+Signaling by EGFRvIII in Cancer,R-HSA-5637812,Equilibrium,15,Equilibrium_112,15,FALSE
+Signaling by ERBB2,R-HSA-1227986,Equilibrium,50,Equilibrium_112,15,TRUE
+Signaling by ERBB2 ECD mutants,R-HSA-9665348,Equilibrium,16,Equilibrium_112,15,FALSE
+Signaling by ERBB2 KD Mutants,R-HSA-9664565,Equilibrium,25,Equilibrium_112,15,FALSE
+Signaling by ERBB2 TMD/JMD mutants,R-HSA-9665686,Equilibrium,22,Equilibrium_112,15,FALSE
+Signaling by ERBB2 in Cancer,R-HSA-1227990,Equilibrium,26,Equilibrium_112,15,FALSE
+Signaling by ERBB4,R-HSA-1236394,Equilibrium,58,Equilibrium_334,2,TRUE
+Signaling by Erythropoietin,R-HSA-9006335,Equilibrium,25,Equilibrium_459,1,TRUE
+Signaling by FGFR,R-HSA-190236,Equilibrium,91,Equilibrium_6,70,TRUE
+Signaling by FGFR in disease,R-HSA-1226099,Equilibrium,63,Equilibrium_6,70,FALSE
+Signaling by FGFR1,R-HSA-5654736,Equilibrium,52,Equilibrium_6,70,FALSE
+Signaling by FGFR1 in disease,R-HSA-5655302,Equilibrium,38,Equilibrium_6,70,FALSE
+Signaling by FGFR2,R-HSA-5654738,Equilibrium,75,Equilibrium_6,70,FALSE
+Signaling by FGFR2 IIIa TM,R-HSA-8851708,Equilibrium,19,Equilibrium_6,70,FALSE
+Signaling by FGFR2 in disease,R-HSA-5655253,Equilibrium,43,Equilibrium_6,70,FALSE
+Signaling by FGFR3,R-HSA-5654741,Equilibrium,40,Equilibrium_6,70,FALSE
+Signaling by FGFR3 in disease,R-HSA-5655332,Equilibrium,22,Equilibrium_6,70,FALSE
+Signaling by FGFR4,R-HSA-5654743,Equilibrium,41,Equilibrium_6,70,FALSE
+Signaling by FLT3 ITD and TKD mutants,R-HSA-9703648,Equilibrium,16,Equilibrium_179,3,FALSE
+Signaling by FLT3 fusion proteins,R-HSA-9703465,Equilibrium,19,Equilibrium_179,3,FALSE
+Signaling by GSK3beta mutants,R-HSA-5339716,Equilibrium,15,Equilibrium_55,8,FALSE
+Signaling by Hedgehog,R-HSA-5358351,Equilibrium,137,Equilibrium_1,87,FALSE
+Signaling by Hippo,R-HSA-2028269,Equilibrium,20,Equilibrium_460,1,TRUE
+Signaling by Insulin receptor,R-HSA-74752,Equilibrium,82,Equilibrium_6,70,FALSE
+Signaling by KIT in disease,R-HSA-9669938,Equilibrium,20,Equilibrium_461,2,TRUE
+Signaling by Ligand-Responsive EGFR Variants in Cancer,R-HSA-5637815,Equilibrium,19,Equilibrium_112,15,FALSE
+Signaling by MET,R-HSA-6806834,Equilibrium,79,Equilibrium_143,6,TRUE
+Signaling by NODAL,R-HSA-1181150,Equilibrium,23,Equilibrium_462,1,TRUE
+Signaling by NOTCH,R-HSA-157118,Equilibrium,211,Equilibrium_463,1,TRUE
+Signaling by NOTCH1,R-HSA-1980143,Equilibrium,74,Equilibrium_113,7,TRUE
+Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer,R-HSA-2894858,Equilibrium,58,Equilibrium_113,7,FALSE
+Signaling by NOTCH1 PEST Domain Mutants in Cancer,R-HSA-2644602,Equilibrium,58,Equilibrium_113,7,FALSE
+Signaling by NOTCH1 in Cancer,R-HSA-2644603,Equilibrium,58,Equilibrium_113,7,FALSE
+Signaling by NOTCH2,R-HSA-1980145,Equilibrium,36,Equilibrium_7,5,FALSE
+Signaling by NOTCH3,R-HSA-9012852,Equilibrium,49,Equilibrium_7,5,TRUE
+Signaling by NOTCH4,R-HSA-9013694,Equilibrium,72,Equilibrium_1,87,FALSE
+Signaling by NTRK1 (TRKA),R-HSA-187037,Equilibrium,115,Equilibrium_310,4,FALSE
+Signaling by NTRK2 (TRKB),R-HSA-9006115,Equilibrium,25,Equilibrium_464,1,TRUE
+Signaling by NTRK3 (TRKC),R-HSA-9034015,Equilibrium,17,Equilibrium_465,1,TRUE
+Signaling by NTRKs,R-HSA-166520,Equilibrium,134,Equilibrium_310,4,TRUE
+Signaling by Non-Receptor Tyrosine Kinases,R-HSA-9006927,Equilibrium,55,Equilibrium_466,2,TRUE
+Signaling by Nuclear Receptors,R-HSA-9006931,Equilibrium,270,Equilibrium_167,3,TRUE
+Signaling by PDGF,R-HSA-186797,Equilibrium,58,Equilibrium_156,2,TRUE
+Signaling by PDGFR in disease,R-HSA-9671555,Equilibrium,20,Equilibrium_467,1,TRUE
+Signaling by PTK6,R-HSA-8848021,Equilibrium,55,Equilibrium_466,2,FALSE
+Signaling by RAF1 mutants,R-HSA-9656223,Equilibrium,41,Equilibrium_273,9,FALSE
+Signaling by RAS mutants,R-HSA-6802949,Equilibrium,45,Equilibrium_273,9,FALSE
+Signaling by ROBO receptors,R-HSA-376176,Equilibrium,210,Equilibrium_90,20,TRUE
+Signaling by Retinoic Acid,R-HSA-5362517,Equilibrium,41,Equilibrium_375,2,TRUE
+Signaling by SCF-KIT,R-HSA-1433557,Equilibrium,43,Equilibrium_468,1,TRUE
+Signaling by TGF-beta Receptor Complex,R-HSA-170834,Equilibrium,94,Equilibrium_155,7,FALSE
+Signaling by TGFB family members,R-HSA-9006936,Equilibrium,161,Equilibrium_155,7,TRUE
+Signaling by TGFBR3,R-HSA-9839373,Equilibrium,49,Equilibrium_469,2,TRUE
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),R-HSA-2404192,Equilibrium,54,Equilibrium_6,70,FALSE
+Signaling by VEGF,R-HSA-194138,Equilibrium,108,Equilibrium_470,2,TRUE
+Signaling by WNT,R-HSA-195721,Equilibrium,289,Equilibrium_471,2,TRUE
+Signaling by WNT in cancer,R-HSA-4791275,Equilibrium,34,Equilibrium_472,1,TRUE
+Signaling by cytosolic FGFR1 fusion mutants,R-HSA-1839117,Equilibrium,18,Equilibrium_6,70,FALSE
+Signaling by high-kinase activity BRAF mutants,R-HSA-6802948,Equilibrium,36,Equilibrium_273,9,FALSE
+Signaling by moderate kinase activity BRAF mutants,R-HSA-6802946,Equilibrium,45,Equilibrium_273,9,FALSE
+"Signaling by phosphorylated juxtamembrane, extracellular and kinase domain KIT mutants",R-HSA-9670439,Equilibrium,20,Equilibrium_461,2,FALSE
+Signaling by the B Cell Receptor (BCR),R-HSA-983705,Equilibrium,162,Equilibrium_28,20,FALSE
+Signaling downstream of RAS mutants,R-HSA-9649948,Equilibrium,45,Equilibrium_273,9,FALSE
+Signalling to ERKs,R-HSA-187687,Equilibrium,34,Equilibrium_473,2,TRUE
+Signalling to RAS,R-HSA-167044,Equilibrium,20,Equilibrium_473,2,FALSE
+Smooth Muscle Contraction,R-HSA-445355,Equilibrium,44,Equilibrium_474,1,TRUE
+Somitogenesis,R-HSA-9824272,Equilibrium,45,Equilibrium_1,87,FALSE
+Specification of the neural plate border,R-HSA-9834899,Equilibrium,17,Equilibrium_475,1,TRUE
+Sphingolipid de novo biosynthesis,R-HSA-1660661,Equilibrium,37,Equilibrium_476,1,TRUE
+Sphingolipid metabolism,R-HSA-428157,Equilibrium,107,Equilibrium_219,3,TRUE
+Spry regulation of FGF signaling,R-HSA-1295596,Equilibrium,16,Equilibrium_6,70,FALSE
+Stabilization of p53,R-HSA-69541,Equilibrium,44,Equilibrium_1,87,FALSE
+Stimuli-sensing channels,R-HSA-2672351,Equilibrium,106,Equilibrium_261,2,FALSE
+Striated Muscle Contraction,R-HSA-390522,Equilibrium,36,Equilibrium_477,1,TRUE
+Sulfur amino acid metabolism,R-HSA-1614635,Equilibrium,28,Equilibrium_478,1,TRUE
+Surfactant metabolism,R-HSA-5683826,Equilibrium,30,Equilibrium_479,1,TRUE
+Switching of origins to a post-replicative state,R-HSA-69052,Equilibrium,79,Equilibrium_1,87,FALSE
+Synaptic adhesion-like molecules,R-HSA-8849932,Equilibrium,21,Equilibrium_480,1,TRUE
+Syndecan interactions,R-HSA-3000170,Equilibrium,27,Equilibrium_481,1,TRUE
+Synthesis of DNA,R-HSA-69239,Equilibrium,108,Equilibrium_1,87,FALSE
+Synthesis of IP3 and IP4 in the cytosol,R-HSA-1855204,Equilibrium,26,Equilibrium_242,2,FALSE
+Synthesis of Leukotrienes (LT) and Eoxins (EX),R-HSA-2142691,Equilibrium,20,Equilibrium_482,1,TRUE
+Synthesis of PA,R-HSA-1483166,Equilibrium,39,Equilibrium_483,1,TRUE
+Synthesis of PC,R-HSA-1483191,Equilibrium,28,Equilibrium_484,1,TRUE
+Synthesis of PIPs at the Golgi membrane,R-HSA-1660514,Equilibrium,18,Equilibrium_485,1,TRUE
+Synthesis of PIPs at the early endosome membrane,R-HSA-1660516,Equilibrium,16,Equilibrium_486,1,TRUE
+Synthesis of PIPs at the plasma membrane,R-HSA-1660499,Equilibrium,53,Equilibrium_343,2,FALSE
+Synthesis of active ubiquitin: roles of E1 and E2 enzymes,R-HSA-8866652,Equilibrium,30,Equilibrium_487,1,TRUE
+Synthesis of bile acids and bile salts,R-HSA-192105,Equilibrium,33,Equilibrium_56,3,FALSE
+Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol,R-HSA-193368,Equilibrium,23,Equilibrium_56,3,FALSE
+Synthesis of glycosylphosphatidylinositol (GPI),R-HSA-162710,Equilibrium,18,Equilibrium_488,1,TRUE
+Synthesis of substrates in N-glycan biosythesis,R-HSA-446219,Equilibrium,65,Equilibrium_59,3,FALSE
+Synthesis of very long-chain fatty acyl-CoAs,R-HSA-75876,Equilibrium,24,Equilibrium_186,2,FALSE
+"Synthesis, secretion, and deacylation of Ghrelin",R-HSA-422085,Equilibrium,19,Equilibrium_489,1,TRUE
+"Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1)",R-HSA-381771,Equilibrium,21,Equilibrium_238,2,FALSE
+TAK1-dependent IKK and NF-kappa-B activation,R-HSA-445989,Equilibrium,45,Equilibrium_490,1,TRUE
+TBC/RABGAPs,R-HSA-8854214,Equilibrium,45,Equilibrium_491,1,TRUE
+TCF dependent signaling in response to WNT,R-HSA-201681,Equilibrium,191,Equilibrium_471,2,FALSE
+TCR signaling,R-HSA-202403,Equilibrium,113,Equilibrium_1,87,FALSE
+TGF-beta receptor signaling activates SMADs,R-HSA-2173789,Equilibrium,47,Equilibrium_155,7,FALSE
+TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition),R-HSA-2173791,Equilibrium,16,Equilibrium_492,1,TRUE
+TGFBR3 expression,R-HSA-9839394,Equilibrium,28,Equilibrium_469,2,FALSE
+"TICAM1, RIP1-mediated IKK complex recruitment",R-HSA-168927,Equilibrium,19,Equilibrium_231,2,FALSE
+TNF receptor superfamily (TNFSF) members mediating non-canonical NF-kB pathway,R-HSA-5676594,Equilibrium,17,Equilibrium_493,1,TRUE
+TNF signaling,R-HSA-75893,Equilibrium,59,Equilibrium_424,4,TRUE
+TNFR1-induced NF-kappa-B signaling pathway,R-HSA-5357956,Equilibrium,33,Equilibrium_424,4,FALSE
+TNFR1-induced proapoptotic signaling,R-HSA-5357786,Equilibrium,26,Equilibrium_424,4,FALSE
+TNFR2 non-canonical NF-kB pathway,R-HSA-5668541,Equilibrium,88,Equilibrium_1,87,FALSE
+TNFs bind their physiological receptors,R-HSA-5669034,Equilibrium,29,Equilibrium_494,1,TRUE
+TP53 Regulates Metabolic Genes,R-HSA-5628897,Equilibrium,86,Equilibrium_495,1,TRUE
+TP53 Regulates Transcription of Cell Cycle Genes,R-HSA-6791312,Equilibrium,49,Equilibrium_496,1,TRUE
+TP53 Regulates Transcription of Cell Death Genes,R-HSA-5633008,Equilibrium,44,Equilibrium_497,1,TRUE
+TP53 Regulates Transcription of DNA Repair Genes,R-HSA-6796648,Equilibrium,62,Equilibrium_6,70,FALSE
+TP53 Regulates Transcription of Genes Involved in Cytochrome C Release,R-HSA-6803204,Equilibrium,20,Equilibrium_498,1,TRUE
+TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest,R-HSA-6804114,Equilibrium,18,Equilibrium_499,1,TRUE
+TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain,R-HSA-6804115,Equilibrium,21,Equilibrium_500,1,TRUE
+TRAF6 mediated IRF7 activation,R-HSA-933541,Equilibrium,29,Equilibrium_501,1,TRUE
+TRAF6 mediated NF-kB activation,R-HSA-933542,Equilibrium,25,Equilibrium_502,1,TRUE
+TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation,R-HSA-975138,Equilibrium,102,Equilibrium_254,18,FALSE
+TRAF6-mediated induction of TAK1 complex within TLR4 complex,R-HSA-937072,Equilibrium,16,Equilibrium_233,2,TRUE
+TRIF (TICAM1)-mediated TLR4 signaling,R-HSA-937061,Equilibrium,110,Equilibrium_254,18,FALSE
+TRP channels,R-HSA-3295583,Equilibrium,28,Equilibrium_503,1,TRUE
+Tat-mediated HIV elongation arrest and recovery,R-HSA-167243,Equilibrium,32,Equilibrium_6,70,FALSE
+Tat-mediated elongation of the HIV-1 transcript,R-HSA-167246,Equilibrium,44,Equilibrium_6,70,FALSE
+Telomere Extension By Telomerase,R-HSA-171319,Equilibrium,23,Equilibrium_504,1,TRUE
+Telomere Maintenance,R-HSA-157579,Equilibrium,92,Equilibrium_98,5,FALSE
+Termination of translesion DNA synthesis,R-HSA-5656169,Equilibrium,32,Equilibrium_53,20,FALSE
+The NLRP3 inflammasome,R-HSA-844456,Equilibrium,17,Equilibrium_83,4,FALSE
+The canonical retinoid cycle in rods (twilight vision),R-HSA-2453902,Equilibrium,22,Equilibrium_505,1,TRUE
+The phototransduction cascade,R-HSA-2514856,Equilibrium,34,Equilibrium_237,2,TRUE
+The role of GTSE1 in G2/M progression after G2 checkpoint,R-HSA-8852276,Equilibrium,66,Equilibrium_1,87,FALSE
+The role of Nef in HIV-1 replication and disease pathogenesis,R-HSA-164952,Equilibrium,29,Equilibrium_316,2,TRUE
+Thrombin signalling through proteinase activated receptors (PARs),R-HSA-456926,Equilibrium,32,Equilibrium_2,43,FALSE
+Thromboxane signalling through TP receptor,R-HSA-428930,Equilibrium,24,Equilibrium_2,43,FALSE
+Tie2 Signaling,R-HSA-210993,Equilibrium,18,Equilibrium_506,1,TRUE
+Tight junction interactions,R-HSA-420029,Equilibrium,31,Equilibrium_507,1,TRUE
+Toll Like Receptor 10 (TLR10) Cascade,R-HSA-168142,Equilibrium,98,Equilibrium_254,18,FALSE
+Toll Like Receptor 2 (TLR2) Cascade,R-HSA-181438,Equilibrium,118,Equilibrium_254,18,FALSE
+Toll Like Receptor 3 (TLR3) Cascade,R-HSA-168164,Equilibrium,106,Equilibrium_254,18,FALSE
+Toll Like Receptor 4 (TLR4) Cascade,R-HSA-166016,Equilibrium,148,Equilibrium_254,18,FALSE
+Toll Like Receptor 5 (TLR5) Cascade,R-HSA-168176,Equilibrium,98,Equilibrium_254,18,FALSE
+Toll Like Receptor 7/8 (TLR7/8) Cascade,R-HSA-168181,Equilibrium,107,Equilibrium_254,18,FALSE
+Toll Like Receptor 9 (TLR9) Cascade,R-HSA-168138,Equilibrium,110,Equilibrium_254,18,FALSE
+Toll Like Receptor TLR1:TLR2 Cascade,R-HSA-168179,Equilibrium,118,Equilibrium_254,18,FALSE
+Toll Like Receptor TLR6:TLR2 Cascade,R-HSA-168188,Equilibrium,115,Equilibrium_254,18,FALSE
+Toll-like Receptor Cascades,R-HSA-168898,Equilibrium,174,Equilibrium_254,18,TRUE
+Trafficking of AMPA receptors,R-HSA-399719,Equilibrium,31,Equilibrium_213,2,FALSE
+Transcription of E2F targets under negative control by DREAM complex,R-HSA-1362277,Equilibrium,19,Equilibrium_198,4,FALSE
+Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1,R-HSA-1362300,Equilibrium,16,Equilibrium_198,4,FALSE
+Transcription of the HIV genome,R-HSA-167172,Equilibrium,72,Equilibrium_6,70,FALSE
+Transcription-Coupled Nucleotide Excision Repair (TC-NER),R-HSA-6781827,Equilibrium,76,Equilibrium_53,20,FALSE
+Transcriptional Regulation by E2F6,R-HSA-8953750,Equilibrium,34,Equilibrium_508,1,TRUE
+Transcriptional Regulation by MECP2,R-HSA-8986944,Equilibrium,63,Equilibrium_419,2,TRUE
+Transcriptional Regulation by NPAS4,R-HSA-9634815,Equilibrium,35,Equilibrium_312,2,TRUE
+Transcriptional Regulation by VENTX,R-HSA-8853884,Equilibrium,41,Equilibrium_509,1,TRUE
+Transcriptional activation of mitochondrial biogenesis,R-HSA-2151201,Equilibrium,54,Equilibrium_300,2,FALSE
+Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer,R-HSA-2173793,Equilibrium,51,Equilibrium_155,7,FALSE
+Transcriptional and post-translational regulation of MITF-M expression and activity,R-HSA-9856649,Equilibrium,62,Equilibrium_510,1,TRUE
+Transcriptional regulation by RUNX1,R-HSA-8878171,Equilibrium,202,Equilibrium_511,1,TRUE
+Transcriptional regulation by RUNX2,R-HSA-8878166,Equilibrium,106,Equilibrium_1,87,FALSE
+Transcriptional regulation by RUNX3,R-HSA-8878159,Equilibrium,86,Equilibrium_1,87,FALSE
+Transcriptional regulation by small RNAs,R-HSA-5578749,Equilibrium,45,Equilibrium_98,5,FALSE
+Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors,R-HSA-8864260,Equilibrium,36,Equilibrium_512,1,TRUE
+Transcriptional regulation of brown and beige adipocyte differentiation,R-HSA-9843743,Equilibrium,31,Equilibrium_513,2,TRUE
+Transcriptional regulation of brown and beige adipocyte differentiation by EBF2,R-HSA-9844594,Equilibrium,31,Equilibrium_513,2,FALSE
+Transcriptional regulation of granulopoiesis,R-HSA-9616222,Equilibrium,58,Equilibrium_514,1,TRUE
+Transcriptional regulation of pluripotent stem cells,R-HSA-452723,Equilibrium,31,Equilibrium_515,1,TRUE
+Transcriptional regulation of white adipocyte differentiation,R-HSA-381340,Equilibrium,84,Equilibrium_20,2,FALSE
+Transferrin endocytosis and recycling,R-HSA-917977,Equilibrium,31,Equilibrium_245,4,FALSE
+Translation of Structural Proteins_9683701,R-HSA-9683701,Equilibrium,35,Equilibrium_270,4,FALSE
+Translation of Structural Proteins_9694635,R-HSA-9694635,Equilibrium,67,Equilibrium_270,4,FALSE
+Translesion Synthesis by POLH,R-HSA-110320,Equilibrium,19,Equilibrium_53,20,FALSE
+Translesion synthesis by POLI,R-HSA-5656121,Equilibrium,17,Equilibrium_53,20,FALSE
+Translesion synthesis by POLK,R-HSA-5655862,Equilibrium,17,Equilibrium_53,20,FALSE
+Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template,R-HSA-110313,Equilibrium,39,Equilibrium_53,20,FALSE
+Translocation of SLC2A4 (GLUT4) to the plasma membrane,R-HSA-1445148,Equilibrium,72,Equilibrium_516,1,TRUE
+Transmission across Chemical Synapses,R-HSA-112315,Equilibrium,270,Equilibrium_324,2,TRUE
+Transport of Mature Transcript to Cytoplasm,R-HSA-72202,Equilibrium,83,Equilibrium_131,30,TRUE
+Transport of Mature mRNA Derived from an Intronless Transcript,R-HSA-159231,Equilibrium,42,Equilibrium_131,30,FALSE
+Transport of Mature mRNA derived from an Intron-Containing Transcript,R-HSA-159236,Equilibrium,74,Equilibrium_131,30,FALSE
+Transport of Mature mRNAs Derived from Intronless Transcripts,R-HSA-159234,Equilibrium,43,Equilibrium_131,30,FALSE
+Transport of Ribonucleoproteins into the Host Nucleus,R-HSA-168271,Equilibrium,37,Equilibrium_131,30,FALSE
+Transport of connexons to the plasma membrane,R-HSA-190872,Equilibrium,21,Equilibrium_8,12,FALSE
+Transport of the SLBP Dependant Mature mRNA,R-HSA-159230,Equilibrium,36,Equilibrium_131,30,FALSE
+Transport of the SLBP independent Mature mRNA,R-HSA-159227,Equilibrium,35,Equilibrium_131,30,FALSE
+"Transport of vitamins, nucleosides, and related molecules",R-HSA-425397,Equilibrium,32,Equilibrium_517,1,TRUE
+Transport to the Golgi and subsequent modification,R-HSA-948021,Equilibrium,187,Equilibrium_67,3,TRUE
+Triglyceride catabolism,R-HSA-163560,Equilibrium,24,Equilibrium_518,2,FALSE
+Triglyceride metabolism,R-HSA-8979227,Equilibrium,38,Equilibrium_518,2,TRUE
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",R-HSA-450513,Equilibrium,17,Equilibrium_61,3,FALSE
+"Turbulent (oscillatory, disturbed) flow shear stress activates signaling by PIEZO1 and integrins in endothelial cells",R-HSA-9860927,Equilibrium,31,Equilibrium_519,1,TRUE
+UCH proteinases,R-HSA-5689603,Equilibrium,82,Equilibrium_520,1,TRUE
+Ub-specific processing proteases,R-HSA-5689880,Equilibrium,191,Equilibrium_142,2,FALSE
+Ubiquitin-Mediated Degradation of Phosphorylated Cdc25A,R-HSA-69601,Equilibrium,51,Equilibrium_1,87,FALSE
+"Unblocking of NMDA receptors, glutamate binding and activation",R-HSA-438066,Equilibrium,21,Equilibrium_69,5,FALSE
+Unfolded Protein Response (UPR),R-HSA-381119,Equilibrium,93,Equilibrium_234,3,TRUE
+Uptake and actions of bacterial toxins,R-HSA-5339562,Equilibrium,44,Equilibrium_521,1,TRUE
+VEGFA-VEGFR2 Pathway,R-HSA-4420097,Equilibrium,99,Equilibrium_470,2,FALSE
+VEGFR2 mediated cell proliferation,R-HSA-5218921,Equilibrium,19,Equilibrium_522,1,TRUE
+VEGFR2 mediated vascular permeability,R-HSA-5218920,Equilibrium,29,Equilibrium_523,1,TRUE
+VLDLR internalisation and degradation,R-HSA-8866427,Equilibrium,16,Equilibrium_524,1,TRUE
+Vasopressin regulates renal water homeostasis via Aquaporins,R-HSA-432040,Equilibrium,43,Equilibrium_2,43,FALSE
+Vif-mediated degradation of APOBEC3G,R-HSA-180585,Equilibrium,42,Equilibrium_1,87,FALSE
+Viral Messenger RNA Synthesis,R-HSA-168325,Equilibrium,49,Equilibrium_131,30,FALSE
+Viral mRNA Translation,R-HSA-192823,Equilibrium,102,Equilibrium_90,20,FALSE
+Visual phototransduction,R-HSA-2187338,Equilibrium,99,Equilibrium_525,1,TRUE
+Vitamin B5 (pantothenate) metabolism,R-HSA-199220,Equilibrium,20,Equilibrium_526,1,TRUE
+Voltage gated Potassium channels,R-HSA-1296072,Equilibrium,43,Equilibrium_527,1,TRUE
+Vpr-mediated nuclear import of PICs,R-HSA-180910,Equilibrium,40,Equilibrium_131,30,FALSE
+Vpu mediated degradation of CD4,R-HSA-180534,Equilibrium,40,Equilibrium_1,87,FALSE
+VxPx cargo-targeting to cilium,R-HSA-5620916,Equilibrium,21,Equilibrium_528,1,TRUE
+WNT ligand biogenesis and trafficking,R-HSA-3238698,Equilibrium,26,Equilibrium_529,1,TRUE
+XBP1(S) activates chaperone genes,R-HSA-381038,Equilibrium,48,Equilibrium_234,3,FALSE
+Xenobiotics,R-HSA-211981,Equilibrium,24,Equilibrium_530,1,TRUE
+ZBP1(DAI) mediated induction of type I IFNs,R-HSA-1606322,Equilibrium,21,Equilibrium_399,2,TRUE
+ZNF598 and the Ribosome-associated Quality Trigger (RQT) complex dissociate a ribosome stalled on a no-go mRNA,R-HSA-9954716,Equilibrium,101,Equilibrium_90,20,FALSE
+Zinc transporters,R-HSA-435354,Equilibrium,15,Equilibrium_531,1,TRUE
+activated TAK1 mediates p38 MAPK activation,R-HSA-450302,Equilibrium,23,Equilibrium_264,4,FALSE
+mRNA Capping,R-HSA-72086,Equilibrium,29,Equilibrium_6,70,FALSE
+mRNA Splicing,R-HSA-72172,Equilibrium,215,Equilibrium_368,3,FALSE
+mRNA Splicing - Major Pathway,R-HSA-72163,Equilibrium,204,Equilibrium_368,3,FALSE
+mRNA Splicing - Minor Pathway,R-HSA-72165,Equilibrium,53,Equilibrium_532,1,TRUE
+mTORC1-mediated signalling,R-HSA-166208,Equilibrium,24,Equilibrium_171,3,FALSE
+p130Cas linkage to MAPK signaling for integrins,R-HSA-372708,Equilibrium,15,Equilibrium_203,4,FALSE
+p53-Dependent G1 DNA Damage Response,R-HSA-69563,Equilibrium,53,Equilibrium_1,87,FALSE
+p53-Dependent G1/S DNA damage checkpoint,R-HSA-69580,Equilibrium,53,Equilibrium_1,87,FALSE
+p53-Independent G1/S DNA Damage Checkpoint,R-HSA-69613,Equilibrium,51,Equilibrium_1,87,FALSE
+p75 NTR receptor-mediated signalling,R-HSA-193704,Equilibrium,98,Equilibrium_82,5,FALSE
+p75NTR signals via NF-kB,R-HSA-193639,Equilibrium,16,Equilibrium_533,1,TRUE
+rRNA modification in the nucleus and cytosol,R-HSA-6790901,Equilibrium,63,Equilibrium_534,1,TRUE
+rRNA processing,R-HSA-72312,Equilibrium,244,Equilibrium_280,3,TRUE
+rRNA processing in the nucleus and cytosol,R-HSA-8868773,Equilibrium,199,Equilibrium_280,3,FALSE
+snRNP Assembly,R-HSA-191859,Equilibrium,54,Equilibrium_131,30,FALSE
+tRNA modification in the nucleus and cytosol,R-HSA-6782315,Equilibrium,45,Equilibrium_535,1,TRUE
+tRNA processing,R-HSA-72306,Equilibrium,150,Equilibrium_536,1,TRUE
+tRNA processing in the nucleus,R-HSA-6784531,Equilibrium,59,Equilibrium_537,1,TRUE
+trans-Golgi Network Vesicle Budding,R-HSA-199992,Equilibrium,72,Equilibrium_221,2,TRUE
+Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects,R-HSA-9659787,Decoupled,17,Decoupled_1,2,TRUE
+Autodegradation of the E3 ubiquitin ligase COP1,R-HSA-349425,Decoupled,39,Decoupled_2,5,FALSE
+Constitutive Signaling by AKT1 E17K in Cancer,R-HSA-5674400,Decoupled,26,Decoupled_3,1,TRUE
+"Defective binding of RB1 mutants to E2F1,(E2F2, E2F3)",R-HSA-9661069,Decoupled,17,Decoupled_1,2,FALSE
+GLI3 is processed to GLI3R by the proteasome,R-HSA-5610785,Decoupled,47,Decoupled_2,5,TRUE
+GSK3B and BTRC:CUL1-mediated-degradation of NFE2L2,R-HSA-9762114,Decoupled,42,Decoupled_2,5,FALSE
+HDMs demethylate histones,R-HSA-3214842,Decoupled,26,Decoupled_4,1,TRUE
+Regulation of RUNX1 Expression and Activity,R-HSA-8934593,Decoupled,27,Decoupled_5,1,TRUE
+Regulation of activated PAK-2p34 by proteasome mediated degradation,R-HSA-211733,Decoupled,37,Decoupled_2,5,FALSE
+SUMOylation of transcription factors,R-HSA-3232118,Decoupled,20,Decoupled_6,1,TRUE
+Trafficking of GluR2-containing AMPA receptors,R-HSA-416993,Decoupled,17,Decoupled_7,1,TRUE
+Ubiquitin-dependent degradation of Cyclin D,R-HSA-75815,Decoupled,39,Decoupled_2,5,FALSE
+WNT5A-dependent internalization of FZD4,R-HSA-5099900,Decoupled,15,Decoupled_8,1,TRUE
+ATP-dependent chromatin remodelers,R-HSA-9932444,Topology-Amplified,31,Topology-Amplified_1,7,TRUE
+Acetylcholine Neurotransmitter Release Cycle,R-HSA-264642,Topology-Amplified,17,Topology-Amplified_2,1,TRUE
+"Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S",R-HSA-72662,Topology-Amplified,61,Topology-Amplified_3,3,TRUE
+"BMAL1:CLOCK,NPAS2 activates circadian expression",R-HSA-1368108,Topology-Amplified,26,Topology-Amplified_4,1,TRUE
+Cap-dependent Translation Initiation,R-HSA-72737,Topology-Amplified,124,Topology-Amplified_5,5,FALSE
+Deadenylation of mRNA,R-HSA-429947,Topology-Amplified,25,Topology-Amplified_6,1,TRUE
+Eukaryotic Translation Initiation,R-HSA-72613,Topology-Amplified,124,Topology-Amplified_5,5,FALSE
+"Expression of BMAL (ARNTL), CLOCK, and NPAS2",R-HSA-9931509,Topology-Amplified,35,Topology-Amplified_7,2,TRUE
+Formation of neuronal progenitor and neuronal BAF (npBAF and nBAF),R-HSA-9934037,Topology-Amplified,25,Topology-Amplified_1,7,FALSE
+Formation of the canonical BAF (cBAF) complex,R-HSA-9933937,Topology-Amplified,18,Topology-Amplified_1,7,FALSE
+Formation of the embryonic stem cell BAF (esBAF) complex,R-HSA-9933946,Topology-Amplified,19,Topology-Amplified_1,7,FALSE
+Formation of the non-canonical BAF (ncBAF) complex,R-HSA-9933947,Topology-Amplified,17,Topology-Amplified_1,7,FALSE
+Formation of the polybromo-BAF (pBAF) complex,R-HSA-9933939,Topology-Amplified,18,Topology-Amplified_1,7,FALSE
+M-decay: degradation of maternal mRNAs by maternally stored factors,R-HSA-9820841,Topology-Amplified,46,Topology-Amplified_8,1,TRUE
+NOTCH3 Intracellular Domain Regulates Transcription,R-HSA-9013508,Topology-Amplified,25,Topology-Amplified_9,1,TRUE
+PKMTs methylate histone lysines,R-HSA-3214841,Topology-Amplified,46,Topology-Amplified_10,1,TRUE
+Phosphorylated BMAL1:CLOCK (ARNTL:CLOCK) activates expression of core clock genes,R-HSA-9931510,Topology-Amplified,22,Topology-Amplified_11,1,TRUE
+RMTs methylate histone arginines,R-HSA-3214858,Topology-Amplified,48,Topology-Amplified_12,1,TRUE
+"RORA,B,C and NR1D1 (REV-ERBA) regulate gene expression",R-HSA-9933387,Topology-Amplified,25,Topology-Amplified_7,2,FALSE
+Regulation of MITF-M-dependent genes involved in apoptosis,R-HSA-9824594,Topology-Amplified,19,Topology-Amplified_13,1,TRUE
+Regulation of MITF-M-dependent genes involved in pigmentation,R-HSA-9824585,Topology-Amplified,42,Topology-Amplified_14,1,TRUE
+Regulation of PD-L1(CD274) transcription,R-HSA-9909649,Topology-Amplified,70,Topology-Amplified_15,1,TRUE
+Response of EIF2AK4 (GCN2) to amino acid deficiency,R-HSA-9633012,Topology-Amplified,106,Topology-Amplified_5,5,FALSE
+Ribosomal scanning and start codon recognition,R-HSA-72702,Topology-Amplified,60,Topology-Amplified_3,3,FALSE
+Ribosome Quality Control (RQC) complex extracts and degrades nascent peptide,R-HSA-9954709,Topology-Amplified,106,Topology-Amplified_5,5,FALSE
+Ribosome-associated quality control,R-HSA-9948299,Topology-Amplified,149,Topology-Amplified_5,5,TRUE
+SUMOylation of transcription cofactors,R-HSA-3899300,Topology-Amplified,44,Topology-Amplified_16,1,TRUE
+SWI/SNF chromatin remodelers,R-HSA-9932451,Topology-Amplified,31,Topology-Amplified_1,7,FALSE
+Translation initiation complex formation,R-HSA-72649,Topology-Amplified,60,Topology-Amplified_3,3,FALSE
+mRNA 3'-end processing,R-HSA-72187,Topology-Amplified,152,Topology-Amplified_17,2,TRUE
+mRNA Polyadenylation,R-HSA-9770562,Topology-Amplified,127,Topology-Amplified_17,2,FALSE

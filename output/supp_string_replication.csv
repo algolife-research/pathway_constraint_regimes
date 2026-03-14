@@ -1,0 +1,1254 @@
+pathway,mean_residual,deviation_kappa,n_genes,regime
+ABC transporter disorders,0.0354983524694983,0.045546936096188,58,Equilibrium
+ABC-family proteins mediated transport,0.0214188128672184,0.0442865980175767,75,Equilibrium
+ADORA2B mediated anti-inflammatory cytokines production,0.0100486817482476,0.0175437820182199,41,Equilibrium
+ADP signalling through P2Y purinoceptor 1,0.00845920206065079,0.0595193053262415,24,Equilibrium
+ADP signalling through P2Y purinoceptor 12,-0.0133031036187166,0.0303034296306703,21,Equilibrium
+AMPK-induced ERAD and lysosome mediated degradation of PD-L1(CD274),0.036257494387773,0.0669698108334938,52,Equilibrium
+APC-Cdc20 mediated degradation of Nek2A,-0.00331344940313599,-0.0459217865455431,23,Equilibrium
+APC/C-mediated degradation of cell cycle proteins,0.0425387258964932,-0.00463569359789317,70,Equilibrium
+APC/C:Cdc20 mediated degradation of Cyclin B,0.0153538988848411,-0.0461250538606344,21,Equilibrium
+APC/C:Cdc20 mediated degradation of Securin,0.0519113041622123,-0.0352844293960806,50,Equilibrium
+APC/C:Cdc20 mediated degradation of mitotic proteins,0.0444543731316763,-0.00382381043139592,58,Equilibrium
+APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1,0.0558129533747117,-0.0289001231492794,56,Equilibrium
+APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint,0.0481723750649101,-0.0196117454106615,56,Equilibrium
+ATF4 activates genes in response to endoplasmic reticulum  stress,-0.0332932248655577,-0.082776505765115,24,Buffered
+ATP-dependent chromatin remodelers,0.0833206752839712,0.112362173965101,29,Topology-Amplified
+AUF1 (hnRNP D0) binds and destabilizes mRNA,0.0829229538812674,-0.102953304743383,39,Decoupled
+AURKA Activation by TPX2,0.010171574323491,0.0992912760233082,61,Equilibrium
+Aberrant regulation of mitotic G1/S transition in cancer due to RB1 defects,0.0638329810919241,-0.0668270205479984,16,Decoupled
+Aberrant regulation of mitotic cell cycle due to RB1 defects,0.0517032348479896,-0.0415803563405825,32,Equilibrium
+Aberrant regulation of mitotic exit in cancer due to RB1 defects,0.049938930154359,0.0652514489502647,17,Equilibrium
+Abortive elongation of HIV-1 transcript in the absence of Tat,-0.0268062458803039,0.0165768985627302,22,Equilibrium
+Activated NOTCH1 Transmits Signal to the Nucleus,0.0404139004814394,-0.0448779553385494,26,Equilibrium
+Activation of AMPK downstream of NMDARs,-0.0291331333014771,0.111981778245983,24,Equilibrium
+Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins,0.0465955224674047,-0.000236046743367114,59,Equilibrium
+Activation of ATR in response to replication stress,-0.0602682171545276,0.000534027815693599,37,Equilibrium
+Activation of BAD and translocation to mitochondria,0.0435455089350128,-0.0328908517030075,15,Equilibrium
+Activation of BH3-only proteins,0.0443268065138896,-0.00959702472731644,29,Equilibrium
+Activation of G protein gated Potassium channels,0.0260691395325268,-0.043747333350661,26,Equilibrium
+Activation of GABAB receptors,0.0189796778289694,-0.0321607185881337,39,Equilibrium
+Activation of HOX genes during differentiation,0.0366648502584689,-0.00474892660118618,60,Equilibrium
+"Activation of IRF3, IRF7 mediated by TBK1, IKKε (IKBKE)",-0.0270440349244613,0.00657520609040573,18,Equilibrium
+Activation of Matrix Metalloproteinases,-0.00278074373344235,-0.0644879601765322,24,Equilibrium
+Activation of NF-kappaB in B cells,0.0538684369713683,-0.0381271242074936,51,Equilibrium
+Activation of NMDA receptors and postsynaptic events,0.010175001934718,-0.0172442964731861,84,Equilibrium
+Activation of anterior HOX genes in hindbrain development during early embryogenesis,0.0366648502584689,-0.00474892660118618,60,Equilibrium
+Activation of gene expression by SREBF (SREBP),0.0413709040642794,0.10794387879163,40,Equilibrium
+Activation of kainate receptors upon glutamate binding,0.0200337716787202,0.00574222659412508,29,Equilibrium
+"Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S",0.0703286830237398,-0.0181191845411816,56,Equilibrium
+Activation of the pre-replicative complex,-0.0483061317992958,-0.00434966025427591,32,Equilibrium
+Adherens junctions interactions,0.0539099559359246,0.0126695679250553,157,Equilibrium
+Adipogenesis,0.0343312557352654,0.0145250071337132,101,Equilibrium
+"Adrenaline,noradrenaline inhibits insulin secretion",-0.00421536941997757,0.0244750875192207,25,Equilibrium
+Aerobic respiration and respiratory electron transport,-0.0298186439030652,-0.0118397905798379,191,Equilibrium
+Aggrephagy,0.0108709933605127,0.0387216573372315,38,Equilibrium
+Amine ligand-binding receptors,0.0422115226071532,-0.0252178076471879,26,Equilibrium
+Amino acid transport across the plasma membrane,-0.0173718843124461,-0.0206610623092624,24,Equilibrium
+Amino acids regulate mTORC1,-0.0118326911011008,0.0539400404979461,49,Equilibrium
+Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal,-0.0113701183755791,0.0473155310046699,87,Equilibrium
+Amplification of signal from the kinetochores,-0.0113701183755791,0.0473155310046699,87,Equilibrium
+Amyloid fiber formation,0.0137818053097139,0.00795579178821774,50,Equilibrium
+Anchoring of the basal body to the plasma membrane,0.00354717956180312,0.0779347327909373,81,Equilibrium
+Anti-inflammatory response favouring Leishmania parasite infection,0.0205940928027883,0.0267993954254891,71,Equilibrium
+"Antigen Presentation: Folding, assembly and peptide loading of class I MHC",-0.0131693650972719,0.0481751329095002,25,Equilibrium
+Antigen activates B Cell Receptor (BCR) leading to generation of second messengers,0.0627470312093756,0.00621401488805529,30,Equilibrium
+Antigen processing-Cross presentation,0.0189663376255849,0.0303443026775435,88,Equilibrium
+"Antigen processing: Ub, ATP-independent proteasomal degradation",0.0382876675471667,0.338381214949757,19,Equilibrium
+Antigen processing: Ubiquitination & Proteasome degradation,0.0209547578192637,0.0314414421336386,263,Equilibrium
+Antimicrobial mechanism of IFN-stimulated genes,0.0105399192852193,0.0396464340946634,138,Equilibrium
+Antimicrobial peptides,-0.0186306961593636,-0.0334249731685262,44,Equilibrium
+Apoptosis,0.0217477048352404,0.0314075726740876,151,Equilibrium
+Apoptotic cleavage of cellular proteins,-0.00508324885490057,0.00299221191223915,37,Equilibrium
+Apoptotic execution phase,0.00441088201918217,0.0236796749197968,45,Equilibrium
+Apoptotic factor-mediated response,-0.042713314692603,0.0678917001506449,16,Equilibrium
+Aquaporin-mediated transport,-0.00207189013855279,0.0239437471684572,48,Equilibrium
+Arachidonate metabolism,-0.0225669679193619,-0.0248728791726218,44,Equilibrium
+Aspirin ADME,-0.0376960554818789,-0.0123775175754492,29,Equilibrium
+Assembly Of The HIV Virion,0.0181566919865047,-0.0599577968136323,15,Equilibrium
+Assembly and cell surface presentation of NMDA receptors,0.0113986436611756,-0.0558813901625802,37,Equilibrium
+Assembly of active LPL and LIPC lipase complexes,-0.000429734587850224,-0.0569715968793222,17,Equilibrium
+Assembly of collagen fibrils and other multimeric structures,-0.00821948324080795,-0.0103194332398775,49,Equilibrium
+Assembly of the pre-replicative complex,0.0293009022402474,0.014078574375916,68,Equilibrium
+Association of TriC/CCT with target proteins during biosynthesis,0.0404551738645751,0.111489936530442,35,Equilibrium
+Asymmetric localization of PCP proteins,0.0649908643397043,-0.0307084235525329,47,Equilibrium
+Attachment and Entry_9694614,0.0348290508437083,0.0739783052549099,19,Equilibrium
+Attachment of bacteria to epithelial cells,-0.00101658804697581,0.000275415557182797,20,Equilibrium
+Attenuation phase,0.0204493864308624,0.0641261673330855,20,Equilibrium
+Autodegradation of Cdh1 by Cdh1:APC/C,0.0591592006274482,-0.0578179093118873,49,Equilibrium
+Autodegradation of the E3 ubiquitin ligase COP1,0.0620266517169734,-0.12702690039906,36,Decoupled
+Autophagy,0.018898806163294,0.036886371755738,144,Equilibrium
+Azathioprine ADME,-0.0193121021425471,-0.0156473032475253,21,Equilibrium
+B-WICH complex positively regulates rRNA expression,-0.00373566295222914,0.0645873465578331,27,Equilibrium
+BBSome-mediated cargo-targeting to cilium,0.0103545973810836,0.146319048521998,21,Equilibrium
+"BMAL1:CLOCK,NPAS2 activates circadian expression",0.0859603749025652,0.175328984035881,22,Topology-Amplified
+Bacterial Infection Pathways,0.0152130618226008,0.000887673553930281,95,Equilibrium
+Base Excision Repair,-0.0524353101260298,-0.00937081997954675,37,Equilibrium
+Basigin interactions,-0.00896346415374282,0.0166724242437139,22,Equilibrium
+Beta-catenin independent WNT signaling,0.0539570545397081,0.0192591496076848,126,Equilibrium
+Beta-catenin phosphorylation cascade,0.0079912004459668,0.0589292722167521,15,Equilibrium
+Bile acid and bile salt metabolism,-0.0286862200157256,0.00934271668160227,35,Equilibrium
+Binding and Uptake of Ligands by Scavenger Receptors,0.011127024033792,0.00311837673657108,35,Equilibrium
+Biofilm formation,-0.00101658804697581,0.000275415557182797,20,Equilibrium
+Biological oxidations,-0.0295796222998126,-0.0136772798791474,163,Equilibrium
+Biosynthesis of specialized proresolving mediators (SPMs),-0.00695178441323684,-0.0559304284219257,15,Equilibrium
+"Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein",-0.0148531515697647,-0.0496146902512434,67,Equilibrium
+Branched-chain amino acid catabolism,-0.0485307228031318,-0.0264952507727297,21,Equilibrium
+Budding and maturation of HIV virion,-0.0028808223135928,-0.0219984046851172,26,Equilibrium
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,-0.0454221556319785,-0.10891617350237,16,Buffered
+C-type lectin receptors (CLRs),0.0453751661783534,0.0456882201803695,107,Equilibrium
+CD209 (DC-SIGN) signaling,0.0426660674016458,0.104456357336633,21,Equilibrium
+CD28 dependent PI3K/Akt signaling,0.0601604887930253,-0.0355087570936689,24,Equilibrium
+CDC42 GTPase cycle,0.00588618847545711,-0.00583501850416106,143,Equilibrium
+CDK-mediated phosphorylation and removal of Cdc6,0.0511965787346107,-0.0204615479996075,55,Equilibrium
+CLEC7A (Dectin-1) signaling,0.0539858826124524,0.024710204948155,81,Equilibrium
+COPI-dependent Golgi-to-ER retrograde traffic,0.00365697320484473,0.0321923962242729,91,Equilibrium
+COPI-independent Golgi-to-ER retrograde traffic,0.01900196402194,-0.00531811052238457,48,Equilibrium
+COPI-mediated anterograde transport,0.0204588272574957,0.029871668238928,91,Equilibrium
+COPII-mediated vesicle transport,0.0034637907189607,-0.0334572485136237,58,Equilibrium
+CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling,0.0455423929541089,-0.0187871810535602,26,Equilibrium
+CRMPs in Sema3A signaling,0.0424044901313385,-0.00892538532232362,16,Equilibrium
+CS-GAG biosynthesis,0.00646078942760212,0.0220098530445769,19,Equilibrium
+CS/DS degradation,-0.00835176529346604,0.0592604211501208,17,Equilibrium
+CTNNB1 S33 mutants aren't phosphorylated,0.0079912004459668,0.0589292722167521,15,Equilibrium
+CTNNB1 S37 mutants aren't phosphorylated,0.0079912004459668,0.0589292722167521,15,Equilibrium
+CTNNB1 S45 mutants aren't phosphorylated,0.0079912004459668,0.0589292722167521,15,Equilibrium
+CTNNB1 T41 mutants aren't phosphorylated,0.0079912004459668,0.0589292722167521,15,Equilibrium
+Ca-dependent events,0.0274875944072941,0.0217330267817804,35,Equilibrium
+Ca2+ pathway,0.0466937203697844,0.0471835055913631,59,Equilibrium
+CaM pathway,0.0273588752188548,0.0161124502826311,33,Equilibrium
+Calmodulin induced events,0.0273588752188548,0.0161124502826311,33,Equilibrium
+Calnexin/calreticulin cycle,-0.026467724194466,-0.012147869508371,24,Equilibrium
+Cap-dependent Translation Initiation,0.0562679686830828,0.0330757260305583,115,Equilibrium
+Carboxyterminal post-translational modifications of tubulin,-0.022718389301914,0.00388017950457024,32,Equilibrium
+Cardiac conduction,0.020644293311411,-0.0203631460989234,103,Equilibrium
+Cardiogenesis,0.0431563029550083,-0.0122385502848405,25,Equilibrium
+Cargo concentration in the ER,0.00802711147587611,-0.0465070455734865,28,Equilibrium
+Cargo recognition for clathrin-mediated endocytosis,0.0154402030493852,0.000819441202306776,94,Equilibrium
+Cargo trafficking to the periciliary membrane,0.00370184903200469,0.0601324564344251,64,Equilibrium
+Caspase activation via Death Receptors in the presence of ligand,-0.013272088247217,-0.0158279555793823,15,Equilibrium
+Caspase activation via extrinsic apoptotic signalling pathway,-0.0155034531937969,-0.00786485012887665,25,Equilibrium
+Cdc20:Phospho-APC/C mediated degradation of Cyclin A,0.0505264649369853,-0.0292170669416011,55,Equilibrium
+Cell Cycle Checkpoints,-0.00136290340456054,0.040153345813992,236,Equilibrium
+"Cell death signalling via NRAGE, NRIF and NADE",0.00778994745991776,-0.00561291163180899,69,Equilibrium
+Cell junction organization,0.044031662686628,0.0141089473620507,203,Equilibrium
+Cell recruitment (pro-inflammatory response),-0.0261016174359022,0.0470083356057439,23,Equilibrium
+Cell surface interactions at the vascular wall,-0.0153224775731757,-0.00226383170620531,111,Equilibrium
+Cell-cell junction organization,0.0514896583981437,0.011127339870437,179,Equilibrium
+Cell-extracellular matrix interactions,0.0138143329106784,0.0391760439932956,17,Equilibrium
+Cellular Senescence,0.0332513683877009,0.0148028992014425,121,Equilibrium
+Cellular response to chemical stress,0.025601013604525,0.0458430567932134,170,Equilibrium
+Cellular response to heat stress,0.00641456521648651,0.0818498966973196,87,Equilibrium
+Cellular response to hypoxia,0.0696259709075691,0.0442022280888742,57,Equilibrium
+Cellular response to starvation,0.0266889251414375,0.0628628475228119,145,Equilibrium
+Cellular responses to mechanical stimuli,0.0190820165324348,0.0254160741765877,93,Equilibrium
+Centrosome maturation,0.00119523413694828,0.100353987968546,69,Equilibrium
+Chaperone Mediated Autophagy,0.00833291789223715,0.0126992195126016,21,Equilibrium
+Chaperonin-mediated protein folding,0.0242416625189024,0.0923870568836596,83,Equilibrium
+Chemokine receptors bind chemokines,-0.00664445662013633,-0.0401709161950483,49,Equilibrium
+Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex,0.0387247593649254,0.109600740145312,15,Equilibrium
+Cholesterol biosynthesis,-0.0121686002630047,0.018349613819953,23,Equilibrium
+Chondroitin sulfate/dermatan sulfate metabolism,-0.00296500147223085,0.0210934985528231,31,Equilibrium
+Chromatin modifying enzymes,0.0518805941782143,0.0295490440868635,183,Equilibrium
+Chromatin organization,0.0509499807909682,0.0275027363889457,196,Equilibrium
+Chromosome Maintenance,-0.0199650922507423,0.0127462604122603,83,Equilibrium
+Cilium Assembly,-0.00319187118174017,0.0671167203306925,166,Equilibrium
+Circadian clock,0.0628185973977739,0.0322664774709358,102,Equilibrium
+Citric acid cycle (TCA cycle),-0.0114822554648094,0.0202252606333202,28,Equilibrium
+Class B/2 (Secretin family receptors),0.00759126455596716,-0.0233482311496568,77,Equilibrium
+Class C/3 (Metabotropic glutamate/pheromone receptors),0.00720383126564577,0.0430448693515492,17,Equilibrium
+Class I peroxisomal membrane protein import,-0.0301731927605533,-0.0225331751305496,19,Equilibrium
+Clathrin-mediated endocytosis,0.0186822456746937,0.0132720814028778,133,Equilibrium
+Co-inhibition by CTLA4,0.0539148208834808,-0.0967395634445891,21,Equilibrium
+Co-inhibition by PD-1,0.0510871460796754,0.0944288655832763,139,Equilibrium
+Co-stimulation by CD28,0.0328282846816505,-0.0616066835628946,45,Equilibrium
+"Cobalamin (Cbl, vitamin B12) transport and metabolism",-0.0406419026233033,-0.0291402793507797,15,Equilibrium
+Collagen biosynthesis and modifying enzymes,-0.00867633983772929,-0.0110646696474714,48,Equilibrium
+Collagen chain trimerization,0.00731725816731559,0.00826858303709956,30,Equilibrium
+Collagen degradation,0.0069842338660009,0.00606133880556477,46,Equilibrium
+Collagen formation,-0.0167888033160336,-0.0158578740811689,66,Equilibrium
+Common Pathway of Fibrin Clot Formation,-0.00489160462966907,-0.0410753641544704,19,Equilibrium
+Complement cascade,-0.0260161351813436,0.0184653352246153,37,Equilibrium
+Complex I biogenesis,-0.0619154278539968,-0.0232494842503419,56,Equilibrium
+Complex III assembly,-0.0386086816248559,-0.0058679383185725,20,Equilibrium
+Complex IV assembly,-0.0266928959738057,0.00798944042420322,32,Equilibrium
+Constitutive Signaling by AKT1 E17K in Cancer,0.0641461248703484,-0.0762187379579127,23,Decoupled
+Constitutive Signaling by Aberrant PI3K in Cancer,0.0376036060176343,-0.0169244591035988,77,Equilibrium
+Constitutive Signaling by EGFRvIII,-0.0332413875110024,-0.054997807705385,15,Buffered
+Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants,-0.0339549420496335,-0.0314770989905105,19,Equilibrium
+Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants,0.0797762932117978,-0.00616119671890724,51,Equilibrium
+Constitutive Signaling by NOTCH1 PEST Domain Mutants,0.0797762932117978,-0.00616119671890724,51,Equilibrium
+Conversion from APC/C:Cdc20 to APC/C:Cdh1 in late anaphase,0.0273900960836386,0.00796164073506217,17,Equilibrium
+Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding,0.0471426433144707,0.115663418907344,35,Equilibrium
+Cooperation of Prefoldin and TriC/CCT  in actin and tubulin folding,0.0447500000050345,0.228412994062941,29,Equilibrium
+Cross-presentation of soluble exogenous antigens (endosomes),0.0586676419284,0.0543398172528395,38,Equilibrium
+Crosslinking of collagen fibrils,-0.012257079721882,0.00952789421591587,17,Equilibrium
+Cyclin A/B1/B2 associated events during G2/M transition,0.0158776323753788,0.0713362649917754,29,Equilibrium
+Cyclin A:Cdk2-associated events at S phase entry,0.0556855258246715,-0.0364773944778271,72,Equilibrium
+Cyclin D associated events in G1,0.00308994774713334,-0.0248680774558005,46,Equilibrium
+Cyclin E associated events during G1/S transition,0.0555244360606093,-0.0413639427157955,70,Equilibrium
+Cytochrome P450 - arranged by substrate type,-0.0283565473976773,-0.00289564732373385,55,Equilibrium
+Cytoprotection by HMOX1,0.022207940480385,0.11485576322064,51,Equilibrium
+Cytosolic sensors of pathogen-associated DNA,-0.0110034474705234,0.0321734784732705,58,Equilibrium
+DAG and IP3 signaling,0.03113274821797,0.0191814574883438,39,Equilibrium
+DAP12 interactions,-0.00224794110960623,0.0247811237320556,37,Equilibrium
+DAP12 signaling,0.00911863201899723,0.0212746795616818,29,Equilibrium
+DARPP-32 events,0.0316491413043538,0.0234437654134914,24,Equilibrium
+DDX58/IFIH1-mediated induction of interferon-alpha/beta,0.00976319533859669,0.0434698445093431,69,Equilibrium
+DNA Damage Bypass,-0.010098416355574,0.0391187622803726,44,Equilibrium
+DNA Damage Recognition in GG-NER,0.0308644848124413,0.00750496033416391,38,Equilibrium
+DNA Damage/Telomere Stress Induced Senescence,-0.00619943257886713,0.0116326146121781,27,Equilibrium
+DNA Double Strand Break Response,0.00433840020220832,-0.0345197786237072,40,Equilibrium
+DNA Double-Strand Break Repair,-0.0186320278899559,0.0161495578859922,122,Equilibrium
+DNA Replication,0.00626074591344253,0.052458023614296,118,Equilibrium
+DNA Replication Pre-Initiation,0.0185013180335542,0.0365785149162262,84,Equilibrium
+DNA strand elongation,-0.0343651860871959,-0.0120358212880735,31,Equilibrium
+Deactivation of the beta-catenin transactivating complex,0.0690327881711727,-0.0242742630496855,40,Equilibrium
+Deadenylation of mRNA,0.140208165241807,0.23854195949756,22,Topology-Amplified
+Deadenylation-dependent mRNA decay,0.0467380720760519,0.038889656241692,48,Equilibrium
+Death Receptor Signaling,0.0154715892689717,0.00620448435868766,138,Equilibrium
+Dectin-1 mediated noncanonical NF-kB signaling,0.0517861809366274,-0.00917000888547407,46,Equilibrium
+Defective B3GALT6 causes EDSP2 and SEMDJL1,0.00526823784969657,-0.0157093305263062,19,Equilibrium
+Defective B3GALTL causes PpS,-0.0234686949757377,-0.0294627944808617,15,Equilibrium
+Defective B3GAT3 causes JDSSDHD,0.00278682111345684,-0.00688140397678557,20,Equilibrium
+"Defective B4GALT7 causes EDS, progeroid type",0.00421507840298667,0.00117253090495861,20,Equilibrium
+Defective CFTR causes cystic fibrosis,0.0500949966951176,0.0368207087023904,45,Equilibrium
+Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA1 binding function,-0.0669616092029179,-0.0105855725113231,22,Equilibrium
+Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA2/RAD51/RAD51C binding function,-0.0669616092029179,-0.0105855725113231,22,Equilibrium
+Defective Intrinsic Pathway for Apoptosis,-0.00708180607303613,0.0120763751307979,24,Equilibrium
+Defective TPR may confer susceptibility towards thyroid papillary carcinoma (TPC),-0.0132592620560786,0.0547523607221287,27,Equilibrium
+"Defective binding of RB1 mutants to E2F1,(E2F2, E2F3)",0.0638329810919241,-0.0668270205479984,16,Decoupled
+Defective homologous recombination repair (HRR) due to BRCA1 loss of function,-0.0669616092029179,-0.0105855725113231,22,Equilibrium
+Defective homologous recombination repair (HRR) due to BRCA2 loss of function,-0.0587477149035742,-0.00607970893938064,37,Equilibrium
+Defective homologous recombination repair (HRR) due to PALB2 loss of function,-0.0669616092029179,-0.0105855725113231,22,Equilibrium
+Defects in vitamin and cofactor metabolism,-0.0357493483859748,-0.0158727900140924,18,Equilibrium
+Defensins,-0.0352264312562746,-0.0536148652861215,15,Buffered
+Degradation of AXIN,0.055876382319099,-0.0337472766811639,40,Equilibrium
+Degradation of CDH1,0.0462792444426449,-0.0260845035119663,49,Equilibrium
+Degradation of CRY and PER proteins,0.0519665556798475,-0.00320805605674375,46,Equilibrium
+Degradation of DVL,0.0568904713895701,-0.0276532615397016,42,Equilibrium
+Degradation of GLI1 by the proteasome,0.0506244003212604,-0.0613490322293056,45,Equilibrium
+Degradation of GLI2 by the proteasome,0.0598791801736649,-0.0683677725543603,45,Decoupled
+Degradation of beta-catenin by the destruction complex,0.0518257962886417,-0.0214671880796351,66,Equilibrium
+Degradation of the extracellular matrix,-0.00179990620207533,-0.00946977698896977,104,Equilibrium
+Dengue Virus Attachment and Entry,0.0264466643139822,0.0266640825173674,39,Equilibrium
+Dengue Virus Genome Translation and Replication,0.0327502901209375,0.0462859911240903,76,Equilibrium
+Dengue Virus-Host Interactions,0.0413798627514809,0.0229425430616283,217,Equilibrium
+Dengue virus activates/modulates innate and adaptive immune responses,0.00340981140949782,0.0430008894145028,25,Equilibrium
+Dengue virus modulates apoptosis,0.059331966529681,-0.0290092715451504,15,Equilibrium
+Deposition of new CENPA-containing nucleosomes at the centromere,-0.0124459080358458,0.0423752104103243,23,Equilibrium
+Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models,-0.00244154913691051,0.0246557802942849,21,Equilibrium
+Detoxification of Reactive Oxygen Species,-0.0239977598803352,-0.0270158196640619,27,Equilibrium
+Deubiquitination,0.0296747231419335,0.0181673897647392,210,Equilibrium
+Developmental Cell Lineages,0.0267276705161548,-0.0465754117112302,27,Equilibrium
+Developmental Cell Lineages of the Exocrine Pancreas,0.0303888449212023,-0.050792060568934,25,Equilibrium
+Developmental Lineage of Pancreatic Ductal Cells,0.00966561111729496,-0.0136113563938378,21,Equilibrium
+Digestion and absorption,-0.0290996444918012,-0.0967275449587263,16,Buffered
+Disassembly of the destruction complex and recruitment of AXIN to the membrane,0.00871508372603563,-0.0129918278716084,28,Equilibrium
+Diseases associated with N-glycosylation of proteins,-0.02781606712176,-0.0771765208092386,19,Equilibrium
+Diseases associated with O-glycosylation of proteins,-0.00590282511551048,0.0129860995308837,31,Equilibrium
+Diseases associated with glycosaminoglycan metabolism,2.34834049740257e-05,-0.0174579276674145,40,Equilibrium
+Diseases associated with the TLR signaling cascade,0.0133590909571838,0.0767743092999797,27,Equilibrium
+Diseases of DNA Double-Strand Break Repair,-0.0587477149035742,-0.00607970893938064,37,Equilibrium
+Diseases of DNA repair,-0.0581515162318624,-0.00492961164289822,42,Equilibrium
+Diseases of Immune System,0.0133590909571838,0.0767743092999797,27,Equilibrium
+Diseases of carbohydrate metabolism,-0.0403289257348971,-0.00390409290895103,29,Equilibrium
+Diseases of glycosylation,-0.00752144000349149,-0.0187345310032899,103,Equilibrium
+Diseases of hemostasis,0.0188223754269303,-0.104922921589343,16,Equilibrium
+Diseases of metabolism,-0.0194200955353376,-0.0236195831462193,212,Equilibrium
+Diseases of mitotic cell cycle,0.0463446119033244,-0.0563234493555742,34,Equilibrium
+Diseases of programmed cell death,0.0166579663846975,0.0604520174669392,41,Equilibrium
+Disorders of Developmental Biology,0.0686295115478233,0.0412243927258724,18,Equilibrium
+Disorders of transmembrane transporters,0.00527103541244461,0.0340534011573457,136,Equilibrium
+Dopamine Neurotransmitter Release Cycle,0.046938291055576,0.0362289669912664,21,Equilibrium
+Downregulation of ERBB2 signaling,0.0106469642996478,-0.0448399355088648,26,Equilibrium
+Downregulation of SMAD2/3:SMAD4 transcriptional activity,0.0572958189757462,-0.0246489075636032,31,Equilibrium
+Downregulation of TGF-beta receptor signaling,0.00874502063933862,-0.0119029967843219,24,Equilibrium
+Downstream TCR signaling,0.0435108128871663,0.0571759495260315,74,Equilibrium
+Downstream signal transduction,0.0369170475548493,-0.0871132397087029,29,Equilibrium
+Downstream signaling events of B Cell Receptor (BCR),0.0569202118595618,-0.0184474837720769,65,Equilibrium
+Downstream signaling of activated FGFR1,0.0445393269484028,-0.0526902859813084,28,Equilibrium
+Downstream signaling of activated FGFR2,0.0434802271387861,-0.0684577201131438,25,Equilibrium
+Downstream signaling of activated FGFR3,0.0249940156710698,-0.0747743258748153,21,Equilibrium
+Downstream signaling of activated FGFR4,0.0225503878848755,-0.0538412976810297,23,Equilibrium
+Drug ADME,-0.0305992556416775,-0.00874208628345902,76,Equilibrium
+Dual Incision in GG-NER,-0.0311944020632551,0.0265708192503251,39,Equilibrium
+Dual incision in TC-NER,-0.0244140895755632,0.0258714471230629,62,Equilibrium
+E2F mediated regulation of DNA replication,0.00331395730999401,0.126259330511825,21,Equilibrium
+E3 ubiquitin ligases ubiquitinate target proteins,0.0337927955328477,0.0610942581441237,39,Equilibrium
+ECM proteoglycans,-0.00290032740690264,-0.0158968676721395,65,Equilibrium
+EGFR downregulation,-0.0146138076513207,-0.0233196231326947,29,Equilibrium
+EGR2 and SOX10-mediated initiation of Schwann cell myelination,0.0719101112608332,0.0583034856123679,22,Equilibrium
+EML4 and NUDC in mitotic spindle formation,-0.0143900059727813,0.0504738162384713,106,Equilibrium
+EPH-Ephrin signaling,0.0369978125457582,0.0200599806461624,91,Equilibrium
+EPH-ephrin mediated repulsion of cells,0.0426251232051959,0.0254502854221487,50,Equilibrium
+EPHA-mediated growth cone collapse,0.0133728239580647,0.0135454671619114,28,Equilibrium
+EPHB-mediated forward signaling,0.04495179587525,-0.0187439366275563,42,Equilibrium
+ER Quality Control Compartment (ERQC),-0.0268858766771213,-0.0128636365384928,19,Equilibrium
+ER to Golgi Anterograde Transport,0.015318100683611,0.0115908949784277,137,Equilibrium
+ER-Phagosome pathway,0.0203235212146782,0.0516707388038133,75,Equilibrium
+ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression,0.0283920812408906,0.0154803468240683,16,Equilibrium
+ERK/MAPK targets,0.0280033404583582,-0.0488239298335339,21,Equilibrium
+ESR-mediated signaling,0.0330914041982518,0.0133075167654353,146,Equilibrium
+Early SARS-CoV-2 Infection Events,0.0332600448532489,0.0534390076962326,36,Equilibrium
+Effects of PIP2 hydrolysis,0.0110567857201515,0.0115076291453057,25,Equilibrium
+Elastic fibre formation,0.0322538275195282,-0.0120324762129101,40,Equilibrium
+Endogenous sterols,-0.0222836201364096,0.0174622499447461,25,Equilibrium
+Endosomal Sorting Complex Required For Transport (ESCRT),-0.0120643636531372,-0.0267655178583253,29,Equilibrium
+Energy dependent regulation of mTOR by LKB1-AMPK,0.00800420446858457,0.127795765092701,28,Equilibrium
+Ephrin signaling,0.0258860652216942,-0.0704033943644801,19,Equilibrium
+Epigenetic regulation by WDR5-containing histone modifying complexes,0.0317264363141479,0.052279037350866,98,Equilibrium
+Epigenetic regulation of adipogenesis genes by MLL3 and MLL4 complexes,0.0271353211357127,0.0530077661435106,70,Equilibrium
+Epigenetic regulation of gene expression,0.0327702973608228,0.0438952098258335,229,Equilibrium
+Epigenetic regulation of gene expression by MLL3 and MLL4 complexes,0.0271353211357127,0.0530077661435106,70,Equilibrium
+Estrogen-dependent gene expression,0.0544052862478947,-0.00348055969740118,81,Equilibrium
+Estrogen-dependent nuclear events downstream of ESR-membrane signaling,0.0536251453779051,0.00674532900036169,21,Equilibrium
+Eukaryotic Translation Elongation,0.0564457331101559,0.0396108217541027,90,Equilibrium
+Eukaryotic Translation Initiation,0.0562679686830828,0.0330757260305583,115,Equilibrium
+Eukaryotic Translation Termination,0.055237056637825,0.0455296771282091,89,Equilibrium
+Evasion by RSV of host interferon responses,-0.00141344585948962,0.0431950104615542,27,Equilibrium
+Export of Viral Ribonucleoproteins from Nucleus,0.0077286637583606,0.270018871210619,28,Equilibrium
+"Expression of BMAL (ARNTL), CLOCK, and NPAS2",0.0764511555648823,0.0828162153370203,33,Topology-Amplified
+Extension of Telomeres,-0.0130112171489356,0.0613273956624795,47,Equilibrium
+Extra-nuclear estrogen signaling,0.00293836633652486,0.0130845497410194,69,Equilibrium
+FBXL7 down-regulates AURKA during mitotic entry and in early mitosis,0.0588806069963083,-0.0377084005070639,40,Equilibrium
+FCERI mediated Ca+2 mobilization,0.0315576027035884,0.0426624696700713,30,Equilibrium
+FCERI mediated MAPK activation,-0.00238350894149359,-0.0105942107870578,30,Equilibrium
+FCERI mediated NF-kB activation,0.0591813869372486,0.00263115839462911,63,Equilibrium
+FCGR3A-mediated IL10 synthesis,0.0245511273556354,0.0494650873570443,35,Equilibrium
+FCGR3A-mediated phagocytosis,0.0340307072873774,0.0458348989643031,58,Equilibrium
+FGFR1 mutant receptor activation,0.0647655868761216,0.01179264357802,27,Equilibrium
+FGFR2 alternative splicing,0.0271730220089531,-0.14306279020548,24,Equilibrium
+FGFR2 mutant receptor activation,0.0213999480530823,-0.0688399008945815,27,Equilibrium
+FLT3 Signaling,0.0448883242944454,-0.0284766739321666,36,Equilibrium
+FLT3 signaling in disease,0.0125966053894531,-0.0249430922312722,28,Equilibrium
+FOXO-mediated transcription,0.035767961127748,0.0392368241501952,61,Equilibrium
+FOXO-mediated transcription of cell cycle genes,0.0231176411642414,-0.0101817191042748,15,Equilibrium
+"FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes",0.0261476391976331,0.0542584683521132,27,Equilibrium
+FRS-mediated FGFR1 signaling,0.0437774014862847,-0.0288776248305644,20,Equilibrium
+FRS-mediated FGFR2 signaling,0.0570375679863686,-0.0586510588219547,20,Equilibrium
+FRS-mediated FGFR3 signaling,0.0361637506468865,-0.0699298642830258,16,Equilibrium
+FRS-mediated FGFR4 signaling,0.0318002557005475,-0.0475185212110682,18,Equilibrium
+Factors involved in megakaryocyte development and platelet production,0.0118981327375708,0.0328646068085453,137,Equilibrium
+Fanconi Anemia Pathway,-0.0460170730061912,-0.0160512395830084,27,Equilibrium
+Fatty acid metabolism,-0.0239372841506803,-0.0253367342404557,138,Equilibrium
+Fatty acyl-CoA biosynthesis,-0.00649979988054963,-0.0415739692390738,28,Equilibrium
+Fc epsilon receptor (FCERI) signaling,0.0428991737961354,0.00514471495321076,112,Equilibrium
+Fcgamma receptor (FCGR) dependent phagocytosis,0.0349246824531362,0.0205478795417598,79,Equilibrium
+Fertilization,-0.0324672511128638,-0.0485053296833379,17,Buffered
+Fibronectin matrix formation,0.0199838567196947,0.00454244841544794,19,Equilibrium
+Formation of Fibrin Clot (Clotting Cascade),-0.00869448767179214,-0.0655654650951121,33,Equilibrium
+Formation of HIV elongation complex in the absence of HIV Tat,-0.0176943615546547,0.00108337853531311,39,Equilibrium
+Formation of HIV-1 elongation complex containing HIV-1 Tat,-0.0228404897866825,0.0378280750877924,37,Equilibrium
+Formation of Incision Complex in GG-NER,-0.0075277691839383,0.0120472980836172,40,Equilibrium
+Formation of RNA Pol II elongation complex,-0.00271356728114368,-0.0130847152185624,51,Equilibrium
+Formation of TC-NER Pre-Incision Complex,0.000967061891618124,-0.0189293416357305,50,Equilibrium
+Formation of WDR5-containing histone-modifying complexes,0.0427163401913088,0.0385160465329705,38,Equilibrium
+Formation of a pool of free 40S subunits,0.0543340675885048,0.0673632798247964,97,Equilibrium
+Formation of neuronal progenitor and neuronal BAF (npBAF and nBAF),0.0902816865222202,0.113183041214272,25,Topology-Amplified
+Formation of paraxial mesoderm,0.0897912720801089,0.0196732574277439,53,Equilibrium
+Formation of the Early Elongation Complex,-0.0401840333996557,0.0319023137012214,31,Equilibrium
+Formation of the HIV-1 Early Elongation Complex,-0.0401840333996557,0.0319023137012214,31,Equilibrium
+Formation of the beta-catenin:TCF transactivating complex,0.106657936399162,0.0605440140535568,32,Equilibrium
+Formation of the canonical BAF (cBAF) complex,0.0975461938520457,0.0998221491207994,18,Topology-Amplified
+Formation of the cornified envelope,-0.0363708328651086,-0.0341764228662774,94,Equilibrium
+Formation of the dystrophin-glycoprotein complex (DGC),-0.0310388483384083,0.0191387593058703,32,Equilibrium
+Formation of the embryonic stem cell BAF (esBAF) complex,0.107439761014981,0.148959462004092,19,Topology-Amplified
+Formation of the nephric duct,0.0600730650418873,-0.014742341616666,16,Equilibrium
+Formation of the non-canonical BAF (ncBAF) complex,0.0715390110735237,0.18762677579231,15,Topology-Amplified
+Formation of the polybromo-BAF (pBAF) complex,0.0742022623180359,0.274789946221993,18,Topology-Amplified
+"Formation of the ternary complex, and subsequently, the 43S complex",0.0510706370619587,0.0444095761411297,48,Equilibrium
+Formation of the ureteric bud,0.0759479187042681,-0.0436023665457635,15,Equilibrium
+Formation of tubulin folding intermediates by CCT/TriC,0.038631433497611,0.442533305297914,22,Equilibrium
+G alpha (12/13) signalling events,0.00385482542057316,0.00641006845866743,71,Equilibrium
+G alpha (q) signalling events,-0.000916996302252603,-0.00360796576722985,165,Equilibrium
+G alpha (s) signalling events,-0.0125137084162383,0.00753100490301053,118,Equilibrium
+G alpha (z) signalling events,0.0192894192645038,-0.0058396103279053,43,Equilibrium
+G beta:gamma signalling through BTK,0.0111861541206095,0.0204013692136156,17,Equilibrium
+G beta:gamma signalling through CDC42,-0.00644439352820138,0.0170041030533814,19,Equilibrium
+G beta:gamma signalling through PI3Kgamma,0.0194436004488362,0.0108568820465383,22,Equilibrium
+G beta:gamma signalling through PLC beta,-0.00624195350436436,0.022913054225479,19,Equilibrium
+G protein gated Potassium channels,0.0260691395325268,-0.043747333350661,26,Equilibrium
+G-protein activation,-0.00534841175002081,0.0528519123141621,23,Equilibrium
+G-protein beta:gamma signalling,0.0212965022202226,0.00917856229489081,29,Equilibrium
+G-protein mediated events,0.0204829599812473,0.0185883134170129,52,Equilibrium
+G0 and Early G1,0.0445692204668735,0.0204813782713842,26,Equilibrium
+G1 Phase,0.00308994774713334,-0.0248680774558005,46,Equilibrium
+G1/S DNA Damage Checkpoints,0.0391688016344446,0.00804115400969509,64,Equilibrium
+G1/S Transition,0.0210611679284325,0.0119657222337589,117,Equilibrium
+G1/S-Specific Transcription,0.0261703453017559,0.0213444355648295,29,Equilibrium
+G2/M Checkpoints,-0.000898711101993931,0.0468436491270586,113,Equilibrium
+G2/M DNA damage checkpoint,-0.0207831710879754,0.0435007102178088,56,Equilibrium
+G2/M Transition,0.0164147259416918,0.0627053179760832,168,Equilibrium
+GAB1 signalosome,0.0147174882632996,0.00308680514818689,16,Equilibrium
+GABA B receptor activation,0.0189796778289694,-0.0321607185881337,39,Equilibrium
+GABA receptor activation,0.034295364639501,-0.0386928987715643,53,Equilibrium
+"GABA synthesis, release, reuptake and degradation",0.0743843927577959,0.0688310851432429,16,Equilibrium
+GLI3 is processed to GLI3R by the proteasome,0.0649515808300358,-0.0996758495827378,45,Decoupled
+GPER1 signaling,0.00493751894476672,0.00530829379758535,42,Equilibrium
+GPVI-mediated activation cascade,0.0332625149787883,0.0399213903405269,31,Equilibrium
+GRB2 events in ERBB2 signaling,-0.00544948645017195,-0.0435934091516919,15,Equilibrium
+GRB2:SOS provides linkage to MAPK signaling for Integrins,-0.00765969669609811,0.0432171437573141,15,Equilibrium
+GSK3B and BTRC:CUL1-mediated-degradation of NFE2L2,0.0629107633841818,-0.130592277167786,40,Decoupled
+GSK3B-mediated proteasomal degradation of PD-L1(CD274),0.0583341098808053,-0.0659763432629695,42,Equilibrium
+GTP hydrolysis and joining of the 60S ribosomal subunit,0.0592906105943867,-0.00240960564402115,108,Equilibrium
+"Gamma carboxylation, hypusinylation, hydroxylation, and arylsulfatase activation",0.00200471445432983,0.0233037126778499,53,Equilibrium
+Gap junction assembly,-0.0106606506024197,-0.0150693670946263,25,Equilibrium
+Gap junction trafficking,0.00587014234584203,0.00424644896116792,36,Equilibrium
+Gap junction trafficking and regulation,0.00716457815607429,0.00530753758646558,38,Equilibrium
+Gap-filling DNA repair synthesis and ligation in GG-NER,-0.0440455432669399,0.0048036798104566,25,Equilibrium
+Gap-filling DNA repair synthesis and ligation in TC-NER,-0.0228480032959779,0.0221572608511085,61,Equilibrium
+Gastrin-CREB signalling pathway via PKC and MAPK,0.0065996300629884,-0.0534307271001715,18,Equilibrium
+Gastrulation,0.0765081964020449,0.0233653455261498,96,Equilibrium
+Gene Silencing by RNA,0.0234442354251571,0.00182361560840083,45,Equilibrium
+Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation,0.0287475133967247,0.0483251760578211,35,Equilibrium
+Generation of second messenger molecules,-0.00463503537600822,0.128491045662531,26,Equilibrium
+Global Genome Nucleotide Excision Repair (GG-NER),-0.00166096500200235,0.0407200768659465,81,Equilibrium
+Glucagon signaling in metabolic regulation,0.0154941831100698,0.0216171070026997,30,Equilibrium
+Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,0.00782930616533792,0.0333558188244558,40,Equilibrium
+Glucagon-type ligand receptors,-0.0250905264765641,0.0321849901708195,30,Equilibrium
+Gluconeogenesis,-0.0365523284775606,-0.00542467914574327,20,Equilibrium
+Glucose metabolism,-0.0256772241507558,0.02396508596752,72,Equilibrium
+Glucuronidation,-0.0417900584052881,-0.0256961150599793,19,Equilibrium
+Glutamate Neurotransmitter Release Cycle,0.0669420351315571,0.0412173141831235,21,Equilibrium
+"Glutamate binding, activation of AMPA receptors and synaptic plasticity",0.0602547260601363,-0.0968112811539399,28,Decoupled
+Glutathione conjugation,-0.0375828009281055,-0.0414460507189907,26,Equilibrium
+Glycerophospholipid biosynthesis,0.00731040501291355,0.00749590418972779,92,Equilibrium
+Glycogen metabolism,-0.0356301367732002,0.0113971011938569,20,Equilibrium
+Glycolysis,-0.0248597711718547,0.0298161647823333,66,Equilibrium
+Glycosaminoglycan metabolism,-0.000945013374936378,-0.035946871118092,104,Equilibrium
+Glycosaminoglycan-protein linkage region biosynthesis,-0.000496067806086349,-0.0237198752207062,25,Equilibrium
+Glycosphingolipid biosynthesis,0.0163579161115022,0.0112581937580006,15,Equilibrium
+Glycosphingolipid catabolism,-0.0300537872596085,-0.0344898427572348,31,Equilibrium
+Glycosphingolipid metabolism,-0.0149195361603333,-0.0418789970477553,46,Equilibrium
+Glyoxylate metabolism and glycine degradation,-0.0311069219694423,-0.00153293206221322,15,Equilibrium
+Golgi Associated Vesicle Biogenesis,0.00623249352522896,0.059384994453614,54,Equilibrium
+Golgi-to-ER retrograde transport,0.0132323448251826,0.0275872099470518,124,Equilibrium
+Growth hormone receptor signaling,0.0476274889699201,0.0416153895565939,21,Equilibrium
+HATs acetylate histones,0.039789811894276,0.0964919205487718,73,Equilibrium
+HCMV Early Events,0.0185247152927988,0.0938152060948137,70,Equilibrium
+HCMV Infection,0.0182955401318291,0.060673933542694,91,Equilibrium
+HCMV Late Events,0.00311616074603229,0.0138792671641859,49,Equilibrium
+HDACs deacetylate histones,0.0356765799005069,-0.0386569383528931,30,Equilibrium
+HDMs demethylate histones,0.0746414326501234,-0.0549676415489404,19,Decoupled
+HDR through Homologous Recombination (HRR),-0.0538003736444981,0.000668520725110766,62,Equilibrium
+HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA),-0.0362858019499375,0.0169703989731626,87,Equilibrium
+HDR through Single Strand Annealing (SSA),-0.053519516331765,0.0134013748672539,33,Equilibrium
+HIV Infection,0.0179204502851202,-0.000666986777415264,203,Equilibrium
+HIV Life Cycle,-0.000438997349444225,-0.0134338115524777,138,Equilibrium
+HIV Transcription Elongation,-0.0228404897866825,0.0378280750877924,37,Equilibrium
+HIV Transcription Initiation,-0.0300069984409403,0.0164306635045946,46,Equilibrium
+HIV elongation arrest and recovery,-0.00532325879028429,-0.00534037225418759,28,Equilibrium
+HS-GAG biosynthesis,0.0232683215198626,-0.0418767752676746,24,Equilibrium
+HS-GAG degradation,-0.00365594478889866,0.00323149234471167,17,Equilibrium
+HSF1 activation,0.0145438028850218,0.056919941404549,24,Equilibrium
+HSF1-dependent transactivation,0.0121092274089808,0.0718552855676863,30,Equilibrium
+HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand,-0.000307043232683389,0.0659975261345884,49,Equilibrium
+Hedgehog 'off' state,0.0223781960741067,0.0317880780623981,92,Equilibrium
+Hedgehog 'on' state,0.0422342128969875,0.0332749889823165,67,Equilibrium
+Hedgehog ligand biogenesis,0.056786408527048,0.0313962360662083,49,Equilibrium
+Heme signaling,0.054450400707074,0.10578552182792,44,Equilibrium
+Heparan sulfate/heparin (HS-GAG) metabolism,0.0172644407059755,-0.029458082391888,29,Equilibrium
+Hh mutants abrogate ligand secretion,0.0614815582941646,0.00979379718165069,44,Equilibrium
+Hh mutants are degraded by ERAD,0.0666083008706119,-0.0367297857097545,41,Equilibrium
+High laminar flow shear stress activates signaling by PIEZO1 and PECAM1:CDH5:KDR in endothelial cells,0.0244922947518252,0.0158213104900395,61,Equilibrium
+Homologous DNA Pairing and Strand Exchange,-0.0598407947622517,-0.0065749746135375,39,Equilibrium
+Homology Directed Repair,-0.0385200978412295,0.0163787673883833,92,Equilibrium
+Host Interactions of HIV factors,0.0340119561946305,0.030433569162275,108,Equilibrium
+Hyaluronan metabolism,-0.012033059871793,-0.0697958946893445,15,Equilibrium
+IGF1R signaling cascade,0.0248171796294355,-0.0143449875780085,45,Equilibrium
+IKK complex recruitment mediated by RIP1,-0.00250459242397726,0.0288581052840141,21,Equilibrium
+IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation,0.00317459966540267,-0.000385396749749107,15,Equilibrium
+IRAK4 deficiency (TLR2/4),-0.00632590975198155,0.0850060238138832,17,Equilibrium
+IRE1alpha activates chaperones,-0.0120796297278482,0.00879229030261513,43,Equilibrium
+IRS-mediated signalling,0.0308411395779302,-0.00773914607413364,41,Equilibrium
+IRS-related events triggered by IGF1R,0.0267671124024982,-0.0111048494157462,44,Equilibrium
+ISG15 antiviral mechanism,0.0100299482270937,0.0558579425643525,65,Equilibrium
+Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell,-0.0209219748210553,-0.0014311912574198,87,Equilibrium
+Impaired BRCA2 binding to PALB2,-0.0669616092029179,-0.0105855725113231,22,Equilibrium
+Impaired BRCA2 binding to RAD51,-0.0559318628483521,0.00269739559472124,31,Equilibrium
+Inactivation of APC/C via direct inhibition of the APC/C complex,0.00842312877250553,-0.0742066055755386,18,Equilibrium
+Inactivation of CSF3 (G-CSF) signaling,0.0508219207099885,-0.0274820134829698,21,Equilibrium
+"Inactivation, recovery and regulation of the phototransduction cascade",-0.0181808323869348,0.0420937005301858,28,Equilibrium
+"Incretin synthesis, secretion, and inactivation",0.00709876851104416,0.0194029816444293,21,Equilibrium
+Infection with Enterobacteria,0.000282545513247622,0.00796714760889264,32,Equilibrium
+Infection with Mycobacterium tuberculosis,0.0139276679258559,0.0042859564469259,25,Equilibrium
+Inflammasomes,-0.017243673180631,0.0636551101075535,20,Equilibrium
+Influenza Infection,0.0284228988717922,0.0662597253554143,147,Equilibrium
+Influenza Viral RNA Transcription and Replication,0.026773245741173,0.0888529117371507,128,Equilibrium
+Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits,0.0260691395325268,-0.043747333350661,26,Equilibrium
+Inhibition of DNA recombination at telomere,-0.0496983818296691,0.0232256048965266,20,Equilibrium
+Inhibition of the proteolytic activity of APC/C required for the onset of anaphase by mitotic spindle checkpoint components,0.00842312877250553,-0.0742066055755386,18,Equilibrium
+Initiation of Nuclear Envelope (NE) Reformation,0.0105429225636535,0.0565033160363447,19,Equilibrium
+InlB-mediated entry of Listeria monocytogenes into host cell,-0.0296252284107234,-0.00471087668210645,15,Equilibrium
+Inositol phosphate metabolism,0.0172556971016091,-0.00698232843397332,40,Equilibrium
+Insertion of tail-anchored proteins into the endoplasmic reticulum membrane,0.00383552972056008,0.00313551615124776,19,Equilibrium
+Insulin processing,0.0193835424621063,-0.0180225217311308,23,Equilibrium
+Insulin receptor recycling,-0.0220729115026692,0.130314820927584,29,Equilibrium
+Insulin receptor signalling cascade,0.0263117673315805,-0.0148258221399713,47,Equilibrium
+Integration of energy metabolism,0.0238119072463253,0.00743686378808576,99,Equilibrium
+Integrin cell surface interactions,-0.0152166782466023,-0.0180176630335145,70,Equilibrium
+Integrin signaling,0.0222935822755842,0.0101815629208076,26,Equilibrium
+Interaction between L1 and Ankyrins,0.0605114780670631,0.0588146226000957,28,Equilibrium
+Interactions of Rev with host cellular proteins,0.00666614658785442,0.217091046913551,33,Equilibrium
+Interactions of Vpr with host cellular proteins,-0.00633019283689736,0.140625728146176,33,Equilibrium
+Interconversion of nucleotide di- and triphosphates,-0.0147755581478247,-0.0289273203821632,26,Equilibrium
+Interferon Signaling,0.000823420745617577,0.0298743589932183,234,Equilibrium
+Interferon alpha/beta signaling,-0.0167999467709573,0.011958523538156,66,Equilibrium
+Interferon gamma signaling,-0.00541320040227305,0.0239143644528072,75,Equilibrium
+Interleukin receptor SHC signaling,0.0171228447997462,-0.0077883925907783,26,Equilibrium
+Interleukin-1 family signaling,0.0189513254391894,0.0394307354254154,131,Equilibrium
+Interleukin-1 signaling,0.02655219877809,0.0395845142212365,96,Equilibrium
+Interleukin-10 signaling,0.0246944786330237,-0.0227130593240614,42,Equilibrium
+Interleukin-12 family signaling,0.0287780019854152,0.0418639256506999,53,Equilibrium
+Interleukin-12 signaling,0.0190153338054612,0.0487875460647898,43,Equilibrium
+Interleukin-17 signaling,0.0153241822620407,-0.0125707534995442,65,Equilibrium
+Interleukin-2 family signaling,0.0402592545619621,0.0255546370700741,42,Equilibrium
+Interleukin-20 family signaling,0.00729889842120427,0.0621259311820442,24,Equilibrium
+"Interleukin-3, Interleukin-5 and GM-CSF signaling",0.0162197366231876,-0.0211747191675855,46,Equilibrium
+Interleukin-37 signaling,0.00922998847535248,0.0711002422198188,19,Equilibrium
+Interleukin-4 and Interleukin-13 signaling,0.00889492852929621,0.00546515496908491,93,Equilibrium
+Interleukin-6 family signaling,0.0309092141115329,0.0153260820547992,21,Equilibrium
+Interleukin-7 signaling,0.0136467645517884,0.00765821232573967,21,Equilibrium
+Intra-Golgi and retrograde Golgi-to-ER traffic,0.00595728908512807,0.0119620304559323,189,Equilibrium
+Intra-Golgi traffic,-0.00551447998590934,-0.00736780009616517,40,Equilibrium
+Intraflagellar transport,-0.0169335176059232,0.0773599929914154,40,Equilibrium
+Intrinsic Pathway for Apoptosis,0.0181618144735087,0.025057561372002,50,Equilibrium
+Intrinsic Pathway of Fibrin Clot Formation,0.012833779716969,-0.0870553836796588,20,Equilibrium
+Inwardly rectifying K+ channels,0.0213969649818392,-0.0264461016867341,30,Equilibrium
+Ion channel transport,-0.00559594912903408,-0.00784382295180543,144,Equilibrium
+Ion homeostasis,0.012956627550262,-0.00329622328309536,48,Equilibrium
+Ion transport by P-type ATPases,0.0163626157187742,0.0316041704571907,47,Equilibrium
+Iron uptake and transport,-0.00832317662730912,0.00729998200743908,54,Equilibrium
+JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1,0.0315232968620682,-0.0299067430293553,20,Equilibrium
+KEAP1-NFE2L2 pathway,0.0416244556024621,0.0391709555365557,103,Equilibrium
+KSRP (KHSRP) binds and destabilizes mRNA,-0.0290221391010999,-0.100759986483394,16,Buffered
+Keratan sulfate biosynthesis,0.00252359634620146,-0.0264034267198119,22,Equilibrium
+Keratan sulfate/keratin metabolism,-0.00772637191683877,-0.029628455162956,29,Equilibrium
+Keratinization,-0.0266898269962846,-0.0478012065284917,146,Equilibrium
+Kidney development,0.0713481455693107,-0.0374364465434883,37,Equilibrium
+Kinesins,-0.0148036258399859,0.0124847126344073,57,Equilibrium
+L13a-mediated translational silencing of Ceruloplasmin expression,0.0635644845129193,-0.0197149093767687,107,Equilibrium
+L1CAM interactions,0.0394025067617223,0.0308279988840212,111,Equilibrium
+LDL clearance,0.0265505807836047,0.0904607106705628,17,Equilibrium
+Lagging Strand Synthesis,-0.0274111878978144,0.0230608912366385,19,Equilibrium
+Laminin interactions,-0.031766428769826,-0.012097819693144,27,Equilibrium
+Late Phase of HIV Life Cycle,-0.00357646434170272,-0.0160947140344366,125,Equilibrium
+Late SARS-CoV-2 Infection Events,0.0231334433184533,-0.0140245773313873,63,Equilibrium
+Late endosomal microautophagy,0.00933758846560553,0.0118043329538072,31,Equilibrium
+Leishmania infection,0.0173874020123993,0.0274745599811453,152,Equilibrium
+Leishmania parasite growth and survival,0.0205940928027883,0.0267993954254891,71,Equilibrium
+Leishmania phagocytosis,0.0340307072873774,0.0458348989643031,58,Equilibrium
+Listeria monocytogenes entry into host cells,-0.0120010122454191,-0.0427687043116075,20,Equilibrium
+Long-term potentiation,0.0500347246031122,-0.0383764396539406,21,Equilibrium
+Loss of Nlp from mitotic centrosomes,0.00996164563036236,0.10083966112316,59,Equilibrium
+Loss of proteins required for interphase microtubule organization from the centrosome,0.00996164563036236,0.10083966112316,59,Equilibrium
+Lysosome Vesicle Biogenesis,0.0096501109283013,0.0298858535115971,33,Equilibrium
+M-decay: degradation of maternal mRNAs by maternally stored factors,0.111092989730818,0.0416448923126765,39,Equilibrium
+MAP kinase activation,0.0197921423205106,-0.034969573796586,60,Equilibrium
+MAP2K and MAPK activation,0.0125964983880337,0.0101761340983768,39,Equilibrium
+MAP3K8 (TPL2)-dependent MAPK1/3 activation,-0.00417527239821261,-0.072351830043457,15,Equilibrium
+MAPK targets/ Nuclear events mediated by MAP kinases,0.0249449875256262,-0.0622896190228517,29,Equilibrium
+MAPK1/MAPK3 signaling,0.0358033997322622,0.00151268770797938,242,Equilibrium
+MAPK6/MAPK4 signaling,0.0535514230756537,0.0293991051973433,71,Equilibrium
+MECP2 regulates neuronal receptors and channels,0.0757502399188746,0.081311274703079,17,Topology-Amplified
+MET activates PTK2 signaling,0.00614062581606977,-0.0103856787771521,27,Equilibrium
+MET promotes cell motility,0.0080310282423855,-0.00691000494152434,38,Equilibrium
+MHC class II antigen presentation,-0.000517852410203537,0.0459483632384316,112,Equilibrium
+MITF-M-dependent gene expression,0.0394865593353889,0.0583517106662929,104,Equilibrium
+MITF-M-regulated melanocyte development,0.0441306721391705,0.0573718876944039,145,Equilibrium
+MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis,0.0271353211357127,0.0530077661435106,70,Equilibrium
+MTOR signalling,0.0326461150015237,0.0978403517679436,40,Equilibrium
+Macroautophagy,0.0200394849606156,0.0364019667883907,130,Equilibrium
+Major pathway of rRNA processing in the nucleolus and cytosol,0.00838901139372013,0.0782524790916114,168,Equilibrium
+Maternal to zygotic transition (MZT),0.0988963957206312,0.0370235747346887,56,Equilibrium
+Maturation of DENV proteins,0.00970125472846688,0.00777912735071398,50,Equilibrium
+Maturation of TCA enzymes and regulation of TCA cycle,-0.000293284055066419,0.0486610070656614,15,Equilibrium
+Maturation of spike protein_9694548,0.0191765773616999,-0.0441182540842257,36,Equilibrium
+Mechanical load activates signaling by PIEZO1 and integrins in osteocytes,-0.0252500340557833,-0.0168285421904868,15,Equilibrium
+Meiosis,-0.00547961548247198,0.0285939522675323,51,Equilibrium
+Meiotic recombination,-0.048542532522574,0.000536944037059548,25,Equilibrium
+Meiotic synapsis,0.0306379364093602,0.0510680733827861,27,Equilibrium
+Metabolic disorders of biological oxidation enzymes,-0.0124117342467901,-0.0277639773219253,30,Equilibrium
+Metabolism of carbohydrates and carbohydrate derivatives,-0.0123943014214734,-0.0131007069407464,231,Equilibrium
+Metabolism of cofactors,-0.019473827751799,0.00982608035964445,21,Equilibrium
+Metabolism of fat-soluble vitamins,0.00653740834731504,0.0408257045558987,39,Equilibrium
+Metabolism of nitric oxide: NOS3 activation and regulation,-0.00973604080363137,0.0152366083626522,16,Equilibrium
+Metabolism of non-coding RNA,-0.00390282733706146,0.123698432913363,47,Equilibrium
+Metabolism of nucleotides,-0.01780828348576,-0.00523092192152052,78,Equilibrium
+Metabolism of polyamines,0.0693182509551778,0.0398984823125674,40,Equilibrium
+Metabolism of porphyrins,-0.0246450072798943,-0.0833543332505002,22,Equilibrium
+Metabolism of steroid hormones,-0.035659131505178,-0.0231136999117967,26,Equilibrium
+Metabolism of steroids,-0.00114611220973546,0.0590458148657874,129,Equilibrium
+Metabolism of vitamins and cofactors,-0.015671295849644,-0.0033295422893334,162,Equilibrium
+Metabolism of water-soluble vitamins and cofactors,-0.0232426983968252,-0.020286471602586,104,Equilibrium
+Metal ion SLC transporters,0.0249494309744383,0.0254825278725842,39,Equilibrium
+Metalloprotease DUBs,-0.0479747851021422,9.02584228541682e-05,17,Equilibrium
+MicroRNA (miRNA) biogenesis,0.0392633290859061,-0.0715975338870685,24,Equilibrium
+Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane,-0.0280660481088764,0.234269505091762,16,Equilibrium
+Miscellaneous transport and binding events,-0.010007247574645,0.0161494370804059,20,Equilibrium
+Mitochondrial Fatty Acid Beta-Oxidation,-0.0472427883035034,-0.0114471949055972,30,Equilibrium
+Mitochondrial biogenesis,0.0351684411473364,0.0712960862576051,68,Equilibrium
+Mitochondrial calcium ion transport,-0.00968478480933997,-0.0219597289070764,17,Equilibrium
+Mitochondrial protein degradation,-0.0300089219095087,-0.0236097922092406,78,Equilibrium
+Mitochondrial protein import,-0.00372373099408771,-0.00935514627570907,55,Equilibrium
+Mitochondrial ribosome-associated quality control,-0.0903492602204722,-0.032859921553863,83,Equilibrium
+Mitochondrial tRNA aminoacylation,-0.0484031553934244,-0.0484531757693711,18,Buffered
+Mitochondrial translation,-0.0899339461818658,-0.0310517461375054,92,Equilibrium
+Mitochondrial translation elongation,-0.092373446644016,-0.0392572058484171,82,Equilibrium
+Mitochondrial translation initiation,-0.0916079673770994,-0.0352453440296925,83,Equilibrium
+Mitochondrial translation termination,-0.0927398213097183,-0.0375240054914396,84,Equilibrium
+Mitophagy,0.0477546918800936,-0.0247028312722565,35,Equilibrium
+Mitotic Anaphase,0.0172402256581075,0.0557050928039989,201,Equilibrium
+Mitotic G1 phase and G1/S transition,0.022273912519666,0.00328010656560896,134,Equilibrium
+Mitotic G2-G2/M phases,0.0178434657036433,0.0611482394686796,170,Equilibrium
+Mitotic Metaphase and Anaphase,0.0170822534778717,0.0551449823331082,202,Equilibrium
+Mitotic Prometaphase,-0.00530981813128523,0.0751906342991497,179,Equilibrium
+Mitotic Prophase,0.00534970561000207,0.0418633728584408,74,Equilibrium
+Mitotic Spindle Checkpoint,-0.00572155862071528,0.0470858597438467,101,Equilibrium
+Molecules associated with elastic fibres,0.030251105059482,0.00280887673722049,34,Equilibrium
+Muscle contraction,0.000322862853491717,-0.035643468958433,168,Equilibrium
+MyD88 cascade initiated on plasma membrane,0.00944869327548324,0.000135109163647985,89,Equilibrium
+MyD88 deficiency (TLR2/4),-0.00262877654233601,0.0838850283694347,16,Equilibrium
+MyD88 dependent cascade initiated on endosome,0.00533688410998203,0.00185495391906765,97,Equilibrium
+MyD88-independent TLR4 cascade,0.0094342018946135,0.0119760736015976,103,Equilibrium
+MyD88:MAL(TIRAP) cascade initiated on plasma membrane,0.00565640142310774,0.0090216436667705,105,Equilibrium
+Myogenesis,-0.00348148179330831,0.0289447608323606,27,Equilibrium
+N-glycan antennae elongation in the medial/trans-Golgi,0.0348901139473766,-0.0577358677100323,19,Equilibrium
+N-glycan trimming in the ER and Calnexin/Calreticulin cycle,-0.0137561133049503,0.0157816706220257,32,Equilibrium
+NCAM signaling for neurite out-growth,0.016711288703673,0.00161683645453675,51,Equilibrium
+NCAM1 interactions,0.00799887870417378,-0.0115685411995769,32,Equilibrium
+NEP/NS2 Interacts with the Cellular Export Machinery,0.0077286637583606,0.270018871210619,28,Equilibrium
+NFE2L2 regulating anti-oxidant/detoxification enzymes,0.0209395807462198,0.136253813722306,19,Equilibrium
+NGF-stimulated transcription,0.0320630585737393,-0.0292258191430804,32,Equilibrium
+NIK-->noncanonical NF-kB signaling,0.0525619174279509,-0.0843863769839232,43,Equilibrium
+NOD1/2 Signaling Pathway,0.00302148805483723,0.0178342314199502,33,Equilibrium
+NOTCH1 Intracellular Domain Regulates Transcription,0.0759902017137399,-0.0132697699237375,45,Equilibrium
+NOTCH2 Activation and Transmission of Signal to the Nucleus,0.0658608626273025,-0.0546345706151054,18,Decoupled
+NOTCH3 Activation and Transmission of Signal to the Nucleus,0.0445091405717308,-0.0602295373772421,21,Equilibrium
+NOTCH3 Intracellular Domain Regulates Transcription,0.0757263000452027,0.080769020705524,23,Topology-Amplified
+NOTCH4 Intracellular Domain Regulates Transcription,0.0818918542027672,0.0386288604163044,18,Equilibrium
+NPAS4 regulates expression of target genes,0.0718459491199815,0.097786006436895,19,Topology-Amplified
+NR1H2 and NR1H3-mediated signaling,0.0403097048412415,0.0856923638283543,44,Equilibrium
+NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux,0.0517836153008697,0.079697364818514,35,Equilibrium
+NRAGE signals death through JNK,0.00220223782544766,-0.0142650662147565,53,Equilibrium
+NRIF signals cell death from the nucleus,0.0263822064438049,-0.0372357701020948,16,Equilibrium
+NS1 Mediated Effects on Host Pathways,-0.0110288574271313,0.128490158975835,37,Equilibrium
+Neddylation,0.0255765279031814,0.0235605518597637,208,Equilibrium
+Nef-mediates down modulation of cell surface receptors by recruiting them to clathrin adapters,0.0543666951440177,0.0460824376050678,20,Equilibrium
+Negative Regulation of CDH1 Gene Transcription,0.0642394392648144,0.0248620378176048,28,Equilibrium
+Negative epigenetic regulation of rRNA expression,0.000621723351611968,0.00362771398798634,45,Equilibrium
+Negative regulation of FGFR1 signaling,0.0359106935789147,-0.0373466950011801,29,Equilibrium
+Negative regulation of FGFR2 signaling,0.0450556359927656,-0.0544788308187766,29,Equilibrium
+Negative regulation of FGFR3 signaling,0.0297792837765206,-0.0547707080244577,25,Equilibrium
+Negative regulation of FGFR4 signaling,0.0273432106175069,-0.0413802181832128,27,Equilibrium
+Negative regulation of FLT3,0.00739926783087842,-0.000276145094274189,15,Equilibrium
+Negative regulation of MAPK pathway,0.00981899914920252,-0.0319051607662454,42,Equilibrium
+Negative regulation of MET activity,-0.0156527640266797,-0.0170782251151009,21,Equilibrium
+Negative regulation of NMDA receptor-mediated neuronal transmission,0.0398332970290836,-0.0104276929435609,20,Equilibrium
+Negative regulation of NOTCH4 signaling,0.0630087521178939,-0.0226747040841685,42,Equilibrium
+Negative regulation of TCF-dependent signaling by WNT ligand antagonists,0.0197986476718851,-0.0740841790134982,15,Equilibrium
+Negative regulation of the PI3K/AKT network,0.0320534746071412,-0.0159171913114236,111,Equilibrium
+Negative regulators of DDX58/IFIH1 signaling,0.00885019906278472,0.014127287100403,31,Equilibrium
+Nephrin family interactions,0.0264304031495442,0.0106485776639272,20,Equilibrium
+Netrin-1 signaling,0.00668925949837727,-0.0384942817661622,39,Equilibrium
+Neurexins and neuroligins,0.0398380190560461,-0.0271356942606836,52,Equilibrium
+Neurodegenerative Diseases,-0.00244154913691051,0.0246557802942849,21,Equilibrium
+Neurotransmitter receptors and postsynaptic signal transmission,0.0209229288086813,-0.0176440386565536,183,Equilibrium
+Neurotransmitter release cycle,0.047882277947692,0.0336007541182198,40,Equilibrium
+Nicotinate metabolism,-0.0165730441342553,-0.0234716575536907,25,Equilibrium
+Nitric oxide stimulates guanylate cyclase,0.0136816401897055,-0.0143382443900861,17,Equilibrium
+NoRC negatively regulates rRNA expression,0.000744991394089784,0.00418290980380778,42,Equilibrium
+Non-integrin membrane-ECM interactions,-0.00707490325747778,-0.0176265258930631,75,Equilibrium
+Nonhomologous End-Joining (NHEJ),0.00990449660533259,0.00459023345225059,30,Equilibrium
+Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),0.060017640765061,0.018770779486541,110,Equilibrium
+Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),0.0653203852886417,-0.0674718849063731,92,Decoupled
+Nonsense-Mediated Decay (NMD),0.060017640765061,0.018770779486541,110,Equilibrium
+Norepinephrine Neurotransmitter Release Cycle,0.0786954875928749,0.0753966987209614,17,Topology-Amplified
+Notch-HLH transcription pathway,0.0828965091802626,0.0467079195091169,27,Equilibrium
+Nuclear Envelope (NE) Reassembly,0.00187651681868796,0.0601308233842834,69,Equilibrium
+Nuclear Envelope Breakdown,0.00691656229476384,0.0274347185650562,48,Equilibrium
+Nuclear Events (kinase and transcription factor activation),0.0331889397417317,-0.0351271969880672,54,Equilibrium
+Nuclear Pore Complex (NPC) Disassembly,-0.0121367562190035,0.130126057599159,32,Equilibrium
+Nuclear RNA decay,-0.00174295649293116,-0.0576223795479405,30,Equilibrium
+Nuclear Receptor transcription pathway,0.033599448196265,-0.0192011764332945,46,Equilibrium
+Nuclear events mediated by NFE2L2,0.0446484416135922,0.0417851080601564,78,Equilibrium
+Nuclear events stimulated by ALK signaling in cancer,0.068209573004958,0.0627448942920156,31,Equilibrium
+Nuclear import of Rev protein,-0.00172979815430135,0.186065848585525,30,Equilibrium
+Nuclear signaling by ERBB4,0.0325633107391951,-0.0104805970023689,30,Equilibrium
+Nucleosome assembly,-0.0124459080358458,0.0423752104103243,23,Equilibrium
+Nucleotide Excision Repair,-0.00379647173105662,0.0286801310589837,105,Equilibrium
+Nucleotide catabolism,-0.0318347170062848,-0.0193320233505225,25,Equilibrium
+Nucleotide salvage,-0.00652253318853592,0.0170821028097675,20,Equilibrium
+"Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways",-0.00366495586468177,0.0373910802111812,52,Equilibrium
+O-glycosylation of TSR domain-containing proteins,-0.0234686949757377,-0.0294627944808617,15,Equilibrium
+O-linked glycosylation,-0.00934333287072782,-0.0110158071753894,63,Equilibrium
+O-linked glycosylation of mucins,0.00401586924578899,0.00567895483855092,34,Equilibrium
+Oncogene Induced Senescence,0.0592669356075088,-0.0319277979950789,33,Equilibrium
+Oncogenic MAPK signaling,0.0275218803520766,0.018076057990046,78,Equilibrium
+Opioid Signalling,0.0128489455477679,0.0135805368046221,87,Equilibrium
+Orc1 removal from chromatin,0.0276003842748516,0.0131577578301019,56,Equilibrium
+Organelle biogenesis and maintenance,0.00795557000790602,0.070544115314303,234,Equilibrium
+Other interleukin signaling,-0.00601600590550245,-0.00753664753530553,22,Equilibrium
+Other semaphorin interactions,0.0228907753855602,-0.0538964537965441,18,Equilibrium
+Ovarian tumor domain proteases,0.0444022595647663,0.00410700297250407,36,Equilibrium
+Oxidative Stress Induced Senescence,0.0450980862496503,-0.0118833598654456,62,Equilibrium
+Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha,0.0668206408634652,0.0179760675225394,49,Equilibrium
+PCNA-Dependent Long Patch Base Excision Repair,-0.0460770810491105,-0.00223269754664655,21,Equilibrium
+PCP/CE pathway,0.0609900561486483,-0.0109572852250856,74,Equilibrium
+PD-L1(CD274) glycosylation and translocation to plasma membrane,-0.0502059469911762,0.00278324989595075,19,Equilibrium
+PELO:HBS1L and ABCE1 dissociate a ribosome on a non-stop mRNA,0.0572107074994711,0.102576937579208,87,Equilibrium
+PERK regulates gene expression,-0.0298519208797622,-0.0463277058725468,29,Buffered
+PI Metabolism,0.000764722120666057,-0.0132850583746587,72,Equilibrium
+PI-3K cascade:FGFR1,0.0557918064965299,-0.0119097837135949,18,Equilibrium
+PI-3K cascade:FGFR2,0.0705253248299564,-0.0425973414576636,18,Equilibrium
+PI-3K cascade:FGFR4,0.0438193181138561,-0.0326536622188161,16,Equilibrium
+PI3K Cascade,0.0357698005871109,0.00282011783423418,37,Equilibrium
+PI3K events in ERBB2 signaling,-0.00154040035559742,-0.0418819555305666,15,Equilibrium
+PI3K/AKT Signaling in Cancer,0.0435616005720248,-0.0162872536234146,101,Equilibrium
+"PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",0.0314861316910211,-0.0165023391177038,104,Equilibrium
+PINK1-PRKN Mediated Mitophagy,0.0447786637071825,-0.0573172995335933,28,Equilibrium
+PIP3 activates AKT signaling,0.0445657556177072,-0.00175784540955857,249,Equilibrium
+PIWI-interacting RNA (piRNA) biogenesis,-0.0360249448815658,-0.00824659286068982,26,Equilibrium
+PKA activation,0.0529623914758919,0.0433407894326342,17,Equilibrium
+PKA activation in glucagon signalling,0.024198839939541,0.0227748433551003,16,Equilibrium
+PKA-mediated phosphorylation of CREB,0.0537760687199701,0.0518081558265171,19,Equilibrium
+PKMTs methylate histone lysines,0.0740987497603666,0.0491810895812141,35,Equilibrium
+PKR-mediated signaling,0.00352728099117993,0.063968230119071,62,Equilibrium
+PLC beta mediated events,0.0251788961236297,0.0292946202683282,47,Equilibrium
+PPARA activates gene expression,0.0105859553771053,0.0297862163853486,112,Equilibrium
+PTEN Regulation,0.0558029762774054,-0.012653418138693,125,Equilibrium
+Paracetamol ADME,-0.0321264329531166,-0.0430901435725124,18,Equilibrium
+Paradoxical activation of RAF signaling by kinase inactive BRAF,0.0118328668564822,0.0213958391903105,43,Equilibrium
+Parasite infection,0.0340307072873774,0.0458348989643031,58,Equilibrium
+Parasitic Infection Pathways,0.0173874020123993,0.0274745599811453,152,Equilibrium
+Pausing and recovery of HIV elongation,-0.00532325879028429,-0.00534037225418759,28,Equilibrium
+Pausing and recovery of Tat-mediated HIV elongation,-0.0116949718309107,0.0262302446669394,26,Equilibrium
+Peptide chain elongation,0.056448039787651,0.12263520872663,86,Equilibrium
+Peptide hormone metabolism,0.00794213521667615,0.00964391018724181,69,Equilibrium
+Peptide ligand-binding receptors,-0.0162594765493416,-0.0361776828304044,141,Equilibrium
+Peroxisomal lipid metabolism,-0.0402841541407591,-0.0430909046179106,22,Equilibrium
+Peroxisomal protein import,-0.0249956306016484,0.0277453004121851,57,Equilibrium
+Phase 0 - rapid depolarisation,0.0257047741473471,0.00927157169166766,28,Equilibrium
+Phase I - Functionalization of compounds,-0.0265313597967905,-0.00616099961654486,86,Equilibrium
+Phase II - Conjugation of compounds,-0.0316042229001164,-0.0249937870725405,73,Equilibrium
+Phospholipid metabolism,0.00336558178174759,-0.00313842049303767,163,Equilibrium
+Phosphorylated BMAL1:CLOCK (ARNTL:CLOCK) activates expression of core clock genes,0.0771184848269756,0.204628973169735,19,Topology-Amplified
+Phosphorylation of CD3 and TCR zeta chains,-0.0119401942481471,0.302436030718321,15,Equilibrium
+Phosphorylation of the APC/C,0.0428048363551989,0.06523097143392,17,Equilibrium
+Plasma lipoprotein assembly,-0.0195547202415728,0.000947440229544093,18,Equilibrium
+"Plasma lipoprotein assembly, remodeling, and clearance",0.000543567576392319,0.0149898783307863,65,Equilibrium
+Plasma lipoprotein clearance,0.00988702863362909,0.0248656644838137,32,Equilibrium
+Plasma lipoprotein remodeling,-0.00834958858162964,-0.00347281562229666,29,Equilibrium
+Platelet Aggregation (Plug Formation),0.0126657514533645,0.0232402657544545,33,Equilibrium
+"Platelet activation, signaling and aggregation",0.00934181305643983,0.0140096670208772,228,Equilibrium
+Platelet calcium homeostasis,0.0143550023305876,0.025801942337719,22,Equilibrium
+Platelet degranulation,0.00155143853306024,-0.0033214692809891,108,Equilibrium
+Platelet homeostasis,0.0138372391839455,0.0103542729937048,72,Equilibrium
+Platelet sensitization by LDL,0.044620240184002,0.0314848786020023,16,Equilibrium
+Polo-like kinase mediated events,0.0583310306825686,-0.00201012302306118,15,Equilibrium
+Polymerase switching on the C-strand of the telomere,-0.0333481125359228,0.0667815762144113,22,Equilibrium
+Positive epigenetic regulation of rRNA expression,0.0104498192303996,0.0476681145943008,42,Equilibrium
+Post NMDA receptor activation events,0.00873959585422191,-0.0107013755611567,73,Equilibrium
+Post-chaperonin tubulin folding pathway,-0.0211574910228823,0.02356380814949,20,Equilibrium
+Post-translational modification: synthesis of GPI-anchored proteins,-0.00916970961974445,-0.0276229205712606,60,Equilibrium
+Post-translational protein phosphorylation,-0.00481926205170328,-0.00791551024972672,90,Equilibrium
+Postmitotic nuclear pore complex (NPC) reformation,0.0131578954479002,0.228208610773126,25,Equilibrium
+Potassium Channels,0.00943176205636585,-0.0240524297355554,83,Equilibrium
+Potential therapeutics for SARS,0.032465249433881,-0.00134999202576422,93,Equilibrium
+Pre-NOTCH Expression and Processing,0.0753685859199729,0.0428667483469111,46,Equilibrium
+Pre-NOTCH Processing in Golgi,0.0247850260234442,0.0103374326124531,16,Equilibrium
+Pre-NOTCH Transcription and Translation,0.0953589680571476,0.0426376298323993,32,Equilibrium
+Prefoldin mediated transfer of substrate  to CCT/TriC,0.0619353694808937,0.208082981509803,25,Topology-Amplified
+Presynaptic function of Kainate receptors,0.000613739252328528,-0.00749590503697691,20,Equilibrium
+Presynaptic phase of homologous DNA pairing and strand exchange,-0.0584808257154999,0.00155719170707766,36,Equilibrium
+Processing of Capped Intron-Containing Pre-mRNA,0.0355581107850254,0.0105858446878857,269,Equilibrium
+Processing of Capped Intronless Pre-mRNA,0.0229004053324514,0.0329223033737569,29,Equilibrium
+Processing of DNA double-strand break ends,-0.0314850936797129,0.0120076864259718,56,Equilibrium
+Processing of Intronless Pre-mRNAs,0.00652881625125985,-0.0824473356139688,20,Equilibrium
+Processive synthesis on the C-strand of the telomere,-0.04355392519299,-0.00830304385954239,19,Equilibrium
+Programmed Cell Death,0.0174214294046323,0.0305950324933931,180,Equilibrium
+Prostacyclin signalling through prostacyclin receptor,-0.0118845553036409,0.0250413845744507,18,Equilibrium
+Proteasome assembly,0.0361218085929316,0.197100263706377,49,Equilibrium
+Protein folding,0.0215148813239962,0.0820565303566843,89,Equilibrium
+Protein hydroxylation,0.0298280860119457,0.047577354010241,16,Equilibrium
+Protein localization,-0.0126247200939019,0.0151855873414932,144,Equilibrium
+Protein ubiquitination,0.0585171108689265,0.0490877680135157,58,Equilibrium
+Protein-protein interactions at synapses,0.0397567313999177,-0.0278128692825153,79,Equilibrium
+Purine catabolism,-0.0285526420449651,-0.0191068177347745,15,Equilibrium
+Purinergic signaling in leishmaniasis infection,-0.0261016174359022,0.0470083356057439,23,Equilibrium
+Pyroptosis,-0.00308291959642373,0.0455423598915307,25,Equilibrium
+Pyruvate metabolism,0.000705859052738282,0.018717382156578,43,Equilibrium
+RAB GEFs exchange GTP for GDP on RABs,0.0260253271862535,0.0220853173125176,77,Equilibrium
+RAB geranylgeranylation,0.029365479814194,0.0403514666457934,60,Equilibrium
+RAC1 GTPase cycle,0.0100232475883562,-0.0140969761768555,170,Equilibrium
+RAC2 GTPase cycle,0.019567638519347,-0.03901211093419,83,Equilibrium
+RAC3 GTPase cycle,0.0216013553897677,-0.036658397339356,85,Equilibrium
+RAF activation,0.0146782387501691,0.028827416537072,33,Equilibrium
+RAF-independent MAPK1/3 activation,0.0368747920292513,0.00161152785568992,23,Equilibrium
+RAF/MAP kinase cascade,0.0357335288692446,-0.00129504698834803,236,Equilibrium
+RAS processing,0.0318061274376049,-0.0432357638859575,22,Equilibrium
+RET signaling,-0.00605725375209059,0.00246332656663917,34,Equilibrium
+RHO GTPase Effectors,0.00973887089738035,0.0336015834341314,242,Equilibrium
+RHO GTPases Activate Formins,-0.00811687783677427,0.0340125537080286,127,Equilibrium
+RHO GTPases Activate NADPH Oxidases,0.0270518856820361,-0.0075681355812788,20,Equilibrium
+RHO GTPases Activate ROCKs,0.00805789381093366,0.149207264790271,19,Equilibrium
+RHO GTPases Activate WASPs and WAVEs,0.0506613039829987,-0.0183200013762095,36,Equilibrium
+RHO GTPases activate CIT,0.000619643566486931,0.108296234262633,19,Equilibrium
+RHO GTPases activate IQGAPs,-0.0090536646154895,0.150403221259573,27,Equilibrium
+RHO GTPases activate PAKs,0.028531153448687,0.0644039726997195,21,Equilibrium
+RHO GTPases activate PKNs,0.0105937209957452,0.0477723249571196,32,Equilibrium
+RHOA GTPase cycle,-0.00192528415353054,-0.0136976978314418,128,Equilibrium
+RHOB GTPase cycle,-0.000157473026837877,-0.0412214136089643,63,Equilibrium
+RHOBTB GTPase Cycle,0.0268261803274126,-0.0124847706687816,35,Equilibrium
+RHOBTB1 GTPase cycle,0.0330802001087494,-0.0154159424232131,23,Equilibrium
+RHOBTB2 GTPase cycle,0.014762374577506,0.00245187266524647,23,Equilibrium
+RHOC GTPase cycle,0.000155549809289073,-0.037997652351008,66,Equilibrium
+RHOD GTPase cycle,-0.00321171959689612,-0.0010540286740853,48,Equilibrium
+RHOF GTPase cycle,0.00419666051201916,0.00483377403709408,37,Equilibrium
+RHOG GTPase cycle,-0.00511765359225143,-0.033308977414833,70,Equilibrium
+RHOH GTPase cycle,0.0116076720898596,0.0915295011889384,35,Equilibrium
+RHOJ GTPase cycle,0.00993643117004192,-0.0360736428899194,52,Equilibrium
+RHOQ GTPase cycle,0.00149459058565759,-0.0324645431322797,55,Equilibrium
+RHOU GTPase cycle,0.0127630349565915,-0.0191771481371403,38,Equilibrium
+RHOV GTPase cycle,0.0157492328189048,0.0471843628783024,37,Equilibrium
+RIP-mediated NFkB activation via ZBP1,0.00746146651867955,0.040877204152834,15,Equilibrium
+RIPK1-mediated regulated necrosis,-0.010668307721964,-0.0394563637931313,29,Equilibrium
+RMTs methylate histone arginines,0.0630889487296179,0.0420954632718713,30,Equilibrium
+RNA Pol II CTD phosphorylation and interaction with CE,-0.0459525984842483,0.0226032967187563,25,Equilibrium
+RNA Pol II CTD phosphorylation and interaction with CE during HIV infection,-0.0459525984842483,0.0226032967187563,25,Equilibrium
+RNA Polymerase I Promoter Clearance,-0.0145219919657057,-0.0161633079659081,46,Equilibrium
+RNA Polymerase I Promoter Escape,-0.0416962528051559,-0.0170926813339417,27,Equilibrium
+RNA Polymerase I Transcription,-0.0145219919657057,-0.0161633079659081,46,Equilibrium
+RNA Polymerase I Transcription Initiation,-0.0167271135529664,-0.00547993141835006,43,Equilibrium
+RNA Polymerase I Transcription Termination,-0.0426159450519423,-0.0135733002821194,26,Equilibrium
+RNA Polymerase II HIV Promoter Escape,-0.0300069984409403,0.0164306635045946,46,Equilibrium
+RNA Polymerase II Pre-transcription Events,-0.00337927177154805,0.00622748532270733,75,Equilibrium
+RNA Polymerase II Promoter Escape,-0.0300069984409403,0.0164306635045946,46,Equilibrium
+RNA Polymerase II Transcription Elongation,-0.00271356728114368,-0.0130847152185624,51,Equilibrium
+RNA Polymerase II Transcription Initiation,-0.0300069984409403,0.0164306635045946,46,Equilibrium
+RNA Polymerase II Transcription Initiation And Promoter Clearance,-0.0300069984409403,0.0164306635045946,46,Equilibrium
+RNA Polymerase II Transcription Pre-Initiation And Promoter Opening,-0.0300069984409403,0.0164306635045946,46,Equilibrium
+RNA Polymerase II Transcription Termination,0.0371273117392881,0.0427348938593566,64,Equilibrium
+RNA Polymerase III Abortive And Retractive Initiation,-0.0386551483917422,-0.0390311699095189,40,Equilibrium
+RNA Polymerase III Chain Elongation,-0.0623747895291909,0.0260887185916175,18,Equilibrium
+RNA Polymerase III Transcription,-0.0386551483917422,-0.0390311699095189,40,Equilibrium
+RNA Polymerase III Transcription Initiation,-0.0552696362150951,-0.0039905870447745,35,Equilibrium
+RNA Polymerase III Transcription Initiation From Type 1 Promoter,-0.055436841173672,-0.00211267724611747,27,Equilibrium
+RNA Polymerase III Transcription Initiation From Type 2 Promoter,-0.055436841173672,-0.00211267724611747,27,Equilibrium
+RNA Polymerase III Transcription Initiation From Type 3 Promoter,-0.059371173104824,0.00312935997798318,28,Equilibrium
+RNA Polymerase III Transcription Termination,-0.0319354295507302,-0.0771980362434938,23,Buffered
+RNA polymerase II transcribes snRNA genes,-0.000374857782030084,-0.0306878423986291,68,Equilibrium
+RND1 GTPase cycle,0.00794836522043062,0.000667299003344762,38,Equilibrium
+RND2 GTPase cycle,-0.00135321823085615,-0.0325349817269811,39,Equilibrium
+RND3 GTPase cycle,0.00154669779713192,-0.00506347020700812,39,Equilibrium
+"RORA,B,C and NR1D1 (REV-ERBA) regulate gene expression",0.0782867927289404,0.144177268724553,23,Topology-Amplified
+ROS and RNS production in phagocytes,-0.00328677146889499,-0.0392095062315562,32,Equilibrium
+RSV-host interactions,0.000114852074891493,0.0204161168082058,88,Equilibrium
+RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known,0.081031627832253,0.131963867757766,34,Topology-Amplified
+RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function,0.0704653188931343,0.10672608729236,33,Topology-Amplified
+RUNX1 regulates transcription of genes involved in differentiation of HSCs,0.0564289054367408,-0.0628690387585168,54,Equilibrium
+RUNX2 regulates bone development,0.0898602568810403,-0.0381039574253463,27,Equilibrium
+RUNX2 regulates osteoblast differentiation,0.107386395443768,-0.0615709444216676,20,Decoupled
+Rab regulation of trafficking,0.0292940126169291,0.02569423626106,107,Equilibrium
+Rap1 signalling,0.0410174075434766,0.0081175724503934,16,Equilibrium
+Ras activation upon Ca2+ influx through NMDA receptor,0.0428861091478607,-0.0418986576994158,19,Equilibrium
+Receptor-type tyrosine-protein phosphatases,0.043513619350944,-0.0318326453183953,18,Equilibrium
+Recognition of DNA damage by PCNA-containing replication complex,-0.00977095694320319,0.013917939765367,30,Equilibrium
+Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks,0.00507607639745827,-0.0341249882095043,39,Equilibrium
+Recruitment of NuMA to mitotic centrosomes,-0.00297031154238551,0.0963634619018147,80,Equilibrium
+Recruitment of mitotic centrosome proteins and complexes,0.00119523413694828,0.100353987968546,69,Equilibrium
+Recycling pathway of L1,0.0409010538520006,0.0113043766944701,44,Equilibrium
+Regulated Necrosis,-0.00715655396013979,-0.00473896958405566,54,Equilibrium
+Regulation of APC/C activators between G1/S and early anaphase,0.0466257674290731,-0.0367975820567243,63,Equilibrium
+Regulation of Apoptosis,0.0572539929530114,-0.00221969464696717,38,Equilibrium
+Regulation of CDH1 Expression and Function,0.0596939757402031,-0.00281469272552449,126,Equilibrium
+Regulation of CDH1 Function,0.0383344638437493,-0.0140165588773853,56,Equilibrium
+Regulation of CDH1 Gene Transcription,0.0842570041945545,0.00130736119195453,37,Equilibrium
+Regulation of CDH1 posttranslational processing and trafficking to plasma membrane,0.0141037555925333,-0.0230091097480166,28,Equilibrium
+Regulation of CDH11 Expression and Function,0.0879871624756281,0.0948159089804264,26,Topology-Amplified
+Regulation of Complement cascade,-0.0182219262401394,0.0416501548295766,30,Equilibrium
+Regulation of Expression and Function of Type I Classical Cadherins,0.0596939757402031,-0.00281469272552449,126,Equilibrium
+Regulation of Expression and Function of Type II Classical Cadherins,0.085497907957814,0.0824151267959326,29,Topology-Amplified
+Regulation of FZD by ubiquitination,0.02282771178137,-0.030020903234198,19,Equilibrium
+Regulation of Glucokinase by Glucokinase Regulatory Protein,-0.0132592620560786,0.0547523607221287,27,Equilibrium
+Regulation of HSF1-mediated heat shock response,-0.0112249071418146,0.0368493504043119,69,Equilibrium
+Regulation of Homotypic Cell-Cell Adhesion,0.0595741673576678,0.00583875788029285,140,Equilibrium
+Regulation of IFNA/IFNB signaling,0.0108802259851734,0.121328860443263,21,Equilibrium
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),-0.00478860129102113,-0.0127560302808688,102,Equilibrium
+Regulation of MECP2 expression and activity,0.0818629944512602,0.084733709270176,30,Topology-Amplified
+Regulation of MITF-M-dependent genes involved in apoptosis,0.119356676750785,0.162355192567685,16,Topology-Amplified
+Regulation of MITF-M-dependent genes involved in cell cycle and proliferation,0.0390837059411205,0.0267678231283623,18,Equilibrium
+Regulation of MITF-M-dependent genes involved in lysosome biogenesis and autophagy,0.00568340438412679,0.175463868275914,17,Equilibrium
+Regulation of MITF-M-dependent genes involved in pigmentation,0.0724774714882131,0.0761493957801202,40,Topology-Amplified
+Regulation of NF-kappa B signaling,-0.0226037720301866,0.00512222271854674,17,Equilibrium
+Regulation of PD-L1(CD274) Post-translational modification,0.0255682861288955,0.0751202876768611,81,Equilibrium
+Regulation of PD-L1(CD274) expression,0.0540756990521872,0.082119595978261,125,Equilibrium
+Regulation of PD-L1(CD274) transcription,0.0852600814059141,0.110794414183349,37,Topology-Amplified
+Regulation of PLK1 Activity at G2/M Transition,0.00485637467453788,0.051460412343272,77,Equilibrium
+Regulation of PTEN gene transcription,0.046905704890458,-0.0155641475119164,60,Equilibrium
+Regulation of PTEN stability and activity,0.0487009966179422,-0.028139109232545,54,Equilibrium
+Regulation of RAS by GAPs,0.0593178583294192,-0.00883297977893875,50,Equilibrium
+Regulation of RUNX1 Expression and Activity,0.110893475421991,0.0305573127104748,17,Equilibrium
+Regulation of RUNX2 expression and activity,0.0591909609058933,-0.0222201299492686,54,Equilibrium
+Regulation of RUNX3 expression and activity,0.055074201557462,-0.0501635464711608,43,Equilibrium
+Regulation of T cell activation by CD28 family,0.044383641383406,0.0467655721064985,187,Equilibrium
+Regulation of TLR by endogenous ligand,-0.0176729916665444,0.0440600836675704,19,Equilibrium
+Regulation of TNFR1 signaling,0.0120262926021702,-0.0333194825712793,41,Equilibrium
+Regulation of TP53 Activity,0.00620940656045951,0.00647981611924026,151,Equilibrium
+Regulation of TP53 Activity through Acetylation,0.0317884881876783,-0.0306184774877006,27,Equilibrium
+Regulation of TP53 Activity through Methylation,-0.00707794630634509,-0.0226448969666968,18,Equilibrium
+Regulation of TP53 Activity through Phosphorylation,-0.00732304688560432,0.0271647359636478,88,Equilibrium
+Regulation of TP53 Degradation,0.025157364360221,-0.0403434435281496,35,Equilibrium
+Regulation of TP53 Expression and Degradation,0.030007102505184,-0.0492191025262384,36,Equilibrium
+Regulation of actin dynamics for phagocytic cup formation,0.0422943059238238,0.024142570446506,60,Equilibrium
+Regulation of activated PAK-2p34 by proteasome mediated degradation,0.0658670155260449,-0.112721370498582,35,Decoupled
+Regulation of beta-cell development,0.0729758828304704,0.0355300626744367,33,Equilibrium
+Regulation of cholesterol biosynthesis by SREBP (SREBF),0.0353817096047926,0.0999621812341779,53,Equilibrium
+Regulation of endogenous retroelements,0.0399571609240276,0.0693669312689225,70,Equilibrium
+Regulation of endogenous retroelements by KRAB-ZFP proteins,0.0220193447432227,0.0578457194804518,38,Equilibrium
+Regulation of endogenous retroelements by Piwi-interacting RNAs (piRNAs),0.0690169986416635,0.0656491951765928,37,Equilibrium
+Regulation of expression of SLITs and ROBOs,0.0680071263195412,0.0005317236937521,148,Equilibrium
+Regulation of gene expression in beta cells,0.0376682883555138,0.0249335814623206,16,Equilibrium
+Regulation of insulin secretion,0.0322832006442519,0.0103426287651377,71,Equilibrium
+Regulation of lipid metabolism by PPARalpha,0.013357608628182,0.0356580726499064,114,Equilibrium
+Regulation of mRNA stability by proteins that bind AU-rich elements,0.0573985494386197,-0.013296256844266,72,Equilibrium
+Regulation of mitotic cell cycle,0.0425387258964932,-0.00463569359789317,70,Equilibrium
+Regulation of necroptotic cell death,-0.010668307721964,-0.0394563637931313,29,Equilibrium
+Regulation of ornithine decarboxylase (ODC),0.0760670282144526,0.0381019467662182,34,Equilibrium
+Regulation of pyruvate dehydrogenase (PDH) complex,-0.0456072084063758,0.0252901370296106,15,Equilibrium
+Regulation of pyruvate metabolism,0.00458166225439657,0.0147968095755138,32,Equilibrium
+Regulation of signaling by CBL,0.0130108891348029,-0.0700887567829533,21,Equilibrium
+Removal of the Flap Intermediate from the C-strand,-0.0410536265713563,0.000168736049156277,17,Equilibrium
+Reproduction,0.00200430674604145,0.0217473341567944,78,Equilibrium
+Resolution of AP sites via the multiple-nucleotide patch replacement pathway,-0.0493196758954007,-0.00935019254151015,23,Equilibrium
+Resolution of Abasic Sites (AP sites),-0.0498453977311694,-0.00958915875541368,31,Equilibrium
+Resolution of D-Loop Structures,-0.0667958264802057,-0.0141635450419626,30,Equilibrium
+Resolution of D-loop Structures through Holliday Junction Intermediates,-0.0666331034186558,-0.0141071437769259,29,Equilibrium
+Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA),-0.0674980242092933,-0.00992299936987927,24,Equilibrium
+Resolution of Sister Chromatid Cohesion,-3.260069888426e-05,0.0621464700025616,113,Equilibrium
+Respiratory Syncytial Virus Infection Pathway,0.0162758526514999,0.018124997527167,111,Equilibrium
+Respiratory electron transport,-0.0439260691212899,-0.0203130181293301,124,Equilibrium
+Respiratory syncytial virus (RSV) attachment and entry,0.00599223078854754,-0.0423041806443053,23,Equilibrium
+"Respiratory syncytial virus (RSV) genome replication, transcription and translation",0.107305233245283,-0.0302435254844357,17,Equilibrium
+Response of EIF2AK4 (GCN2) to amino acid deficiency,0.0463510000985664,0.0805121937161751,96,Equilibrium
+Response of Mtb to phagocytosis,0.0140057656815236,-0.0116133808198425,22,Equilibrium
+Response of endothelial cells to shear stress,0.0229680997825892,0.0227273275350662,84,Equilibrium
+Response to elevated platelet cytosolic Ca2+,0.00399994581681921,-0.00740842329896745,113,Equilibrium
+Retinoid metabolism and transport,0.000478465727543806,0.0632586875626649,36,Equilibrium
+Retrograde transport at the Trans-Golgi-Network,-0.00885338840517202,-0.0164737747114412,46,Equilibrium
+Rev-mediated nuclear export of HIV RNA,0.00213274095124173,0.257801620048072,31,Equilibrium
+Ribosomal scanning and start codon recognition,0.066640929545885,-0.0257997342999475,55,Equilibrium
+Ribosome Quality Control (RQC) complex extracts and degrades nascent peptide,0.0635664790851331,0.00722460366519882,97,Equilibrium
+Ribosome-associated quality control,0.0622433954237397,0.0235957368996442,135,Equilibrium
+Role of phospholipids in phagocytosis,0.0298400186143704,0.0877306485214399,19,Equilibrium
+S Phase,0.0288934521906835,0.00502239795268259,141,Equilibrium
+SARS-CoV-1 Infection,0.0295594313645326,0.0325660324939792,126,Equilibrium
+SARS-CoV-1 activates/modulates innate immune responses,-0.00591266477090776,0.0279689520323125,33,Equilibrium
+SARS-CoV-1 modulates host translation machinery,0.0602347540307144,-0.0456114198126513,34,Decoupled
+SARS-CoV-1 targets host intracellular signalling and regulatory pathways,0.0366939282278399,0.0826882521524629,15,Equilibrium
+SARS-CoV-1-host interactions,0.0291412493125127,0.0535810830829143,85,Equilibrium
+SARS-CoV-2 activates/modulates innate and adaptive immune responses,-0.000973121947451569,0.0503193388337822,108,Equilibrium
+SARS-CoV-2 modulates host translation machinery,0.0516522155420847,0.0627826891407378,45,Equilibrium
+SARS-CoV-2-host interactions,0.0132855323948934,0.0509011639315043,177,Equilibrium
+SCF(Skp2)-mediated degradation of p27/p21,0.049480293511621,-0.023081941199025,48,Equilibrium
+SCF-beta-TrCP mediated degradation of Emi1,0.0570627790598082,-0.146042142177206,40,Equilibrium
+SHC-mediated cascade:FGFR1,0.0351253322968448,-0.0462238745649807,18,Equilibrium
+SHC-mediated cascade:FGFR2,0.0498588506302714,-0.0778929718574719,18,Equilibrium
+SHC-mediated cascade:FGFR4,0.0205695346392105,-0.0677172793385289,16,Equilibrium
+SHC1 events in ERBB2 signaling,0.00597674772378095,-0.0474750562448688,21,Equilibrium
+SLC transporter disorders,-0.0172056875274159,0.00339072359432095,78,Equilibrium
+SLC-mediated transmembrane transport,-0.00419637109459975,-0.017796639489824,172,Equilibrium
+SLC-mediated transport of amino acids,-0.0140610126887428,-0.0207086351778384,27,Equilibrium
+SLC-mediated transport of inorganic anions,-0.0196929394146424,-0.0492947393384593,28,Equilibrium
+SLC-mediated transport of organic anions,-0.0119390964074452,-0.0216620145124938,21,Equilibrium
+SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription,0.0352275909422951,-0.0301540148910204,34,Equilibrium
+SPOP-mediated proteasomal degradation of PD-L1(CD274),0.0720579296452338,-0.059634100762374,44,Decoupled
+SRP-dependent cotranslational protein targeting to membrane,0.0443402381044631,0.0391645387562459,108,Equilibrium
+SUMO E3 ligases SUMOylate target proteins,0.0388647660259689,0.0297878102973285,152,Equilibrium
+SUMOylation,0.0402524743632572,0.0279748540504543,158,Equilibrium
+SUMOylation of DNA damage response and repair proteins,0.0125665563387587,0.0193549553898304,68,Equilibrium
+SUMOylation of DNA methylation proteins,0.0418907198398385,0.102146313860377,15,Equilibrium
+SUMOylation of DNA replication proteins,0.00542657041683653,0.190780612329443,42,Equilibrium
+SUMOylation of RNA binding proteins,0.0158138453959476,0.130587480828398,42,Equilibrium
+SUMOylation of SUMOylation proteins,0.0121976166341302,0.125762360114987,31,Equilibrium
+SUMOylation of chromatin organization proteins,0.0271210219440835,0.101618761964485,52,Equilibrium
+SUMOylation of intracellular receptors,0.033399986123179,0.0264576612875088,28,Equilibrium
+SUMOylation of transcription cofactors,0.094193473522473,0.118464760566819,40,Topology-Amplified
+SUMOylation of transcription factors,0.0646084933163086,-0.0562611310698419,18,Decoupled
+SUMOylation of ubiquitinylation proteins,0.000216530520115812,0.106245225459246,35,Equilibrium
+SWI/SNF chromatin remodelers,0.0833206752839712,0.112362173965101,29,Topology-Amplified
+Scavenging by Class A Receptors,0.00173646027239417,0.00563466535580368,18,Equilibrium
+Sealing of the nuclear envelope (NE) by ESCRT-III,-0.0105492368033195,0.0187130574792483,27,Equilibrium
+Selective autophagy,0.0218799099034297,0.0342510928783061,80,Equilibrium
+Selenoamino acid metabolism,0.0391842037103789,0.0517107040126476,102,Equilibrium
+Selenocysteine synthesis,0.0511711411669746,0.0612312009554737,88,Equilibrium
+Sema3A PAK dependent Axon repulsion,-0.00199442883680948,-0.0448576967051191,16,Equilibrium
+Sema4D in semaphorin signaling,0.0260743054889834,-0.0562364284585256,24,Equilibrium
+Sema4D induced cell migration and growth-cone collapse,0.0185516474388943,0.0413441694068388,20,Equilibrium
+Semaphorin interactions,0.0238768406356498,-0.0244949566784617,63,Equilibrium
+Senescence-Associated Secretory Phenotype (SASP),0.0195249150821109,0.0103484902588933,47,Equilibrium
+"Sensory perception of sweet, bitter, and umami (glutamate) taste",-0.00788217445514726,0.0180431447161896,19,Equilibrium
+Sensory perception of taste,-0.00805203503250876,0.0135906585064399,23,Equilibrium
+Sensory processing of sound,0.0355377639106026,0.0514817584311836,59,Equilibrium
+Sensory processing of sound by inner hair cells of the cochlea,0.0387277758059439,0.0588662221791843,53,Equilibrium
+Sensory processing of sound by outer hair cells of the cochlea,0.00814984400096734,0.0515790804115434,40,Equilibrium
+Separation of Sister Chromatids,0.015915254425789,0.054653352302614,160,Equilibrium
+Serotonin Neurotransmitter Release Cycle,0.0735015335277543,0.082359050399155,16,Topology-Amplified
+Sialic acid metabolism,-0.0203740295062664,-0.0195880976905634,26,Equilibrium
+Signal amplification,-0.00166752009238667,0.053077958837325,31,Equilibrium
+Signal transduction by L1,0.0238170090721358,0.0445319435865024,20,Equilibrium
+Signaling by ALK,0.0613124080433948,0.0544301462361139,27,Equilibrium
+Signaling by ALK fusions and activated point mutants,0.0304650847032366,0.0219371298324888,85,Equilibrium
+Signaling by ALK in cancer,0.0304650847032366,0.0219371298324888,85,Equilibrium
+Signaling by Activin,0.0406297740386216,-0.0301797821786887,15,Equilibrium
+Signaling by BMP,0.0338368595247969,0.0694455486693264,29,Equilibrium
+Signaling by BRAF and RAF1 fusions,0.0237333075714681,0.0269729621108077,62,Equilibrium
+Signaling by CSF1 (M-CSF) in myeloid cells,0.0215633296873173,-0.068103589697876,29,Equilibrium
+Signaling by CSF3 (G-CSF),0.0413643580739108,-0.0393163857784327,26,Equilibrium
+Signaling by CTNNB1 phospho-site mutants,0.0079912004459668,0.0589292722167521,15,Equilibrium
+Signaling by EGFR,-0.00601100597455088,-0.014127011153383,50,Equilibrium
+Signaling by EGFR in Cancer,-0.0240038646356931,-0.0295343408165768,24,Equilibrium
+Signaling by EGFRvIII in Cancer,-0.0332413875110024,-0.054997807705385,15,Buffered
+Signaling by ERBB2,0.00627277200081021,-0.0415587442559637,47,Equilibrium
+Signaling by ERBB2 ECD mutants,-0.0305983540888572,-0.051571282586692,15,Buffered
+Signaling by ERBB2 KD Mutants,-0.0152401959096804,-0.0502941945925879,23,Equilibrium
+Signaling by ERBB2 TMD/JMD mutants,-0.0215819895830441,-0.0528097193577904,20,Equilibrium
+Signaling by ERBB2 in Cancer,-0.0121026157478018,-0.0522912481818983,24,Equilibrium
+Signaling by ERBB4,0.0155768523455591,-0.046728667096315,55,Equilibrium
+Signaling by Erythropoietin,0.00719358333874134,-0.0325905548200556,24,Equilibrium
+Signaling by FGFR,0.0255873285931735,-0.0326696274168214,79,Equilibrium
+Signaling by FGFR in disease,0.0286007589191597,-0.0585158649035431,55,Equilibrium
+Signaling by FGFR1,0.0264476718531844,-0.0420716192107476,46,Equilibrium
+Signaling by FGFR1 in disease,0.0486389912083753,-0.0178751237645703,34,Equilibrium
+Signaling by FGFR2,0.0276908644312777,-0.0475091316380682,65,Equilibrium
+Signaling by FGFR2 IIIa TM,-0.0219679973100159,-0.0766139535654969,17,Equilibrium
+Signaling by FGFR2 in disease,0.0146277758743754,-0.0717809781737169,37,Equilibrium
+Signaling by FGFR3,0.0173420852001224,-0.0434221959081147,36,Equilibrium
+Signaling by FGFR3 in disease,0.0263032465104704,-0.0851532350423672,18,Equilibrium
+Signaling by FGFR4,0.0172143730794961,-0.0444086362230358,37,Equilibrium
+Signaling by FLT3 ITD and TKD mutants,0.0252107427191491,-0.0299138375906639,16,Equilibrium
+Signaling by FLT3 fusion proteins,0.00967076225129425,-0.0397340194755928,19,Equilibrium
+Signaling by GSK3beta mutants,0.0079912004459668,0.0589292722167521,15,Equilibrium
+Signaling by Hedgehog,0.0194685534017564,0.0408199611089198,124,Equilibrium
+Signaling by Hippo,0.0161108916444928,0.102295333252659,20,Equilibrium
+Signaling by Insulin receptor,0.00727591884944979,-0.0174607202502978,74,Equilibrium
+Signaling by KIT in disease,0.0409248074721378,-0.12135053384104,20,Equilibrium
+Signaling by Ligand-Responsive EGFR Variants in Cancer,-0.0339549420496335,-0.0314770989905105,19,Equilibrium
+Signaling by MET,0.0107087568219794,-0.0187043176730647,75,Equilibrium
+Signaling by NODAL,0.0411540285479394,-0.0198872139842189,16,Equilibrium
+Signaling by NOTCH,0.0600723343385651,0.012722925364082,153,Equilibrium
+Signaling by NOTCH1,0.0677102195239989,-0.00682903440752275,66,Equilibrium
+Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer,0.0797762932117978,-0.00616119671890724,51,Equilibrium
+Signaling by NOTCH1 PEST Domain Mutants in Cancer,0.0797762932117978,-0.00616119671890724,51,Equilibrium
+Signaling by NOTCH1 in Cancer,0.0797762932117978,-0.00616119671890724,51,Equilibrium
+Signaling by NOTCH2,0.0786594363918371,-0.032543251530911,26,Equilibrium
+Signaling by NOTCH3,0.0631119300811754,-0.00648193200971719,43,Equilibrium
+Signaling by NOTCH4,0.0753776174855198,-0.00952682878978452,68,Equilibrium
+Signaling by NTRK1 (TRKA),0.0288528706991398,-0.0125385905594297,106,Equilibrium
+Signaling by NTRK2 (TRKB),0.0245864811110924,-0.0683584458449642,25,Equilibrium
+Signaling by NTRK3 (TRKC),-0.0174017477400123,-0.0156991633964516,17,Equilibrium
+Signaling by NTRKs,0.0284268026369669,-0.0184022414678751,125,Equilibrium
+Signaling by Non-Receptor Tyrosine Kinases,0.00478698336626182,-0.0298848565312396,52,Equilibrium
+Signaling by Nuclear Receptors,0.0248916655247679,0.017945717073283,209,Equilibrium
+Signaling by PDGF,0.0355625104838952,-0.0207583376204658,55,Equilibrium
+Signaling by PDGFR in disease,0.0263761525970321,-0.0167099008915913,18,Equilibrium
+Signaling by PTK6,0.00478698336626182,-0.0298848565312396,52,Equilibrium
+Signaling by RAF1 mutants,0.0173258569527663,0.0265488269853911,40,Equilibrium
+Signaling by RAS mutants,0.0118328668564822,0.0213958391903105,43,Equilibrium
+Signaling by ROBO receptors,0.0581786488507847,0.0106936154170711,191,Equilibrium
+Signaling by Retinoic Acid,0.0132911874914368,-0.0159340926889181,33,Equilibrium
+Signaling by SCF-KIT,0.0246071200183656,0.010050477098386,39,Equilibrium
+Signaling by TGF-beta Receptor Complex,0.0359646859644373,0.00265168457575685,90,Equilibrium
+Signaling by TGFB family members,0.044618769744833,0.0124363307983904,146,Equilibrium
+Signaling by TGFBR3,0.0635743685568379,0.0555296206695179,42,Equilibrium
+Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R),0.0235491446191638,-0.00978255916397581,46,Equilibrium
+Signaling by VEGF,0.0153191496329277,-0.0264667702341871,100,Equilibrium
+Signaling by WNT,0.0523071631372661,0.0315544201811786,243,Equilibrium
+Signaling by WNT in cancer,0.0190032158619956,-0.019959087411405,33,Equilibrium
+Signaling by cytosolic FGFR1 fusion mutants,0.0759758894012408,0.020276021051944,16,Equilibrium
+Signaling by high-kinase activity BRAF mutants,0.0178004860690343,0.00546917103984022,35,Equilibrium
+Signaling by moderate kinase activity BRAF mutants,0.0118328668564822,0.0213958391903105,43,Equilibrium
+"Signaling by phosphorylated juxtamembrane, extracellular and kinase domain KIT mutants",0.0409248074721378,-0.12135053384104,20,Equilibrium
+Signaling by the B Cell Receptor (BCR),0.0578166283165268,-0.0116733783119089,94,Equilibrium
+Signaling downstream of RAS mutants,0.0118328668564822,0.0213958391903105,43,Equilibrium
+Signalling to ERKs,0.0160169133123916,0.00815541568820646,33,Equilibrium
+Signalling to RAS,0.00547106613852863,0.00125688473488479,19,Equilibrium
+Smooth Muscle Contraction,-0.0276253518134092,-0.0347622894934948,40,Equilibrium
+Somitogenesis,0.0821444456944613,0.0297418810159653,41,Equilibrium
+Specification of the neural plate border,0.0555747056041935,-0.00328716280533278,16,Equilibrium
+Sphingolipid de novo biosynthesis,0.0107523825993176,-0.0374805118257136,28,Equilibrium
+Sphingolipid metabolism,-0.00702935688613949,-0.0370766340718568,80,Equilibrium
+Spry regulation of FGF signaling,0.0102835209647108,-0.0654934650647061,16,Equilibrium
+Stabilization of p53,0.0528947560587811,-0.110857668028005,41,Equilibrium
+Stimuli-sensing channels,-0.0117138345137159,-0.00978730431459548,76,Equilibrium
+Striated Muscle Contraction,-0.0355849228764166,-0.0164042766021024,31,Equilibrium
+Sulfur amino acid metabolism,-0.0377650185146243,-0.00944492317683046,19,Equilibrium
+Surfactant metabolism,-0.0267407719275045,0.0184533732614033,17,Equilibrium
+Switching of origins to a post-replicative state,0.0265953571545657,0.021441637025513,74,Equilibrium
+Synaptic adhesion-like molecules,0.0632402018307718,-0.0207114839412246,19,Equilibrium
+Syndecan interactions,-0.00236284415195442,-0.0315181927944231,26,Equilibrium
+Synthesis of DNA,0.0105655206081313,0.0453630964446737,102,Equilibrium
+Synthesis of IP3 and IP4 in the cytosol,0.0185104046837864,-0.00889084656432471,23,Equilibrium
+Synthesis of Leukotrienes (LT) and Eoxins (EX),-0.0122844849223716,-0.0390262440062014,15,Equilibrium
+Synthesis of PA,-0.00277570406431026,-0.0570943804022003,24,Equilibrium
+Synthesis of PC,0.0322842892791186,0.0676276825241896,23,Equilibrium
+Synthesis of PIPs at the plasma membrane,0.00649490216367264,-0.0062145793871078,50,Equilibrium
+Synthesis of active ubiquitin: roles of E1 and E2 enzymes,0.0898633218980778,-0.018855126112946,29,Equilibrium
+Synthesis of bile acids and bile salts,-0.0294007770689792,0.0110723296515836,32,Equilibrium
+Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol,-0.0328910106567954,0.0118672287724919,22,Equilibrium
+Synthesis of substrates in N-glycan biosythesis,-0.00900817475490697,-0.0473582879530614,54,Equilibrium
+Synthesis of very long-chain fatty acyl-CoAs,0.00036340776610382,-0.0485916082696211,16,Equilibrium
+"Synthesis, secretion, and deacylation of Ghrelin",0.0321186532681273,0.0631428307422967,15,Equilibrium
+"Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1)",0.00915427236675804,0.0173147346020468,18,Equilibrium
+TAK1-dependent IKK and NF-kappa-B activation,0.00185222903589787,0.0246317148261251,41,Equilibrium
+TBC/RABGAPs,0.0364148233859707,0.0323446758321578,41,Equilibrium
+TCF dependent signaling in response to WNT,0.0584908432181886,0.0243227811252363,148,Equilibrium
+TCR signaling,0.0379830585851184,0.0602537574038431,93,Equilibrium
+TGF-beta receptor signaling activates SMADs,0.021668269079009,-0.0289203626041151,45,Equilibrium
+TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition),-0.0242161844787595,0.0102534229575646,16,Equilibrium
+TGFBR3 expression,0.0878924265879124,0.103277048105463,22,Topology-Amplified
+"TICAM1, RIP1-mediated IKK complex recruitment",0.0119827720831491,0.0144036775858856,17,Equilibrium
+TNF receptor superfamily (TNFSF) members mediating non-canonical NF-kB pathway,0.0463043960882639,-0.0527874319649623,15,Equilibrium
+TNF signaling,0.0144545314078341,-0.0151265693665331,50,Equilibrium
+TNFR1-induced NF-kappa-B signaling pathway,-0.00628546767435611,-0.030382551609867,30,Equilibrium
+TNFR1-induced proapoptotic signaling,-0.0155507440843314,-0.0301934303462931,23,Equilibrium
+TNFR2 non-canonical NF-kB pathway,0.0397638380906412,0.000782136231716358,79,Equilibrium
+TNFs bind their physiological receptors,0.0262510091881708,0.042895780372295,24,Equilibrium
+TP53 Regulates Metabolic Genes,0.0237987828541534,0.0365232800288672,75,Equilibrium
+TP53 Regulates Transcription of Cell Cycle Genes,0.0424330341438015,0.0489146162806528,47,Equilibrium
+TP53 Regulates Transcription of Cell Death Genes,0.000231985721717126,0.0253646722582042,37,Equilibrium
+TP53 Regulates Transcription of DNA Repair Genes,-0.0360448252590376,0.0156148855516897,56,Equilibrium
+TP53 Regulates Transcription of Genes Involved in Cytochrome C Release,0.0130560231298966,0.0926894957032992,17,Equilibrium
+TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest,0.0315418540828557,0.0655639467838623,18,Equilibrium
+TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain,0.0550985152987279,0.0253073586937296,19,Equilibrium
+TRAF6 mediated IRF7 activation,0.00267096247725498,0.0963889489242553,24,Equilibrium
+TRAF6 mediated NF-kB activation,-0.00183406545554996,0.051779916194287,21,Equilibrium
+TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation,0.00609559790037218,0.00122676260005677,96,Equilibrium
+TRAF6-mediated induction of TAK1 complex within TLR4 complex,-0.00044269958122606,0.00550061876019704,16,Equilibrium
+TRIF (TICAM1)-mediated TLR4 signaling,0.0094342018946135,0.0119760736015976,103,Equilibrium
+TRP channels,-0.0281519438319743,-0.02231090791009,21,Equilibrium
+Tat-mediated HIV elongation arrest and recovery,-0.0116949718309107,0.0262302446669394,26,Equilibrium
+Tat-mediated elongation of the HIV-1 transcript,-0.0228404897866825,0.0378280750877924,37,Equilibrium
+Telomere C-strand (Lagging Strand) Synthesis,-0.0420057336494707,0.0170592660270527,30,Equilibrium
+Telomere Extension By Telomerase,0.0110324199342303,0.0909523221620619,23,Equilibrium
+Telomere Maintenance,-0.0198458311081395,0.0142924691474243,61,Equilibrium
+Termination of translesion DNA synthesis,-0.0471299715551338,0.00161029148421801,29,Equilibrium
+The NLRP3 inflammasome,-0.0209084801404807,0.0654056369487183,15,Equilibrium
+The canonical retinoid cycle in rods (twilight vision),-0.0358428217028713,-0.0252214935724424,17,Equilibrium
+The phototransduction cascade,-0.0187792744086846,0.0408646597949543,29,Equilibrium
+The role of GTSE1 in G2/M progression after G2 checkpoint,0.0357881423316312,0.0368226488782865,60,Equilibrium
+The role of Nef in HIV-1 replication and disease pathogenesis,0.0338178657307926,0.017069395295783,26,Equilibrium
+Thrombin signalling through proteinase activated receptors (PARs),0.00477058114493021,0.0383932039071955,30,Equilibrium
+Thromboxane signalling through TP receptor,0.000707982089454665,0.0423887393176234,22,Equilibrium
+Tie2 Signaling,0.00274221500991068,-0.0263433815148098,18,Equilibrium
+Tight junction interactions,0.0389506965300704,-0.027189756133435,20,Equilibrium
+Toll Like Receptor 10 (TLR10) Cascade,0.00944869327548324,0.000135109163647985,89,Equilibrium
+Toll Like Receptor 2 (TLR2) Cascade,0.0049036337746092,0.0107768279219067,107,Equilibrium
+Toll Like Receptor 3 (TLR3) Cascade,0.0108316678428952,0.00980603635211891,99,Equilibrium
+Toll Like Receptor 4 (TLR4) Cascade,0.00478105012873385,0.0192398165932778,135,Equilibrium
+Toll Like Receptor 5 (TLR5) Cascade,0.00944869327548324,0.000135109163647985,89,Equilibrium
+Toll Like Receptor 7/8 (TLR7/8) Cascade,0.00439383368985663,0.00318341836620485,100,Equilibrium
+Toll Like Receptor 9 (TLR9) Cascade,0.00283817245653876,0.00433751161106124,102,Equilibrium
+Toll Like Receptor TLR1:TLR2 Cascade,0.0049036337746092,0.0107768279219067,107,Equilibrium
+Toll Like Receptor TLR6:TLR2 Cascade,0.00565640142310774,0.0090216436667705,105,Equilibrium
+Toll-like Receptor Cascades,0.000330142442593939,0.020993311652317,153,Equilibrium
+Trafficking of AMPA receptors,0.0602547260601363,-0.0968112811539399,28,Decoupled
+Trafficking of GluR2-containing AMPA receptors,0.0938507640162426,-0.0604984107999092,15,Decoupled
+Transcription of E2F targets under negative control by DREAM complex,0.0495533441959863,-0.0221458272397528,18,Equilibrium
+Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1,0.0645645794917576,0.00565867703675789,16,Equilibrium
+Transcription of the HIV genome,-0.0134697979319489,0.0196645182559553,65,Equilibrium
+Transcription-Coupled Nucleotide Excision Repair (TC-NER),-0.0150397793827602,0.0219049005053154,75,Equilibrium
+Transcriptional Regulation by E2F6,0.0545417477937267,0.0262514027417618,32,Equilibrium
+Transcriptional Regulation by MECP2,0.0670589014675261,0.0393568791186301,58,Equilibrium
+Transcriptional Regulation by NPAS4,0.0905117342414887,0.101194999939816,31,Topology-Amplified
+Transcriptional Regulation by VENTX,0.0581866441309879,0.0329729614815169,35,Equilibrium
+Transcriptional activation of mitochondrial biogenesis,0.0475687480001238,0.0823277669880045,49,Equilibrium
+Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer,0.0583715193222545,-0.0252046289244658,49,Equilibrium
+Transcriptional and post-translational regulation of MITF-M expression and activity,0.0595163256495231,0.0437950851161746,51,Equilibrium
+Transcriptional regulation by RUNX1,0.06688993975687,0.0437172026505677,152,Equilibrium
+Transcriptional regulation by RUNX2,0.0604074321376136,-0.0175535371393576,95,Equilibrium
+Transcriptional regulation by RUNX3,0.0633232775590013,-0.0294741231488796,76,Equilibrium
+Transcriptional regulation by small RNAs,0.0250794854780831,-0.219478966616319,17,Equilibrium
+Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors,0.0500325218565425,-0.0185523212262264,30,Equilibrium
+Transcriptional regulation of brown and beige adipocyte differentiation,0.0446780678504068,0.00174580988830284,28,Equilibrium
+Transcriptional regulation of brown and beige adipocyte differentiation by EBF2,0.0446780678504068,0.00174580988830284,28,Equilibrium
+Transcriptional regulation of granulopoiesis,0.0322462481003947,0.0255422944408824,27,Equilibrium
+Transcriptional regulation of pluripotent stem cells,0.0511666036714381,0.0358323692246411,26,Equilibrium
+Transcriptional regulation of white adipocyte differentiation,0.029046669311014,0.0214836316446533,78,Equilibrium
+Transferrin endocytosis and recycling,-0.0293630999772621,0.0503561822210352,29,Equilibrium
+Translation initiation complex formation,0.0723803779063992,-0.0408015055427845,55,Equilibrium
+Translation of Structural Proteins_9683701,0.0141937558039755,-0.0027696174771208,26,Equilibrium
+Translation of Structural Proteins_9694635,0.020481121831375,-0.0162572480123585,55,Equilibrium
+Translesion Synthesis by POLH,-0.0114641027305602,0.0497934393665449,18,Equilibrium
+Translesion synthesis by POLI,-0.0343802618529992,0.0266399364314453,17,Equilibrium
+Translesion synthesis by POLK,-0.0338821561531927,0.0253524673442935,17,Equilibrium
+Translesion synthesis by REV1,-0.0321883420272448,0.0240911786339148,16,Equilibrium
+Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template,-0.0290898322535667,0.0257850448719733,35,Equilibrium
+Translocation of SLC2A4 (GLUT4) to the plasma membrane,0.0167931871231868,0.0171763327572278,66,Equilibrium
+Transmission across Chemical Synapses,0.0289212482640283,-0.0107794217110074,236,Equilibrium
+Transport of Mature Transcript to Cytoplasm,0.015451083552045,0.0501892472292392,75,Equilibrium
+Transport of Mature mRNA Derived from an Intronless Transcript,-0.014028905640626,0.141372789908433,38,Equilibrium
+Transport of Mature mRNA derived from an Intron-Containing Transcript,0.0228004167056977,0.0568318606852152,66,Equilibrium
+Transport of Mature mRNAs Derived from Intronless Transcripts,-0.0125950478052898,0.11477630921076,39,Equilibrium
+Transport of Ribonucleoproteins into the Host Nucleus,-0.00667633323339987,0.202252997799808,28,Equilibrium
+Transport of connexons to the plasma membrane,-0.0280660481088764,0.234269505091762,16,Equilibrium
+Transport of the SLBP Dependant Mature mRNA,-0.0029635559841125,0.1264821168452,32,Equilibrium
+Transport of the SLBP independent Mature mRNA,-0.00441049488480914,0.153030317179546,31,Equilibrium
+"Transport of vitamins, nucleosides, and related molecules",-0.00880953196256427,-0.0071290765223953,20,Equilibrium
+Transport to the Golgi and subsequent modification,0.0193724726355496,-0.0134686527077628,160,Equilibrium
+Triglyceride catabolism,-0.0317604272095236,0.0109433265794425,21,Equilibrium
+Triglyceride metabolism,-0.0327609739820127,0.006529323476509,32,Equilibrium
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",-0.0226564475996783,-0.256536663115518,16,Equilibrium
+"Turbulent (oscillatory, disturbed) flow shear stress activates signaling by PIEZO1 and integrins in endothelial cells",0.017542379601495,0.0837789325408397,29,Equilibrium
+UCH proteinases,0.05051894284826,0.0118325753676001,69,Equilibrium
+Ub-specific processing proteases,0.0344353057180501,0.014101525358906,137,Equilibrium
+Ubiquitin-Mediated Degradation of Phosphorylated Cdc25A,0.0509910807115455,-0.0122379279056858,49,Equilibrium
+Ubiquitin-dependent degradation of Cyclin D,0.0629148425573961,-0.116858810965739,37,Decoupled
+"Unblocking of NMDA receptors, glutamate binding and activation",0.057743244039594,-0.0333220717718559,20,Equilibrium
+Unfolded Protein Response (UPR),-0.0156659918302866,-0.0184628004824501,81,Equilibrium
+Uptake and actions of bacterial toxins,0.039220030564978,-0.0189967065174335,28,Equilibrium
+VEGFA-VEGFR2 Pathway,0.0146858623955806,-0.0195156060533066,92,Equilibrium
+VEGFR2 mediated cell proliferation,0.0291580452823738,-0.0135778510250848,16,Equilibrium
+VEGFR2 mediated vascular permeability,0.0195176188669509,-0.0453052025875332,26,Equilibrium
+VLDLR internalisation and degradation,0.0453844830565082,-0.0323857447339978,16,Equilibrium
+Vasopressin regulates renal water homeostasis via Aquaporins,0.00488845492373352,0.0257188477400359,40,Equilibrium
+Vif-mediated degradation of APOBEC3G,0.0677683913288323,-0.0890354376042614,37,Decoupled
+Viral Messenger RNA Synthesis,-0.024723893659535,0.000620438001417074,39,Equilibrium
+Viral mRNA Translation,0.0539495032121524,0.126525669404798,86,Equilibrium
+Visual phototransduction,-0.0129626396204158,0.0362013573568959,78,Equilibrium
+Vitamin B5 (pantothenate) metabolism,-0.0126256349351455,-0.00936843342649667,17,Equilibrium
+Voltage gated Potassium channels,-0.00883713349948133,0.00567445795210288,38,Equilibrium
+Vpr-mediated nuclear import of PICs,-0.0093383173195356,0.127265491681117,30,Equilibrium
+Vpu mediated degradation of CD4,0.0579729692867644,-0.0979886982978313,37,Equilibrium
+VxPx cargo-targeting to cilium,0.00914782885329933,0.0348263352347287,20,Equilibrium
+WNT ligand biogenesis and trafficking,0.0285402240466621,-0.00187669785422208,26,Equilibrium
+WNT5A-dependent internalization of FZD4,0.108030773256559,-0.120557103092263,15,Decoupled
+XBP1(S) activates chaperone genes,-0.0110853508064892,0.0110009496830798,41,Equilibrium
+Xenobiotics,-0.0320521817567026,0.0204522461519323,19,Equilibrium
+ZBP1(DAI) mediated induction of type I IFNs,-0.00239476225308711,0.0370537696396338,18,Equilibrium
+ZNF598 and the Ribosome-associated Quality Trigger (RQT) complex dissociate a ribosome stalled on a no-go mRNA,0.0546838658185048,0.0653528358664287,92,Equilibrium
+Zinc transporters,0.0299870336880278,0.0171853063121772,15,Equilibrium
+activated TAK1 mediates p38 MAPK activation,0.0236246795120744,0.00742972081017327,22,Equilibrium
+mRNA 3'-end processing,0.0613411061407359,-0.0288993648256729,144,Equilibrium
+mRNA Capping,-0.0382917107624866,0.0238383449136751,27,Equilibrium
+mRNA Polyadenylation,0.0639885220333875,-0.0482103419329597,121,Decoupled
+mRNA Splicing,0.0458804742222897,0.0144747941617,194,Equilibrium
+mRNA Splicing - Major Pathway,0.0485721748890205,0.00949681403013751,187,Equilibrium
+mRNA Splicing - Minor Pathway,0.0247050522512653,0.0115046112460552,47,Equilibrium
+mTORC1-mediated signalling,0.0491537958490678,0.103154993941099,24,Equilibrium
+p130Cas linkage to MAPK signaling for integrins,0.00492688944659663,0.0834668365419356,15,Equilibrium
+p53-Dependent G1 DNA Damage Response,0.0446541317097662,-0.0112994322648736,50,Equilibrium
+p53-Dependent G1/S DNA damage checkpoint,0.0446541317097662,-0.0112994322648736,50,Equilibrium
+p53-Independent G1/S DNA Damage Checkpoint,0.0509910807115455,-0.0122379279056858,49,Equilibrium
+p75 NTR receptor-mediated signalling,0.0163321847819837,0.00697558575752006,89,Equilibrium
+p75NTR signals via NF-kB,0.0225962302607579,-0.0430681857654793,16,Equilibrium
+rRNA modification in the nucleus and cytosol,-0.0228363774581431,0.00770381910798699,53,Equilibrium
+rRNA processing,0.0042990936724414,0.065581405562473,187,Equilibrium
+rRNA processing in the nucleus and cytosol,0.00723451155328101,0.0666831917762259,178,Equilibrium
+snRNP Assembly,-0.00390282733706146,0.123698432913363,47,Equilibrium
+tRNA Aminoacylation,-0.0472480377269214,-0.0426844912017513,24,Equilibrium
+tRNA modification in the nucleus and cytosol,-0.0341696829427156,-0.0232917632145802,36,Equilibrium
+tRNA processing,-0.0253123236869735,-0.00878250493524982,95,Equilibrium
+tRNA processing in the nucleus,-0.018809859581356,-0.0218994467184007,51,Equilibrium
+trans-Golgi Network Vesicle Budding,0.000330755236101148,0.0273233304728123,68,Equilibrium
